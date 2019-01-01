@@ -1,0 +1,1191 @@
+
+
+
+
+
+
+
+	[image: Page Header]
+
+
+
+
+
+
+
+
+
+	
+							
+				
+	Open Journal Systems
+
+
+	Journal Help
+
+
+			User
+	
+												
+						Username	
+	Password	
+	 Remember me
+	
+
+
+				
+
+						
+
+
+	Journal Content
+
+	
+			
+													Search 
+
+					
+								
+	
+				Search Scope
+				
+
+				All
+Authors
+Title
+Abstract
+Index terms
+Full Text
+
+
+				
+	
+
+
+	
+
+
+	
+
+
+		Browse
+		By Issue
+	By Author
+	By Title
+	Other Journals
+
+
+	
+
+
+
+
+
+
+	Font Size
+	
+
+
+
+
+
+	Current Issue
+	
+	[image: Atom logo]
+	
+
+	
+	[image: RSS2 logo]
+	
+
+	
+	[image: RSS1 logo]
+
+
+
+
+
+	Article Tools
+			
+			[image: ] Abstract
+
+		
+
+				
+			[image: ] Print this article
+		
+
+				
+			[image: ] Indexing metadata
+
+		
+
+				
+			[image: ] How to cite item
+
+		
+
+							
+			[image: ]
+			Email this article (Login required)		
+
+				
+			[image: ]
+			Email the author (Login required)		
+
+		
+
+
+
+	
+					About The Authors
+			
+		
+	
+		Hassan Masum
+								
+Waterloo Institute for Complexity and Innovation		
+Canada	
+
+
+	Hassan Masum is a strategist and Affiliate Researcher at the Waterloo Institute for Complexity and Innovation at the University of Waterloo in Canada.
+
+	
+
+	
+
+		
+	
+		Mark Tovey
+								
+Western University		
+Canada	
+
+
+	Mark Tovey is a Postdoctoral Fellow in the Department of History and in the Centre for Planetary Science and Exploration at Western University in Canada. He is the editor of Collective Intelligence: Creating a Prosperous World at Peace, and co-editor (with Hassan Masum) of The Reputation Society: How Online Opinions Are Reshaping the Offline World. 
+
+	
+
+	
+	
+
+			
+
+			
+
+
+
+
+
+		Home
+	About
+	Login
+	Register
+	Search
+	Current
+	Archives
+	Announcements
+	SUBMISSIONS
+
+
+
+
+
+	Home >
+	Volume 23, Number 2 - 5 February 2018 >	Masum
+
+
+
+
+
+
+			
+
+
+
+
+
+[image: First Monday]
+
+
+
+
+
+
+[image: Goals for algorithmic genies by Hassan Masum and Mark Tovey]
+
+
+
+
+
+
+[image: Abstract]
+Algorithmic genies built from growing computational capabilities bring risks like automating well-paying jobs, yet we suggest that if supplied with suitable goals and supporting infrastructure they can help in meeting many human needs. We argue that algorithmic genies can be harnessed to raise the baseline experience of people worldwide (raising the floor), especially if such harnessing is informed by wide consensus and deep evidence. Examples show how algorithmic genies could raise the floor for widely agreed human needs like health, education, and other components of the Social Progress Index. Ensuring that both the least well off and the majority share in the benefits of progress can help to ensure the floor is raised for all (floored progress). Floored progress can apply beyond basic human needs to problems that people across the economic spectrum struggle with (shared floors). We include three tables with illustrative opportunities, and conclude by summarizing the value of raising floors individually and in concert.
+
+
+Contents
+
+Algorithmic genies and their pitfalls: Superpowers without super-wisdom?
+
+Raising the floor: Algorithmically addressing core human needs
+
+When genies matter: Conditions for making an impact
+
+Floored progress: Algorithmic genies for all
+
+Shared floors: Pursuing common goals
+
+Conclusion: Higher floors for higher ceilings
+
+
+ 
+
+ 
+
+[bookmark: p1]Algorithmic genies and their pitfalls: Superpowers without super-wisdom?
+
+
+	“The big question of our time is not ‘Can it be built?’ but ‘Should it be built?’ This places us in an unusual historical moment: our future prosperity depends on the quality of our collective imaginations.” [bookmark: 1a][1]
+
+
+
+There is a striking scene near the end of the 2013 movie Elysium. The twenty-second-century hero penetrates to the heart of the orbiting enclave of the few wealthy Citizens and reboots the robot servants’ operating system to redefine the teeming masses on Earth below as Citizens — and thus entitled to an equal claim on robot services. Within seconds, overwhelming suffering is detected and a fleet of humanitarian robots begins to deploy back to Earth.
+
+
+A happy ending, and yet no physical limitations blocked robot servants helping everyone before. What, then, was the barrier? What might have motivated people to change those few lines of software decades earlier?
+
+
+Or to put the underlying challenge more generally, what would constitute technologically advanced futures that most of us would want to live in and work toward? What constitutes “progress”, and who should benefit from it?
+
+
+As a prelude to tackling these questions, let’s review our advancing computational powers. The Internet began as a digital post office. Now it functions as oracle, merchant, teacher, matchmaker, and spy. [bookmark: 2a][2]
+
+
+We see many examples of software doing tasks that were previously the exclusive domain of humans, from translating languages to driving vehicles to engaging in combat. Software’s easy replication may let us copy a digital translator, driver, or soldier almost as easily as copying a digital book or movie.
+
+
+To concretize how algorithmic intellect brings new powers, consider an analogy to fossil fuels and renewable energy. They give each of us the power of many energy servants, which do work for us that people would otherwise have to. When machines wash our clothes or mechanical harvesters reap our grain, we are benefiting from energy servants. They do work that would otherwise have to be done by us — or for us by someone else.
+
+
+Increasingly, we are also served by what might be called “algorithmic servants”. But “servant” implies a level of subservience and beneficence that may not be present, especially if algorithmic intellect exceeds human capabilities or increasingly serves the interests of a minority. A better term, therefore, is algorithmic genies.
+
+
+Like many genies in ancient tales, algorithmic genies wield magical-seeming powers for both good and ill, and what we get from them depends upon what exactly we ask for (Future of Life Institute, 2017). We may question whose orders these algorithmic genies serve, and to what end. But there is no question that these algorithmic genies give us new capabilities.
+
+
+Let’s take the case of healthcare. Diagnostic algorithms linked with medical devices are beginning to help us to monitor well-being, diagnose ailments, and manage our health both with and without physicians. If made widely available, algorithmically driven health technologies could help everyone handle illness and disability with dignity. As the twenty-first century progresses, dependency on an industrial-age model of scarce medical talent could give way to abundant healthcare, with Internet-linked algorithmic genies acting as diagnosticians, specialists, and nutritionists (Topol, 2015; Brigham and Johns, 2012).
+
+
+Examples abound where algorithmic genies can act as low-cost advisors, entertainers, teachers, and so on (Susskind and Susskind, 2015). Consider how many algorithmic genies we employ, and how many more we may use in the future. [bookmark: 3a][3]
+
+
+Like previous technologies, algorithmic genies provide remarkable opportunities to help humanity. Yet as history and observation remind us, technological innovation can bring new harms and dangers. Risks posed by algorithmic genies and the Internet include mass surveillance (Schneier, 2016), invasion of privacy (Deibert, 2013), digitally-enabled lies (Seife, 2014), misuse by authoritarian regimes (Morozov, 2011), social isolation (Turkle, 2011), addiction (Alter, 2017), algorithmic discrimination (O’Neil, 2016), automated crimes and cyber-warfare (Goodman, 2015), and many more.
+
+
+While such risks require confronting, avoiding technological harms is only part of the challenge of using algorithmic genies. We will focus on the complementary challenge expressed well by Freeman Dyson: “Ethical victories putting an end to technological follies are not enough. We need ethical victories of a different kind, engaging the power of technology positively in the pursuit of social justice” (Dyson, 2006).
+
+
+Algorithmic genies do not yet seem to have delivered dramatic gains in helping most people attain wealth, health, education, and many other core human needs. Technological innovation has expanded the capabilities available to the average person (arguably more so over the long term than redistribution). But its benefits are unevenly distributed and uncertain.
+
+
+One reason for this is that it may not be obvious how to apply algorithmic genies to meet human needs at scale, especially given complex commercial, cultural, institutional, and political barriers to new solutions (Masum and Singer, 2007). Another reason is that, when delivered by startups or corporations which must make money to survive, algorithmic genies undergo selection pressure to serve those customers who spend more even though their core human needs may already be met.
+
+
+This situation has an interesting parallel to the development of technologies for combating previously neglected diseases like malaria. In the late twentieth and early twenty-first century, understanding grew about the disparity between where research and development funds were being spent (on diseases of the rich) and where they were needed if all lives globally counted equally (on diseases of the poor). This growing understanding led to significant investment and policy shifts, which had to first be apprehended as possibilities and then developed by diverse coalitions of public, private, and philanthropic partners.
+
+
+Such shifts do not happen automatically. They need collaborative foresight. They need thoughtful people applying all their experience and ingenuity as they debate, discover, experiment, and build. All this has to happen as an extra layer of effort on top of the massive collective effort of meeting current duties with current techniques (which naturally absorbs most of our attention).
+
+
+Yet the critical decisions that guide our societies cannot be decided purely technically. These decisions are also fundamentally moral (involving matters of justice and ethics) and political (involving matters of power and of who gets what, when, where and how). The same computational powers can enable very different societies, as vividly dramatized in Brain (2003).
+
+
+What, then, should our Internet of algorithmic genies aim for?
+
+
+In the next section, we will explore this question by thinking about how we could apply algorithmic genies to improve the lives of people worldwide in ways that are widely agreed to constitute progress (to raise the floor). Then we will consider conditions for algorithmic genies to make an impact, and explore progress that benefits both the least well off and the majority (floored progress). Finally, we will consider floors that meet common aspirations of people across socio-economic strata (shared floors) and conclude.
+
+
+Throughout, we will grapple with how the new technological powers of algorithmic genies can assist genuine, long-term progress that makes most people better off. Of course, the Internet and algorithmic genies can also slow progress, and help some people to win at the expense of others. These are grave challenges that have been extensively discussed elsewhere; we will focus on positive potentialities that have been less explored.
+
+
+The orienting principle that we will use might best be described as melioristic (Schuler, 2008), signifying belief that the world can potentially be made better by human effort. The possibilities we will discuss are not inevitabilities. Rather, they are aspirations worth working towards.
+
+
+We should not assume that clever startups and Internet corporations operating in their usual way will automatically deliver the algorithmic genies that our wiser selves would want. Instead, we should reflect on what we want out of our algorithmic genies and develop corresponding principles.
+
+
+One such principle forms the core of this article’s argument and the topic of the next section.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p2]Raising the floor: Algorithmically addressing core human needs
+
+
+Imagine applying algorithmic genies to improve the baseline expected experience of people worldwide. We will call this raising the floor. Raising the floor includes working toward enabling everyone to learn, earn, be safe and healthy, and meet other core human needs.
+
+
+Let’s consider some examples.
+
+
+Khan Academy began when Salman Khan recorded YouTube tutoring sessions for a younger cousin living elsewhere. It grew to include thousands of educational videos and automated exercises used by millions of people, and aimed to be “the world’s free virtual school” (Masum, 2010). It became part of a broader free education movement that made online courses from leading universities and institutions available to all.
+
+
+Universal education is a basic development goal, and underpins our capabilities to tackle other challenges. In coming decades, could automated teaching and networked mentoring combine with a truly global Internet to help provide the basics of universal education?
+
+
+To take another example, the Ushahidi platform was initially “developed to map reports of violence in Kenya after the post-election violence in 2008” (Ushahidi, 2017). Since then, it has been applied to crises worldwide, such as the Haitian earthquake of 2010 and the Japanese tsunami of 2011. In coming decades, could major disasters routinely activate global platforms and alliances for coordination, communications, and aid?
+
+
+These two examples from global education and disaster relief are drawn from an emerging class of Internet-accessible capabilities that help to provide social goods at scale (as with open government [Lathrop and Ruma, 2010] and open science [Masum, et al., 2013]). Despite their limitations, these solutions enhance the capabilities of people worldwide. They scale by supporting distributed collaboration and by substituting computation for scarce human talent.
+
+
+In short, these Internet-enabled solutions could plausibly be developed to raise the floor globally for core human needs. Their missions can often be framed as audacious humanitarian challenges. In the case of the two applications already mentioned, we might describe the challenges to be overcome as “how can we provide universal education?” (Khan Academy) and “how can volunteers help after major disasters?” (Ushahidi).
+
+ 
+Challenges like these are attracting engineers, entrepreneurs, and other technological thinkers and doers (XPRIZE Foundation, 2017). Answering such challenges at global scale may take decades of hard work, involving issues far beyond the Internet and algorithmic genies. It will require selectively boosting human capabilities (Toyama, 2015), and cooperatively agreeing on worthwhile goals. That seems like a fair price for upgrading the toolkit of civilization.
+
+
+However, can a diverse world really agree on core human needs for which to raise the floor?
+
+
+United States President John F. Kennedy remarked of his Russian rivals during the Cold War, “[O]ur most basic common link is that we all inhabit this small planet. We all breathe the same air. We all cherish our children’s future. And we are all mortal.” [bookmark: 4a][4] It is no accident that virtually all countries have cooperated in global health initiatives like seeking to eradicate smallpox and polio. A healthy life for us and for our children is a basic common need.
+
+
+More nuanced are the Millennium Development Goals for developing countries, a globally agreed set of eight ambitious goals like reducing child mortality by two-thirds between 1990 and 2015. The Millennium Development Goals were pursued and partially met. They were succeeded by the Sustainable Development Goals, which — while more complex and contentious — were still generally supported in principle worldwide (United Nations, 2017).
+
+
+The Social Progress Index takes a kindred approach to quantifying core human needs, and aims to apply to both rich and poor countries. It measures social and environmental outcomes in 12 components, such as health and wellness, personal safety, and access to basic knowledge (Social Progress Imperative, 2017).
+
+
+Some goals (like tolerance of immigrants and minorities) would be contested in some countries. And even countries that generally aspire to a goal like tolerance of immigrants may differ on questions like what rate and type of immigration to aim for. Nevertheless, the Social Progress Index seems to provide a moderately shared barometer of how well core goals are being met globally. [bookmark: 5a][5]
+
+
+The Social Progress Index, the Millennium and Sustainable Development Goals, and other global goals and values (World Values Survey, 2017; Kidder, 2005) demonstrate that despite sometimes bitter political, economic, and cultural discords, people around the world share many goals. People want to raise the floor for these goals for varied reasons, like their creed, humanitarian duty, and enlightened self-interest. Whatever the reasons, agreeing on core human goals can help us to pursue them cooperatively.
+
+
+Raise the floor for the majority enough times, and the advances cumulate to qualitatively better institutions and societies. Immigrants to wealthy countries with a thriving middle class often appreciate the facilities anyone can enjoy: sidewalks for those who walk, parks where all can relax, healthcare for emergencies, relative freedom from fear, schools and museums for all.
+
+
+Table 1 gives a small illustration of the multitude of opportunities to apply the Internet and algorithmic genies to help meet core human needs, supplementing more traditional approaches.
+
+
+ 
+
+[bookmark: tab1]
+	Table 1: Components of the Social Progress Index, and corresponding illustrative opportunities to apply algorithmic genies.
+	Social Progress Index component	Sample Internet-enabled approach
+	Nutrition and basic medical care (child, maternal, and infectious-disease mortality).	Precision agriculture advisor that uses AI (artificial intelligence) to examine a farmer’s fields and resources through smartphones or other sensors, and suggest good ways to plant, grow, and sell crops (including the resources each portion of farmland requires at each point in time to get the most out of scarce resources like seed, fertilizer, and water).
+	Water and sanitation.	Systems to measure water contaminants, suggest treatment methods, and empower people with safer sanitation strategies and clean water.
+	Shelter (affordable housing, electricity, household air pollution deaths).	“Pay as you go” business models applying authentication and cell-phone payment systems to provide an affordable rent-to-own loan for solar power systems that can be gradually paid off. AI-enabled architects that consider a person or family’s needs, and generate detailed instructions for easily-built shelter.
+	Personal safety (crime, homicide, political terror, traffic deaths).	Analytics to help citizens and law enforcement to prevent crimes. Recording and reporting of abuses to reduce cultures of impunity.
+	Access to basic knowledge (literacy, schooling).	Systems like Khan Academy that let motivated students and teachers freely access competent educational explanations and exercises (Masum, 2010). Automated tutors that attempt to impart basic literacy and numeracy.
+	Access to information and communications (mobiles, Internet, press).	This is the core of what the Internet has offered. There are many ways to improve informational availability and quality — for example, community wireless networks allowing direct local connections (Antoniadis, 2016).
+	Health and wellness (life expectancy, chronic disease, suicide, pollution-deaths).	“Doc in a box”, with the “doc” also being a nutritionist, health coach, and pharmacist (Topol, 2015). Privacy-respecting ways to share health information for better diagnostics, public health, and research.
+	Ecosystem sustainability (greenhouse gas, water withdrawals, biodiversity).	Automated monitoring using drones, pattern recognition, analytics of flora and fauna, and communication with locals and governments to help them protect biodiversity and reserves.
+	Personal rights (political and property rights; freedom of speech, assembly, movement).	Online systems that bypass corrupt land registry systems and securely store the property rights of people in an auditable and hard-to-forge way.
+	Personal freedom and choice (corruption; religion, later marriage, contraception).	Anti-corruption apps that help people record and report bribery events. Direct cash transfers from governments to citizens to reduce opportunities for corruption.
+	Tolerance and inclusion (immigrants, minorities, community safety net).	Online services that match countries with immigrants and help immigrants to find work, training, and opportunities in their new country (Tomlinson, 2015). Simulations that give a sense of what it is like to be a refugee or minority.
+	Access to advanced education (tertiary schooling, good universities).	Massively open online courseware like EdX. Open access lectures, texts, articles, code, and other resources, in tandem with collaborative research and learning communities.
+
+
+ 
+
+
+The details of how to best instruct algorithmic genies to meet particular goals are fascinating, but not our focus. Rather, we now turn our attention to general principles of floor-raising that can guide many specific initiatives.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p3]When genies matter: Conditions for making an impact
+
+
+Algorithmic genies often need to be partnered with physical services and infrastructure. For example, while medical AI (artificial intelligence) can help diagnose illness and manage chronic disease, it can’t replace a required drug or surgical intervention. These in turn may require skilled labor, well-functioning health systems, and innovation ecosystems that affordably produce and deliver improved interventions.
+
+
+Understanding how much infrastructure is needed for algorithmic genies to raise a particular floor is complex. It will vary by floor, and by local conditions.
+
+
+Let’s clarify this complexity using two rough concepts that compare the floor-raising capability of a human working with genies to that human’s baseline capability.
+
+
+The first concept is the individual algorithmic boost for a given floor. It measures how much an individual could raise a given floor for themselves given unrestricted access to algorithmic genies, and assuming no additional resources (and no change in access to algorithmic genies by others).
+
+
+For example, consider a small farmer in the developing world. That farmer could get algorithmic help to reduce fertilizer inputs dramatically; choose appropriate seed varieties for their soil and conditions; learn better planting techniques; use water more efficiently; and have a better idea of when to harvest and where to sell (Yunus, 2017). But it seems unlikely that they could apply algorithmic genies to directly overcome more physical hurdles like climate change, desertification, soil loss, or plant plagues.
+
+
+A complementary concept is the group algorithmic boost for a given floor. It measures how much better or worse one could meet the given floor in practice, if everyone in the group was given unrestricted access to algorithmic genies (but no other additional resources). In contrast with the individual algorithmic boost, the group algorithmic boost accounts for both positive and negative group effects when everyone gets access to a technology, which is closer to what happens when a technology is let loose in the wild.
+
+
+To continue with the example above, if a group of small farmers could routinely access high-quality algorithmic genies, then there could be positive group effects. For example, algorithmic analysis, satellite mapping, and weather monitoring could help small farmers in a region, allowing innovations like microinsurance schemes to affordably insure against crop loss (Yunus, 2017).
+
+
+But there could also be negative group effects in this small-farmer group: unreliable rumors that spread and cause farmers to make bad decisions, or competitive pressure to apply algorithmic genies when some farmers use them and others do not. Taking such effects into account would be part of the hard work of estimating a group algorithmic boost.
+
+
+To assess the possible algorithmic boost for a given floor, it might be helpful to identify what aspects of raising that floor are addressable algorithmically and what aspects are not. or the example above, aspects that are addressable algorithmically include reducing fertilizer inputs, choosing appropriate seed varieties, and learning better planting techniques. Aspects that do not seem addressable algorithmically include climate change, desertification, and soil loss. Such an analysis could be done for many floors like those in Table 1, and summarized in a table or a more complex data structure.
+
+
+It is worth pondering whether there are minimum levels of well-being below which algorithmic genies are of little value by themselves, as when someone is starving. (This would imply that the algorithmic boost for a floor is partly a function of how well a given population is currently doing in that floor.)
+
+
+Some floors (like those for water and nutrition) are critical to survival. It is likely not accidental that highly physical floors (like water, nutrition, shelter, and clean air) are less amenable to algorithmic boost.
+
+
+Yet even for these physical floors, a longer-term group algorithmic boost might be possible in some cases. If the small-farmer sector as a whole gets substantially more productive from algorithmic genies as outlined above, then there will be more food to go around. That won’t help someone who is starving today, but it will reduce the number of people faced with starvation as the years go by. Over time, that kind of sustained progress is a powerful force.
+
+
+Investing in boosting sets of floors evokes the debate between giving aid to those in need today and investing in the capacity to give more or better aid tomorrow. Investing in longer-term floor understanding and capabilities is akin to investing in research and development — diverting some effort from today’s challenges to make future handling of those challenges easier, thus increasing our capacity to address both acute and chronic issues.
+
+
+For each challenge where algorithmic genies can make an impact, some algorithmic services will be useful as individual interventions, like telling people to avoid a certain area due to an infectious disease outbreak. (In the parlance above, these are services where the individual algorithmic boost is high).
+
+
+Some algorithmic services will require physical and human resources to be effective, like surgery to help patients that have been diagnosed with the help of an AI. This could be thought of as a “resource requirement dimension”.
+
+
+And some algorithmic services will require cooperation between many people, like coordinating to mitigate a virulent pandemic. This could be thought of as a “cooperation requirement dimension”.
+
+
+Imagine a two-dimensional graph. At the origin in the lower left are genie-based interventions that can help people without requiring additional resources or cooperation. Along one dimension of the graph, representing resources, interventions require increasing amounts of physical and human resources. Along the other dimension of the graph, representing cooperation, interventions require increasing amounts of cooperation between differing interests.
+
+
+In this graph, algorithmic interventions (points on the graph) that are farther from the origin are harder to implement and have a lower algorithmic boost. They may require mobilizing both resources and cooperation from global communities.
+
+
+Sometimes raising floors even at a basic level is hindered not from resource constraints, but from power conflicts. For example, food distribution and water access can be denied to less powerful groups, especially in conflict zones.
+
+
+In solving such challenges of power and conflict, algorithmic genies can have only limited influence. Perhaps appropriate genies can help at the margins, as with direct cash transfers that reduce opportunities for theft and corruption or algorithms that improve logistics efficiency. What seems needed is commitment to tackle underlying challenges and to try to develop genies that help raise floors even given real-world power dynamics.
+
+
+A fundamental question to keep in mind when trying to develop algorithmic genies to raise floors is “When do genie-based interventions really make a difference?” Let’s review some responses to this question before continuing on:
+
+
+	When genie-based interventions are aimed at people who have moved beyond survival mode.
+	When they are used in societies where corruption and violence are reduced below some threshold.
+	When they are used in societies where there is a base level of good governance.
+	When they are used in situations where the majority of the population has direct access to a basic communication and computational medium (like smartphones).
+	When they improve the quality of information we encounter.
+	When they help us to develop better explanations of reality (Deutsch, 2012).
+	When they amplify the right human capabilities and intent (Toyama, 2015).
+	When they support community and the public sphere.
+	When they amplify local voices (Zuckerman, 2013).
+	When they are diffused to and taken up by people who need them (Rogers, 2003).
+	When they serve communities as those communities wish rather than as others think they need (Srinivasan, 2017).
+	When they are developed entrepreneurially with social purpose (Yunus, 2017).
+	When they are created by financial markets (and people) that take into account longer time horizons and more people’s interests (O’Reilly, 2017).
+	When they assist us in collaboratively tackling hard problems (Masum and Tovey, 2006).
+	When they help us to achieve beneficial AI (Future of Life Institute, 2017).
+	When, as discussed in this article, they are applied to meet basic human needs, make floored progress, and pursue shared floors.
+
+
+
+Let’s conclude our discussion of when genies make an impact with a thought experiment. Imagine that we had a magic dial controlling the humanitarian ratio in a society: how much people care about others relative to how much they care about themselves and their family. As we turn up the dial, people would care more about helping others. [bookmark: 6a][6]
+
+
+We don’t actually have a humanitarianism-controlling dial (and that’s probably a good thing). But can a similar effect be achieved by wisely applying algorithmic genies?
+
+
+A technologically enabled amplification of our limited supply of caring would increase the effective humanitarian ratio without being overly burdensome. Such an amplification is analogous to the way energy servants raised living standards since the Industrial Revolution. Fighting for more of the pie seems less necessary if the pie is growing.
+
+
+While algorithmic genies are not substitutes for energy servants or natural resources, they can make them go further if conditions are right. However, neither computation nor bandwidth are free. They cost money, and they cost other resources inadequately captured by financial metrics (like ecosystem services depleted from energy usage [Rogers, 2017] and mining).
+
+
+To use a different analogy, people around the world share many goals but generally pursue them for themselves and their circles of empathy and concern. How might these circles effectively expand (and not contract) through the application of algorithmic genies (Singer, 2011)?
+
+
+Let us stipulate that we generally have positive humanitarian ratios and moderately shared goals. (Of course, we may differ on how positive our humanitarian ratios are and whom they include. We may be harmed by others who pursue goals at our cost. We may disagree on how to strive for shared goals, or whether to strive for those goals if they hurt us disproportionately. Some of these caveats will be revisited later.)
+
+
+Let us then suppose that we support pursuing an Internet-enabled capacity for a goal like better health, education, human rights, and so forth. Maybe we want to write code that enables this capacity, or maybe we want to support this capacity or understand what it might accomplish.
+
+
+How should we build such a capacity so that it really raises the floor? We need mindsets that help us to build wisely. One helpful mindset comes from refining the notion of progress itself.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p4]Floored progress: Algorithmic genies for all
+
+
+If we take a centuries-long view, economic development has delivered remarkable benefits in most countries. Small wonder that governments around the world try to grow their GDP (Philipsen, 2015). Yet aggregated measures like GDP neglect whether the benefits of progress are concentrated or widespread. In incomes and other social goods, is progress benefiting most people?
+
+
+Asking this question is not a criticism of wealth, achievement, entrepreneurship, self-reliance, hard work, and the pursuit of breakthrough innovations. All of these can help realize the remarkable potential of our technical ingenuity.
+
+
+But when we aim to raise the floor, we should also consider for whom to raise the floor. For example, should we aim to:
+
+
+	maximize average well-being? (as with GDP per capita, which ignores distribution)
+	maximize median well-being? (as with median income per capita, which better represents typical incomes when some incomes are very large)
+	maximize minimum well-being? (first helping those in the most poverty or distress)
+	maximize median well-being subject to minimum well-being reaching a basic level, like a specified percentage of median well-being? (so that middle-class welfare is prioritized once the floor is “good enough”)
+
+
+
+These and other choices each imply different priorities, even if we pursue the same core human needs.
+
+
+The last of these choices seems similar to what raising the floor could mean in practice. It resembles a pragmatic principle of justice: preferentially help the least advantaged (including helping them to help themselves) until they reach a minimum acceptable level, and then focus on solutions that help “most people” (Brock, 2009). This seems like a baseline that many societies can agree on, though they may differ on what constitutes a “minimum acceptable level”. [bookmark: 7a][7]
+
+
+Let’s call this approach floored progress: seeking ongoing progress for the typical person, but with the constraint that even those who are least well off should reliably reach at least some baseline. (In order for the baseline not to erode in relative terms, the baseline itself would have to increase as typical well-being does — for example, by setting the baseline to a specified percentage of the median.)
+
+
+In contrast to “aggregated progress” where progress for some can leave many behind, floored progress requires a minimum standard for everyone. If floored progress became the norm for what we seek from our algorithmic genies, benefits from their advancing capabilities would reliably reach all of us. This is important since progress for the few does not automatically help the majority, whether in soaring upper-percentile incomes or in other core human needs like health and education.
+
+
+Income disparities can benefit society when due to hard work and honest accomplishments. But too much inequality (especially in the form of widespread poverty and inequality of opportunity) may be linked with societal harms like ill-health, increased crime, and social mistrust (Atkinson, 2015; Marmot, 2015).
+
+
+Societies without floored progress can be uncivilized places. Educational poverty holds people back from developing and contributing their talents. Water poverty may mean sickness, missed schooling, and a daily struggle to secure scarce resources. Knowledge poverty prevents uninformed citizens from making good decisions in their communities, workplaces, and governments.
+
+
+A healthy and educated populace with a basic safety net can more easily achieve advances in business, civics, science, and culture. Conversely, a world where wealth and well-being are polarized threatens societal welfare and economic progress (Wilkinson and Pickett, 2010).
+
+
+If we don’t pursue floored progress, algorithmic genies may enable techno-feudalism. Anticipatory speculation and early evidence warn of automated cognitive power and robots increasingly underpricing humans for many services, including some offered by professionals like doctors, lawyers, and professors (Susskind and Susskind, 2015; Brynjolfsson and McAfee, 2014).
+
+
+Such under-pricing can’t be handled by simply telling people to study and work harder. Relatively few people can become elite computer scientists or investors, and many of the rest may not be able to find, create, or retrain for decent work (Kaplan, 2015). While there will always be plenty of worthwhile activities (including new ones enabled by algorithmic genies), decently-paid ones may come to be in short supply. As in the movie Elysium, a small techno-feudal elite might own the wealth-generating robots and Internet services, leaving the majority struggling over poorly paid jobs. This could hinder the majority making progress on widely agreed goals like those in Table 1.
+
+
+Is this dystopian scenario inevitable?
+
+
+Not if we work hard at avoiding it. If we apply a spectrum of strategies for spreading the benefits of algorithmic genies, then we could channel more of their power toward giving everyone a better standard of living and a feeling of inclusion in a common future.
+
+
+One much-discussed strategy that could mitigate techno-feudalism is to enact a minimum income. This might simplify social assistance bureaucracies, efficiently provide a floor income, and grow the well-being and purchasing power of the workforce (Paine, 1895; Russell, 2006; Friedman and Friedman, 2012; Barnes, 2014; Ford, 2015; Bregman, 2017). Recipients of a minimum income might be encouraged to do activities that both help themselves and “give back” to society. Such activities may increase societal support and recipients’ self-respect and sense of purpose (Stern, 2016).
+
+
+This reportedly happened with Brazil’s Bolsa Familia program, which gave conditional cash transfers directly to the poor while requiring them to take actions like ensuring their children attend school and get immunized — thus reducing poverty and building the next generation’s human capital (Tepperman, 2016). Challenges in designing minimum incomes include deciding what recipients should be encouraged to do and promoting virtues like hard work.
+
+
+Minimum incomes are a way for our socio-economic system to automatically give everyone a base level of purchasing power for goods, services, and capabilities. Enacting minimum incomes is one way to help achieve floored progress, and it would give everyone a minimum level of market-based access to algorithmic genies. A complementary strategy is to give everyone a minimum level of direct access to algorithmic genies that help to meet core human needs.
+
+
+If the costs of computation and communication continue to drop, it becomes increasingly affordable to provide a small slice of computation for everyone. Over time, that slice becomes increasingly powerful. It could power digital parallels to services like education, health, public libraries, and transit. It could power novel quasi-public goods like GPS (Global Positioning System) that are more effective when universalized.
+
+
+Could well-run governments that are trusted by their citizens guarantee them a computational birthright? This new computational floor could involve services delivered by public entities, or by diverse service providers that are funded and monitored with the help of a “government as platform” approach (Lathrop and Ruma, 2010). However delivered, publicly-funded universal algorithmic services might give everyone capabilities to meet their needs more directly than do existing population-wide examples of mass analytics and surveillance.
+
+
+Where states are competent and care for their citizens’ welfare, providing a computational birthright could harness the kind of talent and public-spirited ethos that great public universities thrive on. It could give useful algorithmic genies to everyone, especially for applications with low market value but high social value (like preventive health, democratic oversight, or AI-delivered professional advice) (Graham, 2016).
+
+
+A public computational birthright could supplement private-sector Internet corporations, which offer a cornucopia of free services at global scale but usually come with a quid pro quo and without assurance that services will continue. Could Internet corporations themselves build more floor-raising into their DNA, by strategies such as structuring themselves as public-benefit corporations like the crowdfunding pioneer Kickstarter? [bookmark: 8a][8] Could more of their world-leading abilities and specialized algorithmic genies be developed with verifiable floor-raising as a core goal?
+
+
+More options for spreading the benefits of algorithmic genies are summarized in Table 2. Options like these might alter incentives so that the logic of the system shifts from winner-take-all to everybody-gets-a-share (Avent, 2016).
+
+
+ 
+
+[bookmark: tab2]
+	Table 2: Sample policy options that might support floored progress.
+	Socio-economic approach
+Several options draw from Atkinson (2015)	Algorithmic genie approach
+	Minimum income: give everyone a minimum income (perhaps conditional on making social contributions like employment, education, training, and home or child care).	Minimum algorithmic genies: give everyone a minimum level of access to essential algorithmic genies.
+	Reward volunteer work that provides societal value (such as child care, educational and youth services, health care and eldercare, mentoring, police and fire support).	Reward volunteer work that influences algorithmic genies to provide societal value (such as auditing algorithmic genies for fairness and non-discrimination).
+	Give conditional cash transfers directly to the needy. For example, Brazil’s Bolsa Familia program reportedly reduced poverty remarkably by paying the needy (conditional on them taking actions to improve their family’s education and health).	Implement conditional cash transfers by smartphone, to lower costs and analyze usage. Invest in algorithmic genies that directly meet core human needs of the less fortunate.
+	Disclose pay ratios within organizations. Institute a pay code for public procurement suppliers, and a maximum pay ratio (so that increasing top salaries requires increasing typical or minimum salaries).	Watch for and disclose algorithmic power asymmetries, especially if they seem to lead to undue influence or corruption. Consider a code of practice for highly asymmetric algorithmic benefits.
+	Distribute future gains more widely via broader ownership. For example, define the “PBI” (Public Benefit Index) of a business as the degree to which its income goes to a wider section of society. Then use regulatory and tax incentives to support high-PBI businesses (Kaplan, 2015). This everyone-an-owner strategy could include universal dividends from resource revenues and pollution fees (Barnes, 2014).	Increase the Internet startup ecosystem’s Public Benefit Index, so that founders and investors build more startups that spread their wealth more broadly across society. Explore distributed forms of technology ownership, operation, and governance.
+	Build up well-managed public assets via sovereign wealth funds, pension funds, and investments in companies and property. Avoid pseudo-nationalization by giving the state profits without a controlling influence.	Build well-managed public algorithmic infrastructure with fiduciary duties to broad constituencies. Promote public ownership stakes in technological developments. (The answer to “Who owns the robots?” could, in part, be “all of us”.)
+	Increase incentives for hiring. Track the socio-economic benefits of workforce inclusion. Adopt explicit targets for preventing unemployment. Offer publicly funded employment at the minimum wage.	Design machines to augment rather than replace people with good jobs. Measure the value of algorithmic genies by the human capital and happiness they foster, as well as by financial profits.
+	Offer a universal insured savings account with a guaranteed positive real rate of interest on savings, and a maximum holding per person.	Apply algorithmic genies to preserve basic savings. Possibilities include low-cost money transfers and savings, or micro-shares of diversified baskets of commodities, currencies, and securities.
+	Ensure effective educational options for all, to reduce barriers and better match educational choices to opportunities. Offer loans with repayment rates linked to future income.	Spread high-quality and cost-effective education enabled by algorithmic genies. Apply algorithms to understand people’s aptitudes, suggest opportunities and funding, and provide timely information on jobs that are emerging and fading.
+	Spread effective public service development and delivery.	Spread effective public algorithmic service development and delivery.
+	Develop peer-to-peer platforms that promote beneficial collective action — for example, to help farmers to coordinate and exchange farming labor, storage, delivery, investment, and tools.	Develop peer-to-peer platforms that promote beneficial online action. (Reducing costs for coordination and algorithmic creation can make people richer with the same physical assets.)
+	Raise rich countries’ development assistance targets, in tandem with ensuring investments are honestly and effectively administered.	Generate more algorithmic genies that raise the floor in developing countries. Deliver some aid in the form of algorithmic genies rated by recipients.
+	Expand non-exploitative access to low-cost credit.	Expand non-exploitative Internet-enabled lending and crowdfunding.
+	Enact a globally applicable wealth tax (and the required global cooperation among tax regimes).	Enact a “server tax”, which reserves for public use a fraction of algorithmic infrastructure capacity (which world-class Internet companies run more effectively than many governments).
+	Pursue globalization and international cooperation that raises the global floor for labor standards, market standards, and protections for consumers, workers, governments, and public wealth.	Pursue global cooperation that raises the global floor for algorithmic standards. (For example, online privacy, security, and quality; military applications; responsible artificial intelligence.)
+	Show how floored progress can encourage economic development — for example, increasing wages can increase worker commitment, and helping small savers can encourage wealth accumulation and reduce social expenses.	Show how floored progress can encourage algorithmic genie development that grows the societal pie, such as by translating solutions into easily replicable software to spread better service and expertise to all.
+	Ensure every young adult gets a youth startup grant: an offer of a job, apprenticeship, educational opportunity, or small startup investment for a business or other venture.	Ensure every young adult gets a youth algorithmic startup grant, comprising features like erasing youthful foibles from search engines or accessing a high-quality computational guidance counselor that helps match aptitudes with opportunities.
+	Encourage entrepreneurship and finance focused on core human needs, as with social finance.	Encourage entrepreneurship focused on creating algorithmic genies for core human needs.
+	Offer universal basic health insurance, to raise the floor for well-being and medical affordability.	Apply algorithmic genies to offer universal health monitoring, diagnosis, and advice.
+	Increase social trust and socio-economic security.	Increase online trust and security.
+	Think long-term. Make it easier to pursue sustainable prosperity with future generations in mind (Pope Francis, 2015). Build a better radar for disruptive innovation to help anticipate risk and opportunity — enabled, for instance, by identifying better forecasters in evidence-based ways (Tetlock and Gardner, 2015).	Build long-term Internet and algorithmic resources that promote shared sustainable prosperity (Nardi, 2015). Improve algorithmic capabilities for foresight — for example, by tracking “Turing Ratios” that estimate how rapidly algorithmic genies are improving relative to humans at many tasks (Masum, et al., 2003).
+
+
+ 
+
+
+Note that these are options, and not prescriptions or inevitabilities. Implementing strategies like those in Table 2 depends on our collective will. It also depends on answering a basic question: what motivates floored progress?
+
+
+Enlightened self-interest can be a powerful motive for the well-off to seek floored progress at scale. Classic examples include the idea that taxes are the price of a safe and civilized life, that a fair deal for most citizens reduces social unrest, that more education will lead to more productive workers and a stronger economy, and that basic sanitation and healthcare lessen sickness (and its costs) society-wide. There are similar algorithmic examples, like the idea that higher-quality information for all promotes better political and socio-economic decisions.
+
+
+Humanitarian motives can also be powerful. We might feel a humanitarian call to action to help tackle poverty or another charitable cause (Singer, 2010). Our moral imagination might be guided by ethical principles like treating others as we would be treated. We might heed meta-principles like Rawls’ “veil of ignorance”: a just society’s principles of justice should be chosen as if we were ignorant of our place within that society (Rawls, 1999).
+
+
+Motives like enlightened self-interest and humanitarianism can help generate the will and coalitions to raise the floor — and raising the floor is not limited to helping the less fortunate. As explored in the next section, many floors affect rich and poor alike. This commonality is an opportunity to coalesce support from all strata of society.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p5]Shared floors: Pursuing common goals
+
+
+The logic of floored progress applies to core human needs other than wealth. How might algorithmic genies be used to help everyone achieve basic levels of health, education, personal rights, and the other Social Progress Index components in Table 1?
+
+
+Algorithmic genies may offer access to expertise that was previously unavailable or unaffordable to most, whether in healthcare, higher education, or law (Susskind and Susskind, 2015). To take the case of healthcare, imagine an always available Internet agent that can diagnose and patiently explain millions of ailments. That might be a more attractive option to many people than traveling to and waiting for an overworked doctor with five minutes to spare. Yet little of this potential will be realized if algorithmic improvements are channeled into specialized high-priced services and robots available only to a few.
+
+
+The disparities of such an outcome might be mitigated if the wealthy use similar algorithmic expertise platforms as the majority. This shared use of platforms might happen if platforms with access to more people’s experiences could diagnose and serve everyone better. For instance, a commons of shared epidemiological information could continually improve diagnostic capabilities. Health platforms for the many might steward and ensure access to shared algorithmic capabilities for individual and public health.
+
+
+Finding ways to modify the selection pressure on algorithmic genies toward capabilities from which all benefit can give users from all economic strata common cause to promote floored progress. While some data and algorithms may always be private and expensive to use, ingenuity in how data and algorithms are developed for core human needs could help their capabilities benefit everyone.
+
+
+One might ask why we can’t simply pursue economic progress as a proxy for raising the floor. After all, rich countries tend to be nicer places to live than poor countries.
+
+
+It is true that the average early twenty-first-century person is healthier and better educated than their average forebear of 1800 (Gapminder, 2017), and that much of this historical progress has depended on economic factors like trade, productivity improvements, and reinvestment in further economic and technological development. Yet just because some human needs correlate with economic progress doesn’t mean that economic progress meets all human needs (Patel, 2010; De Graaf and Batker, 2011). As the creators of the Social Progress Index suggest, “GDP is not destiny” — countries with a similar per-capita GDP can under- or over-perform on the Social Progress Index (and therefore on how well they deliver a basket of core human needs to their citizens).
+ 
+
+A moderate per-capita GDP could describe a country where people are generally well-off, or a country where a wealthy elite flourishes and many struggle. It could describe a country stewarding its forests and farmlands for future generations, or a country depleting its natural capital for short-term gain; a country with a vibrant and productive Internet, or a country with a locked-down and barren online sphere. Statistics of economic progress can overlook pollution, resource depletion, declines in social and online trust, and other aspects of a good life.
+
+
+Even achieving floored progress for wealth would not satisfy some core human needs. Health, for example, depends on human connections and lifestyle as well as on wealth.
+
+
+The inadequacy of seeking only to reduce poverty becomes clearer if we turn our attention to shared needs beyond the basics. Many floors not considered in the Social Progress Index affect the middle class and rich, like human connection, opportunities for personal growth, and social trust. (These floors are aspirations of the poor too, though not aspirations of those in the direst straits who are preoccupied with survival essentials like food, water, shelter, and safety.)
+
+
+Table 3 gives a sample of shared floors that apply across the economic spectrum, with corresponding opportunities and risks. Floors like these attempt to distill aspirations beyond the basics of life.
+
+
+ 
+
+[bookmark: tab3]
+	Table 3: Shared floors with illustrative algorithmic opportunities and risks.
+	Shared floor	Illustrative algorithmic opportunity
+	Floors of human psychology and society	 
+	Strong relationships.	Platforms to assist people in discovering deep human connections of collaboration, friendship, and love, without socially-isolating displacement of in-person relationships and ties to society at large.
+	High-quality attention (to mentor, comfort, and guide) (de Botton, 2014).	Virtual agents that advise us without compromising our interests or privacy. Benign algorithmic genies that by default notice people when they are in trouble, not just when they transgress or threaten.
+	Sense of discovery and wonder.	Virtual reality that lets us travel and explore (like accompanying astronauts on space missions) without tempting us to only choose easy virtual options over hard real ones. Mass-collaborative citizen science and discovery.
+	Personal growth and contribution.	Algorithmic genies that reliably guide us toward online experiences that help us learn or grow, without abusing our trust or time (Edelman, 2014).
+	Belonging (meaning, healthy purpose).	Open source collaborations letting anyone contribute. Factual yet inspirational cosmopolitan and cosmic narratives without radicalization.
+	Social trust and camaraderie.	Systems that help us get thanked for providing social value, without encouraging over-competitive reputations where most people fall short.
+	Governance.	Platforms that promote effective governance by and for the people, without empowering repressive regimes. Collaborative systems that amplify public competence, accountability, and justice.
+	Floors of algorithmic quality and access	 
+	Secure technological tools and infrastructure.	Public-interest security initiatives that address key threats without “security theater” — for example, initiatives to write more secure software, protect infrastructure, and scan for known vulnerabilities. Emergency preparedness, such as being ready and willing to apply algorithmic genies in disasters (as with Ushahidi and other crisis mapping tools).
+	Access to professional knowledge and expertise (like that of doctors, lawyers, and teachers).	Spreading access to expertise, without compromising quality and ethics or leaving economically displaced professionals without a safety net. Expanding a cost-effective yet quality-floored commons of open expertise, without destroying rewards for discovery and innovation.
+	Active learning that adaptively engages all learners.	Learning systems that go beyond making learning accessible to making it motivating and customized, without manipulating students for others’ agendas or skipping the hard parts of learning that lead to mastery.
+	Flow (immersive concentration) (Csikszentmihalyi, 1991).	Technology that engages without addicting, and helps us grow and develop. Immersive games and simulations that allow people to experience challenge and epic adventure, without unhealthy overuse or addiction (Parkin, 2016).
+	Time efficiency.	Technology that saves time without ultimately using more of it. Avoiding Jevons Paradox, where efficiency leads to overuse — for example, fast and free e-mail increased many people’s overall communication load.
+	Better ways to recognize and receive facts (as opposed to misinformation).	Tools that make it easier to see what’s true, understand diverse points of view, and recognize echo chambers and digitally enabled lies. (One test for the success of such tools: does Internet use make it easier or harder for most people to tell what’s true?)
+	Algorithmic rights.	Algorithmic genies that see us as friends to be advised, not pawns to be exploited or sinners to be restrained (Masum and Tovey, 2015). Automatic monitoring and provision of algorithmic rights and suppression of algorithmic wrongs.
+
+
+ 
+
+
+Note that raising the economic floor is insufficient to raise the floors in Table 3 above, and vice versa. Achieving one leaves much work to do to achieve the other. A similar but weaker argument holds for the core human needs in Table 1 (Social Progress Index and corresponding opportunities). Note also that for each of the floors in Tables 1 and 3, a menu of policy options could be developed analogous to those in Table 2 (policy options for floored progress).
+
+
+Let’s pause to reflect before proceeding to the Conclusion.
+
+
+Over the course of this article we have grappled with what an Internet of algorithmic genies should aim for. We have seen how a spectrum of floors might inspire and guide the can-do spirit of technology innovators, especially if underpinned by socio-economic incentives.
+
+
+Of course, raising these shared floors involves many difficulties. To name a few, pursuing shared floors can be hard when floors are disputed (Covey, 2011), threaten powerful interests (Oreskes and Conway, 2011), involve zero-sum situations (Wright, 2000), require long-horizon thinking and commitment (Grinspoon, 2016), or seem bafflingly complex (Homer-Dixon, 2002; Masum and Tovey, 2006).
+
+
+Floors themselves can conflict, as suggested by some of the options in Table 3. Algorithmic genies that democratize access to expertise can threaten well-paying jobs of human professionals. Technology that adapts to our desires by filtering information can create echo chambers of self-reinforcing beliefs, and that can reduce social trust and cooperation.
+
+
+How can we address these difficulties, and understand floors and their tradeoffs?
+
+
+We can use distilled sets of floors as sources to scan for floor-raising opportunities, or checklists to ensure floors are not being forgotten. But this is just a start.
+
+
+Some people may build and support new solutions that boost a range of floors. Others may analyze the landscape of floor-raising solutions (perhaps employing algorithmic genies themselves to help understand and manage floors). Yet others may reduce floor-lowering in their societies and economies, such as by designing safeguards against known patterns of fraud and exploitation (Schneier, 2012).
+
+
+By applying their collective wisdom strategically, billions of humans assisted by algorithmic genies can handle multiple complex challenges simultaneously. When wise and humanitarian goals are ingrained in our socio-technical systems — when our algorithmic genies are designed with deep understanding of questions like “What are the Internet and the economy for?” — then it becomes clearer what to improve in order to make genuine progress on big problems (Silberman, 2015; Meadows, 2010). This can inspire our efforts and give both humans and algorithmic genies better goals to pursue (O’Reilly, 2017, 2013). [bookmark: 9a][9]
+
+
+Consider an analogy to the “gradient descent” method that is used in deep learning and other heuristic techniques. The idea of gradient descent is that in order to efficiently improve a system’s state, one should iteratively modify the system’s current state so that it “improves the most” at each step.
+
+
+Identifying and agreeing on numerous floors (and how to measure and improve them) is one way to iteratively improve society’s state to better meet human needs. Identifying floors also helps flag overlooked floors as well as potential conflicts between floors.
+
+
+As mentioned in the Introduction, clarifying what an Internet of algorithmic genies should aim for requires an extra layer of collaborative foresight and far-seeing effort beyond the daily challenges we face. It requires co-developing, testing, and refining goals, and cooperating on shared goals while respecting diverse individual and group goals.
+
+
+Ultimately, it requires grappling with questions that will remain with us for the foreseeable future. How can we minimize digital harms? What should our technology safeguard? What are the elements of a good life and society? Valuing such questions helps in creating wise algorithmic genies.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p6]Conclusion: Higher floors for higher ceilings
+
+
+In this article, we have seen how algorithmic genies can be harnessed to “raise the floor” for people worldwide, if these genies are supplied with suitable goals and supporting infrastructure. We have explored the concepts of floored progress (for sharing the benefits of algorithmic genies) and shared floors (for clarifying shared aspirations). And we considered ways of raising the floor both for basic human needs and for aspirations beyond the basics.
+
+
+The ideal of raising the floor poses many problems that we have only skimmed. These problems include handling power dynamics, discouraging exploitative applications, encouraging large-scale cooperation, helping people without harming ecosystems, and making raising the floor routine. And the ideal of raising the floor itself is just one approach to answering basic questions that computational progress poses, like “how can we apply algorithmic genies wisely?” and “what could the Internet be?” [bookmark: 10a][10]
+
+
+ Raising the floor is aided by effective online services that expand what we can do per unit of human or physical resources. When we put algorithmic genies and robots to work, it is as if we get low-cost teachers, doctors, bureaucrats, translators, drivers, or soldiers who can be surprisingly clever — but only if instructed wisely by us.
+
+
+ As Bruce Schneier says, “[I]f we’re not trying to understand how to shape the Internet so that its good effects outweigh the bad, powerful interests will do all the shaping.” [bookmark: 11a][11] One of those powerful interests is our collective unreflective selves — our unthinking desires and actions if we build and use online services uncritically.
+
+
+To do better, we must feel the value of raising the floor. Look back into the past at the many ways we cumulatively raised the floor through advances like literacy, anesthesia, sanitation, electrification, communication, and vaccination. The list is long, and it is still growing. Global child mortality has been reduced remarkably in the early twenty-first century (Gapminder, 2017).
+
+
+Raising the floor has not held us back. Rather, we have a more educated, healthy, and wealthy global society than any previous century, with remarkable capabilities. Let’s raise the floor again, and do it better — with more wisdom and justice, and fewer unintended consequences.
+
+
+Raising the floor will help us to spread and systematize the potential benefits of artificial intelligence, Mars colonies, regenerative medicine, and other wonders on the horizon. We should not be naive about human selfishness, ignorance, and inertia. Yet we can be hopeful about building up our capabilities to cooperate, raise standards, spread opportunities, and increase our circles of trust and compassion.
+
+
+Unlike many Earth-in-peril movies, most existential challenges to our species are not caused by malevolent aliens or natural disasters. They are largely caused by our actions — often unintentionally.
+
+
+Examples include nuclear war, climate change, biosphere destruction, resource depletion, autonomous weapons, and bioweaponized pandemics (Bostrom and Ćirković, 2008; Brown, 2009). As John Holmes warned generations ago, “There is no peril any more of our being destroyed, but only of our committing suicide.” (Holmes, 1933)
+
+
+Fortunately, our actions can also mitigate threats like those above — along with natural threats like asteroid impacts, technological threats like super-intelligent machines, and development challenges like disease, ignorance, and hunger. Though we may individually feel swept along by the tide of events, we can collectively be masters of our fate ... if we empower our wiser desires.
+
+
+What, then, should we aim for with our Internet of algorithmic genies? We should cooperate on floored progress for shared goals. When we raise floors for some, we should avoid lowering floors for others, and when we raise some floors, we should avoid lowering other floors. And we should make floor-raising itself smarter and more automatic. [bookmark: 12a][12]
+
+
+As we deal with real-world pressures of profit and power, we must find fair yet pragmatic ways to ensure that the Internet fulfills its public-spirited potential. It should embody quality, trust, and win-win solutions, and leave most people feeling their interests are being looked after without harming others.
+
+
+As we code the bedrock technologies of the future, we must understand that code as much as law will constrain our rights and protect our freedoms (De Filippi and Hassan, 2016).
+
+
+As we look ahead to our algorithmic genies growing more powerful — our online and digital servants today, gradually being imbued with intelligence — we must bequeath them the better angels of our nature (Bostrom, 2014).
+
+
+New online realities can arise if we summon the intelligence to see them, the will to institute them, and the mindset to cherish them. Our challenge is to create computational services that benefit both individuals and society. If we do this — if we dare to dream decades ahead — we can gain leverage on global challenges, and build a better society in the bargain. [image: End of article]
+
+ 
+ 
+
+[bookmark: author]
+About the authors
+
+
+Hassan Masum is a strategist and Affiliate Researcher at the Waterloo Institute for Complexity and Innovation at the University of Waterloo in Canada.
+
+
+Mark Tovey is a postdoctoral fellow in the Department of History and in the Centre for Planetary Science and Exploration at Western University in Canada. He is the editor of Collective intelligence: Creating a prosperous world at peace, and co-editor (with Hassan Masum) of The reputation society: How online opinions are reshaping the offline world.
+
+
+ 
+
+Acknowledgements
+
+
+We thank Thomas Homer-Dixon, Sebastien Paquet, Rob Spekkens, Michael Nielsen, and First Monday’s editors and peer reviewers for insights and feedback.
+
+
+ 
+
+Notes
+
+
+[bookmark: 1]1. Ries, 2011, p. 273.
+
+
+[bookmark: 2]2. In this article, “the Internet” is usually meant broadly to include the huge variety of functions built on top of underlying networked communication links. Similarly, when we speak of “software” we mean traditional software packages for computers and also the software in machinery, mobile systems, robots, the Internet, etc.
+
+
+[bookmark: 3]3. We may wish to measure “algorithmic genies per capita”, including both publicly and privately financed ones. The distribution of algorithmic genies across the population (considering both quality and quantity) could measure a new kind of wealth that seems likely to grow increasingly important. Perhaps summary coefficients (like “Gini coefficients for algorithms”) could then be calculated for particular types of algorithmic genies, as well as for the Internet as a whole — describing how much of its value is free, how much paid (with money, privacy, etc), and so forth. These values could be calculated by demographic segment or geographic area where they differ significantly, as when particular countries block or make available important services that other countries do not. Analyzing this “algorithmic demography” and the goals of demographic segments seems likely to be fruitful (Franklin, 2006), as might inventorying algorithmic genies that have been prototyped but not yet provided at scale.
+
+
+[bookmark: 4]4. John F. Kennedy, “Commencement speech at American University, Washington, D.C.” (10 June 1963), at https://www.jfklibrary.org/Research/Research-Aids/JFK-Speeches/American-University_19630610.aspx, accessed 16 January 2018.
+
+
+[bookmark: 5]5. Metrics like those in the Social Progress Index seem specific enough to be quantified and tracked, yet general enough to capture many of our shared aspirations. Contrast them with character strengths like generosity and perseverance, which have strong cross-cultural agreement. It is hard to disagree with these, but it is also hard to specify how much of them a society has and how and when they ought to be increased.
+
+
+[bookmark: 6]6. Note that a higher humanitarian ratio is not automatically better for the population at large. For example, past some point more humanitarian behavior might lessen surplus resources available for innovation and capital investment, which might reduce societal resources in the long run. Also note that the humanitarian ratio quantifies humanitarianism and not enforced communism. Pragmatically, most peacetime societies seem to have a generally positive humanitarian ratio. That does not mean that people will usually choose to help others at their own expense, but only that people will help others if it is easy enough for them and helpful enough to others. While opinions differ on how much humanitarianism is desirable (think of a disciple of Ayn Rand versus a social democrat), we should probably assume some feeling for others on the part of most people to make raising the floor a plausible societal goal (Noddings, 2003). A person with no feelings for others — a sociopath — might masquerade or be forced to act as humanitarian, but would make an untrustworthy floor-raising partner. (It seems prudent to immunize floor-raising systems against sociopaths.)
+
+
+[bookmark: 7]7. The principle is based on a variation from Brock (2009) of one of Rawls’ principles of justice (which are to give everyone the broadest set of basic liberties compatible with the same liberties for others, and to arrange inequalities for the greatest benefit to the least-advantaged members of society with access to privileged positions open equally to all). This principle and countless other moral precepts imply that raising the floor is a duty in a society with huge gaps in how well core human needs are met. (There is a vast literature discussing relevant questions of justice and distribution in economics, ethics, and political science. Classical ethical approaches include utilitarian, deontological, and virtue ethics, all of which address questions of why and to some extent how to help others. In practice, these ethical approaches often overlap when making decisions.) Note also that “median” is used for illustrative purposes. More sophisticated statistical measures may be appropriate in practice, as may a more complex balancing of helping the poor before or simultaneously with the majority (drawing perhaps from discussions in health and international development on how to allocate resources between helping those in immediate need and investing in longer-term development and innovation).
+
+
+[bookmark: 8]8. Providers of universal algorithmic genies could come in other forms like social-purpose startups, non-profits, peer-to-peer services, commons-based approaches, or regulated utilities. What seems key is that they raise the floor by default as part of their core purpose — for example, by relentlessly improving quality and accessibility of a breakthrough service for core human needs, or by maximizing social benefit while staying solvent. They could apply creative business models like using profits from wealthy customers to subsidize service to poorer customers — a strategy used by social-purpose businesses and “freemium” online services.
+
+
+[bookmark: 9]9. “Better goals” can mean goals where progress can be made to improve on business as usual. It can mean goals where there is both wide consensus and deep evidence that progress would be beneficial (like many of the floors in Table 1, for instance). It can mean avoiding simplistic metrics in favor of the most insightful floors that we can evolve. And pursuing even insightful floors in isolation is not enough, as chasing some objectives at the expense of others has led to mistakes in many fields. (To take three fields starting with “e”, some economists have valorized GDP growth even when that reduces natural and social capital, some educators have given students a narrow education by “teaching to the test”, and some engineers have built works that failed when critical factors were not met.)
+
+
+[bookmark: 10]10. We invite the reader to consider other ideals that could motivate better algorithmic genies and Internet capabilities, like “Reinforce cooperation”. Or character strengths that could serve as ideals to seek, like Truth and Justice (Peterson and Seligman, 2004). Or long-term questions to test ourselves against, like “Are we being good ancestors?” The ideals to which we commit should have mythic resonance proportional to the challenges we face.
+
+
+[bookmark: 11]11. Schneier, 2014, p. 317.
+
+
+[bookmark: 12]12. Goals like these may be useful when evolving incentives to guide our ingenuity (Chandrasekharan and Tovey, 2012). Much of the Internet’s remarkable evolution has depended upon decentralized freedom for its innovators. But harnessing the Internet to better serve human progress may require that more of its future innovators choose to spend more of their time and resources pursuing goals like the ones we have explored. This in turn may require evolving incentives, organizational structures, and economic paradigms to make it more automatic to benefit only by actions that don’t harm others (Wright, 2000).
+
+
+ 
+
+References
+
+
+Adam Alter, 2017. Irresistible: The rise of addictive technology and the business of keeping us hooked. New York: Penguin Press.
+
+
+Panayotis Antoniadis, 2016. “Local networks for local interactions: Four reasons why and a way forward.” First Monday, volume 21, number 12, at http://firstmonday.org/article/view/7123/5661, accessed 16 January 2018.
+doi: http://dx.doi.org/10.5210/fm.v21i12.7123, accessed 2 August 2017.
+
+
+Anthony B. Atkinson, 2015. Inequality: What can be done? Cambridge, Mass: Harvard University Press.
+
+
+Ryan Avent, 2016. The wealth of humans: Work, power, and status in the twenty-first century. New York: St Martin’s Press.
+
+
+Peter Barnes, 2014. With liberty and dividends for all: How to save our middle class when jobs don’t pay enough. Oakland, Calif.: Berrett-Koehler Publishers.
+
+
+Nick Bostrom, 2014. Superintelligence: Paths, dangers, strategies. Oxford: Oxford University Press.
+
+
+Nick Bostrom and Milan M. Ćirković (editors), 2008. Global catastrophic risks. Oxford: Oxford University Press.
+
+
+Marshall Brain, 2003. “Manna: Two views of humanity’s future,” at http://marshallbrain.com/manna1.htm, accessed 1 August 2017.
+
+
+Rutger Bregman, 2017. Utopia for realists: How we can build the ideal world. Translated by Elizabeth Manton. New York: Little, Brown.
+
+
+Kenneth L. Brigham and Michael M. E. Johns, 2012. Predictive health: How we can reinvent medicine to extend our best years. New York: Basic Books.
+
+
+Gillian Brock, 2009. Global justice: A cosmopolitan account. Oxford: Oxford University Press.
+
+
+Lester R. Brown, 2009. Plan B 4.0: Mobilizing to save civilization. New York: Norton.
+
+
+Erik Brynjolfsson and Andrew McAfee, 2014. The second machine age: Work, progress, and prosperity in the time of brilliant technologies. New York: Norton.
+
+
+Sanjay Chandrasekharan and Mark Tovey, 2012. “Sum, quorum, tether: Design principles underlying external representations that promote sustainability,” Pragmatics and Cognition, volume 20, number 3, pp. 447–482.
+doi: http://dx.doi.org/10.1075/pc.20.3.02cha, accessed 16 January 2018.
+
+
+Stephen R. Covey with Breck England, 2011. The third alternative: Solving life’s most difficult problems. New York: Free Press.
+
+
+Mihaly Csikszentmihalyi, 1991. Flow: The psychology of optimal experience. New York: Harper Perennial.
+
+
+Alain de Botton, 2014. The news: A user’s manual. Toronto: Signal.
+
+
+Primavera De Filippi and Samer Hassan, 2016. “Blockchain technology as a regulatory technology: From code is law to law is code,” First Monday, volume 21, number 12, at http://firstmonday.org/article/view/7113/5657, accessed 16 January 2018.
+doi: http://dx.doi.org/10.5210/fm.v21i12.7113, accessed 2 August 2017.
+
+
+John De Graaf and David K. Batker, 2011. What’s the economy for anyway? Why it’s time to stop chasing growth and start pursuing happiness. London: Bloomsbury Press.
+
+
+Ronald J. Deibert, 2013. Black code: Surveillance, privacy, and the dark side of the Internet. Toronto: Signal.
+
+
+David Deutsch, 2012. The beginning of infinity: Explanations that transform the world. London: Penguin Books.
+
+
+Freeman Dyson, 2006. The scientist as rebel. New York: New York Review Books.
+
+
+Joe Edelman, 2014. “Choicemaking and the interface,” at http://nxhx.org/Choicemaking/, accessed 2 August 2017.
+
+
+Martin Ford, 2015. Rise of the robots: Technology and the threat of a jobless future. New York: Basic Books.
+
+
+Pope Francis, 2015. “Laudato Si,” at https://laudatosi.com, accessed 2 August 2017.
+
+
+Ursula Franklin, 2006. The Ursula Franklin reader: Pacifism as a map. Toronto: Between the Lines.
+
+
+Milton Friedman and Rose D. Friedman, 2012. Capitalism and freedom. Fortieth anniversary edition. Chicago: University of Chicago Press.
+
+
+Future of Life Institute, 2017. “Asilomar AI principles,” at https://futureoflife.org/ai-principles/, accessed 2 January 2018.
+
+
+Gapminder, 2017. “Gapminder,” at http://www.gapminder.org, accessed 2 August 2017.
+
+
+Marc Goodman, 2015. Future crimes: Everything is connected, everyone is vulnerable, and what we can do about it. New York: Doubleday.
+
+
+Roderick Graham, 2016. “Nurturing non-market spaces in the digital environment,” First Monday, volume 21, number 10, at http://firstmonday.org/article/view/6959/5644, accessed 16 January 2018.
+doi: http://dx.doi.org/10.5210/fm.v21i10.6959, accessed 2 August 2017.
+
+
+David Grinspoon, 2016. Earth in human hands: Shaping our planet’s future. New York: Grand Central Publishing.
+
+
+John Haynes Holmes, 1933. The sensible man’s view of religion. Third edition. New York: Harper & Brothers.
+
+
+Thomas Homer-Dixon, 2002. The ingenuity gap. Toronto: Vintage Canada.
+
+
+Jerry Kaplan, 2015. Humans need not apply: A guide to wealth and work in the age of artificial intelligence. New Haven, Conn.: Yale University Press.
+
+
+John F. Kennedy, 1963. “Commencement speech at American University, Washington, D.C.” (10 June 1963), at https://www.jfklibrary.org/Research/Research-Aids/JFK-Speeches/American-University_19630610.aspx, accessed 2 August 2017.
+
+
+Rushworth M. Kidder, 2005. Moral courage. New York: W. Morrow.
+
+
+Daniel Lathrop and Laurel Ruma (editors), 2010. Open government: Collaboration, transparency, and participation in practice. Cambridge, Mass.: O’Reilly, and at
+http://github.com/oreillymedia/open_government, accessed 2 August 2017.
+
+
+Michael Marmot, 2015. The health gap: The challenge of an unequal world. London: Bloomsbury.
+
+
+Hassan Masum, 2010. “The world’s free virtual school: An interview with Salman Khan” (29 March), at https://web.archive.org/web/20130303121036/www.worldchanging.com/archives/011039.html, accessed 2 August 2017.
+
+
+Hassan Masum and Mark Tovey, 2015. “Rise of the digital angels,” MIT Press Blog (14 August), at https://mitpress.mit.edu/blog/rise-digital-angels, accessed 2 August 2017.
+
+
+Hassan Masum and Peter A. Singer, 2007. “A visual dashboard for moving health technologies from ‘lab to village’,” Journal of Medical Internet Research, volume 9, number 4, at http://www.jmir.org/2007/4/e32/, accessed 16 January 2018.
+doi: http://dx.doi.org/10.2196/jmir.9.4.e32, accessed 16 January 2018.
+
+
+Hassan Masum and Mark Tovey, 2006. “Given enough minds...: Bridging the ingenuity gap,” First Monday, volume 11, number 7, at http://firstmonday.org/article/view/1370/1289, accessed 16 January 2018.
+doi: http://dx.doi.org/10.5210/fm.v11i7.1370, accessed 2 August 2017.
+
+
+Hassan Masum, Steffen Christensen, and Franz Oppacher, 2003. “The Turing Ratio: A framework for open-ended task metrics.” Journal of Evolution & Technology, volume 13, number 2, at http://www.jetpress.org/volume13/TuringRatio.pdf, accessed 2 August 2017.
+
+
+Hassan Masum, Aarthi Rao, Benjamin M. Good, Matthew H. Todd, Aled M. Edwards, Leslie Chan, Barry A. Bunin, Andrew I. Su, Zakir Thomas, and Philip E. Bourne. 2013. “Ten simple rules for cultivating open science and collaborative R&D,” PLoS Computational Biology, volume 9, issue 9 (26 September), at http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003244, accessed 16 January 2018.
+doi: https://doi.org/10.1371/journal.pcbi.1003244, accessed 2 August 2017.
+
+
+Donella Meadows, 2010. “Leverage points: Places to intervene in a system,” Solutions, volume 1, number 1. pp. 41–49, at https://www.thesolutionsjournal.com/article/leverage-points-places-to-intervene-in-a-system/, accessed 2 August 2017.
+
+
+Evgeny Morozov, 2011. The net delusion: The dark side of Internet freedom. New York: PublicAffairs.
+
+
+Bonnie Nardi, 2015. “Inequality and limits,” First Monday, volume 20, number 8, at http://firstmonday.org/article/view/6126/4845, accessed 16 January 2018.
+doi: http://dx.doi.org/10.5210/fm.v20i8.6126, accessed 2 August 2017.
+
+
+Nel Noddings, 2003. Caring: A feminine approach to ethics and moral education. Second edition. Berkeley: University of California Press.
+
+
+Cathy O’Neil, 2016. Weapons of math destruction: How big data increases inequality and threatens democracy. New York: Crown.
+
+
+Tim O’Reilly, 2017. WTF: What’s the future and why it’s up to us. New York: HarperBusiness.
+
+
+Tim O’Reilly, 2013. “Open data and algorithmic regulation,” In: Brett Goldstein with Lauren Dyson (editors), Beyond transparency: Open data and the future of civic innovation. San Francisco, Calif.: Code for America Press, pp. 289–300, and at http://beyondtransparency.org/chapters/part-5/open-data-and-algorithmic-regulation/, accessed 16 January 2018.
+
+
+Naomi Oreskes and Erik M. Conway, 2011. Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. London: Bloomsbury.
+
+
+Thomas Paine, 1895. “Agrarian justice,” In: The writings of Thomas Paine, volume 3, 1791–1804. New York: G. P. Putnam’s Sons, and at http://www.gutenberg.org/files/31271/31271-h/31271-h.htm#link2H_4_0029, consulted 2 August 2017.
+
+
+Simon Parkin, 2016. Death by video game: Danger, pleasure, and obsession on the virtual frontline. Brooklyn, N.Y.: Melville House.
+
+
+Raj Patel, 2010. The value of nothing: How to reshape market society and redefine democracy. New York: Picador.
+
+
+Christopher Peterson and Martin E. P. Seligman, 2004. Character strengths and virtues: A handbook and classification. Washington, D.C.: American Psychological Association.
+
+
+Dirk Philipsen, 2015. The little big number: How GDP came to rule the world and what to do about it. Princeton, N.J.: Princeton University Press.
+
+
+John Rawls, 1999. A theory of justice. Revised edition. Cambridge, Mass.: Belknap Press of Harvard University Press.
+
+
+Eric Ries, 2011. The lean startup: How today’s entrepreneurs use continuous innovation to create radically successful businesses. New York: Crown Business.
+
+
+Adam Rogers, 2017. “The hard math behind Bitcoin’s global warming problem,” Wired (15 December), at https://www.wired.com/story/bitcoin-global-warming/, accessed 6 January 2018.
+
+ 
+Everett M. Rogers, 2003. Diffusion of innovations. Fifth edition. New York: Free Press.
+ 
+
+Bertrand Russell, 2006. Roads to freedom. Nottingham: Spokesman for the Bertrand Russell Peace Foundation.
+
+
+Bruce Schneier, 2016. Data and goliath: The hidden battles to collect your data and control your world. New York: Norton.
+
+
+Bruce Schneier, 2014. “Power and the Internet,” In: John Brockman (editor). What should we be worried about? Real scenarios that keep scientists up at night. New York: Harper Perennial, and https://www.schneier.com/essays/archives/2013/01/power_and_the_intern.html, accessed 16 January 2018.
+
+
+Bruce Schneier, 2012. Liars and outliers: Enabling the trust that society needs to thrive. Indianapolis, Ind.: Wiley.
+
+
+Doug Schuler, 2008. “Civic intelligence and the public sphere,” In: Mark Tovey (editor). Collective intelligence: Creating a prosperous world at peace. Oakton, Va.: Earth Intelligence Network.
+
+
+Charles Seife, 2014. Virtual unreality: Just because the Internet told you, how do you know it’s true? New York: Viking Penguin.
+
+
+M. Six Silberman, 2015. “Information systems for the age of consequences,” First Monday, volume 20, number 8, at http://firstmonday.org/article/view/6128/4847, accessed 16 January 2018.
+doi: http://dx.doi.org/10.5210/fm.v20i8.6128, accessed 2 August 2017.
+
+
+Peter Singer, 2011. The expanding circle: Ethics, evolution, and moral progress. Princeton, N.J.: Princeton University Press.
+
+
+Peter Singer, 2010. The life you can save: How to do your part to end world poverty. New York: Random House.
+
+
+Social Progress Imperative, 2017. “2017 Social Progress Index,” at http://www.socialprogressimperative.org/, accessed 2 August 2017.
+
+
+Ramesh Srinivasan, 2017. Whose global village? Rethinking how technology shapes our world. New York: New York University Press.
+
+
+Andy Stern with Lee Kravitz, 2016. Raising the floor: How a universal basic income can renew our economy and rebuild the American dream. New York: PublicAffairs.
+
+
+Richard Susskind and Daniel Susskind, 2015. The future of the professions: How technology will transform the work of human experts. Oxford: Oxford University Press.
+
+
+Jonathan Tepperman, 2016. The fix: How nations survive and thrive in a world in decline. New York: Tim Duggan Books.
+
+
+Philip E. Tetlock and Dan Gardner, 2015. Superforecasting: The art and science of prediction. Toronto: Signal.
+
+
+Bill Tomlinson, 2015. “Toward a computational immigration assistant,” First Monday, volume 20, number 8, at http://firstmonday.org/article/view/6119/4838, accessed 16 January 2018.
+doi: http://dx.doi.org/10.5210/fm.v20i8.6119, accessed 2 August 2017.
+
+
+Eric Topol, 2015. The patient will see you now: The future of medicine is in your hands. New York: Basic Books.
+
+
+Kentaro Toyama, 2015. Geek heresy: Rescuing social change from the cult of technology. New York: PublicAffairs.
+
+
+Sherry Turkle, 2011. Alone together: Why we expect more from technology and less from each other. New York: Basic Books.
+
+
+United Nations, 2017. “Sustainable development goals: Resources,” at http://libraryresources.unog.ch/sdgs, accessed 2 June 2017.
+
+
+Ushahidi, 2017. “About Ushahidi,” at http://ushahidi.com/about, accessed 2 June 2017.
+
+
+Richard Wilkinson and Kate Pickett, 2010. The spirit level: Why greater equality makes societies stronger. New York: Bloomsbury Press.
+
+
+World Values Survey, 2017. “World Values Survey,” at http://www.worldvaluessurvey.org/, accessed 2 August 2017.
+
+
+Robert Wright, 2000. Nonzero: The logic of human destiny. New York: Pantheon.
+
+
+XPRIZE Foundation, 2017. “XPRIZE,” at https://www.xprize.org/, accessed 1 February 2018.
+
+
+Muhammad Yunus with Karl Weber, 2017. A world of three zeros: The new economics of zero poverty, zero unemployment, and zero net carbon emissions. New York: PublicAffairs.
+
+
+Ethan Zuckerman, 2013. Digital cosmopolitans: Why we think the Internet connects us, why it doesn’t, and how to rewire it. New York: Norton.
+
+
+ 
+
+
+
+
+Editorial history
+
+Received 28 August 2017; revised 9 January 2018; accepted 14 January 2018.
+
+
+
+
+
+[image: Creative Commons License]
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+
+Goals for algorithmic genies
+by Hassan Masum and Mark Tovey.
+First Monday, Volume 23, Number 2 - 5 February 2018
+http://firstmonday.org/ojs/index.php/fm/article/view/8073/6638
+doi: http://dx.doi.org/10.5210/fm.v23i2.8073
+
+
+
+
+
+		
+
+		
+			
+					[image: Bookmark and Share]
+			
+			
+		
+
+	
+
+		
+
+
+
+
+
+
+
+
+A Great Cities Initiative of the University of Illinois at Chicago University Library.© First Monday, 1995-2018. ISSN 1396-0466.
+
+
+
+
+
+
+
+ 

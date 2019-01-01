@@ -1,0 +1,180 @@
+
+		
+			
+				
+					[image: The Code4Lib Journal]
+
+					ISSN 1940-5758
+
+				
+
+			
+
+			
+				
+					
+						
+						
+					
+
+				
+
+				
+					Current Issue
+
+							Issue 39, 2018-02-05
+
+
+						
+					Previous Issues
+
+							Issue 38, 2017-10-18
+	Issue 37, 2017-07-18
+	Issue 36, 2017-04-20
+	Issue 35, 2017-01-30
+	Older Issues
+
+
+				
+
+				
+					About
+
+						Mission
+	Editorial Committee
+	Process and Structure
+	Code4Lib
+
+
+				
+
+				
+					For Authors
+
+						Call for Submissions
+	Article Guidelines
+
+
+				
+
+			
+
+						
+
+			
+								
+					Issue 39, 2018-02-05
+
+					Editorial: Musing on learning to be a selfish librarian
+
+					
+						One of the perks of being the coordinating editor is you get to write the opening editorial for the issue.  It’s an opportunity to think broadly about the community, the journal…current events.  And if you look back over the past year or so, those that have taken on this role have been more than up […]
+
+					
+
+					
+						
+One of the perks of being the coordinating editor is you get to write the opening editorial for the issue.  It’s an opportunity to think broadly about the community, the journal…current events.  And if you look back over the past year or so, those that have taken on this role have been more than up for the task.  I know, I’ve been reading them the past couple of weeks.  Ruth had the unenviable task of shepherding the journal right after the elections, at a time when many wondered what the future would hold for the profession, the country, and their families.  Peter talked about the current state of the Journal, and some of the successes and long-term challenges that we face as an all-volunteer publication.  It’s a great reminder of why the journal exists and why, as a community, we need to continually be evolving and encouraging new voices and new editors.  And his words had an impact, as we welcomed a number of new members to the editorial committee, which has allowed the journal to increase the number of articles published and produce an even better product.  And finally, in the last issue, Carol tackled the issue of economics, and the incredible work of the Fiscal Continuity Interest Group to investigate, recommend, and provide some long-term vision around the ongoing health of the annual conference.  And while everyone is looking forward to being in Washington, DC for what is likely going to be another great conference, the economics of the conference are hard to ignore.  DC is an expensive city, and this year, the conference registration and logistics are higher than they have ever been; a worrying trend that may start to price out attendees.   More troublesome, as I write this today, there still are no volunteers to take up next year’s annual conference, a trend that has now repeated itself over the past few years.  I’ve started to wonder if we are seeing the last of the annual conferences, at least in their current form.   At the same time, I’m consistently heartened by the increased number of local events that have been extending the reach of the community.  Carol wrote that it’s time to continue to evolve…maybe that’s what we are seeing now.  It will be interesting to watch.
+
+Anyway, that is to say, being the coordinating editor and having the opportunity to give the opening remarks is a privilege, and one that our editors take seriously.  And yet, I’m a little at a loss this time.  I’ve started and stopped this opening more times than I can count, and I think I know why.  While I would like to have written something of substance like my coordinating editors before me, what I’d really like to do is tell everyone a story….one that has been rattling around in my head for a while and has become more insistent as time has gone on but has pushed itself into the forefront recently when I was asked a question by a colleague just starting out.  So, I hope that you won’t mind indulging me.
+
+All my professional career, I’ve worked in an academic library.  And I’ve done what academic librarians do.  I publish and present, I travel, I serve in a variety of capacities within a number of communities – while I do these things because they are part of what it means to be successful in an academic environment; if I’m honest, I also do this work because I happen to enjoy what I do and the people that I’ve had the opportunity to work with.  Most days, I feel like I get to make a small difference in my little part of the world, and on my best days, I can see it.  But lately, I’ve been starting to notice the passing of time and everything that it takes away.  Looking around the profession, I see very few of the same faces that started with me almost 18 years ago.  Most are no longer in libraries – they’ve moved outside of the profession because the cost of being in libraries got too high without a significant enough return.  In fact, I just had this conversation this week with someone that has been a long-time mentor.  They’d become tired, wondering if the work they had dedicated their lives was really making a difference at all.  And it got me to wonder, what is the price that we all pay to be in this profession.  What price did I pay to be a librarian?
+
+In my case, I’ve paid in time.  Like many in the Code4Lib Community, we become invested in our work to the point that it becomes tied up in our professional identities.  It’s a high cost…too high, I would argue.  For many of my friends who have left the profession, the cost was burning out and fleeing the profession.  For others, it can be disorienting, as projects inevitably come to an end.  When your professional identity is so closely tied to a single effort, how do you fill that hole and start over?  Maybe some of you are in this space right now and are asking if the project or effort was worth the cost of your professional identity.  I don’t have an answer to that question, but it’s one I wonder myself when I think about it.  But if I’m honest, the highest price I’ve paid for my professional life is in time…time that I realize I can’t have back as I start to count down the days to my oldest son’s graduation.  And it’s time, that I’m finding myself holding onto more tightly as I think about the work that I do and the commitments that I make.
+
+And it was a question…a question I get asked often by new librarians looking for advice as they are starting out – how much is too much – that ultimately got me to write.  We have so many talented young professionals in our midst, who are well on their way to being the voice of this community and they are finding themselves stretched thin.  In a profession that places service on a pedestal, that creates positions that ask librarians to be all things to all people and encourages personal sacrifice as the price to professional service.  In that environment, what I offer to those that ask this question, what I offer to you all now, is something simple…learn to be a selfish librarian.  Probably one of the most important skills that most often gets learned through years of experience is how to say no in our professional lives.  It took me an embarrassingly long time to feel OK passing up opportunities, or projects, or requests for help.  Harder still, was admitting that I couldn’t be/do what everyone wanted/needed from me and having that be OK.  Our profession thrives on service work and is built on the foundations of those that have been burnt out from too many commitments.  I’m a librarian – it’s how I identify myself, and it is very much a part of how I see myself.  But it is not all that I am…and I’m ashamed to admit how long it took for me to realize that in my zeal to be good in my professional life, it was placing everything else out of balance.  Ironically, it was only in admitting that, and saying no more often, that allowed for deeper engagement in the communities that are important to me.
+
+And with that, I’d like to encourage everyone to dig into Issue 39 of the Journal.  The editorial committee received a number of exceptional proposals, and selected articles covering a wide range of topics.  From Analytics (Ship It: Logistical Tracking of ILL Physical Loans and Using R and the Tidyverse to Generate Library Usage Reports) to Discovery (Microdata in the IR: A Low-Barrier Approach to Enhancing Discovery of Institutional Repository Materials in Google) to processing (Approaching the larges ‘API’: extracting information from the Internet with Python) to a touch of the experimental (Getting Real in the Library: A Case Study at the University of Florida) and much more.  The Journal has a little something for everyone this issue.  So, please, on behalf of the Code4Lib Journal Editorial Committee, we invite you to read, learn, and engage with this issue and the topics presented.
+
+ 
+
+–tr
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+					
+
+														
+
+				
+
+
+	Subscribe to comments: For this article | For all articles
+
+
+			
+
+	 
+
+Leave a Reply
+
+
+
+
+
+
+
+Name (required)
+
+
+
+Mail (will not be published) (required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+             
+
+            
+            
+             
+            
+
+
+
+
+
+
+
+							
+
+
+			
+				Log in
+
+				This work is licensed under a Creative Commons Attribution 3.0 United States License.
+[image: Creative Commons License]
+
+			
+
+			            
+
+
+
+		
+
+		
+		
+	

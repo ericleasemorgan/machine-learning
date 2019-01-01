@@ -1,0 +1,675 @@
+
+		
+			
+				
+					[image: The Code4Lib Journal]
+
+					ISSN 1940-5758
+
+				
+
+			
+
+			
+				
+					
+						
+						
+					
+
+				
+
+				
+					Current Issue
+
+							Issue 39, 2018-02-05
+
+
+						
+					Previous Issues
+
+							Issue 38, 2017-10-18
+	Issue 37, 2017-07-18
+	Issue 36, 2017-04-20
+	Issue 35, 2017-01-30
+	Older Issues
+
+
+				
+
+				
+					About
+
+						Mission
+	Editorial Committee
+	Process and Structure
+	Code4Lib
+
+
+				
+
+				
+					For Authors
+
+						Call for Submissions
+	Article Guidelines
+
+
+				
+
+			
+
+						
+
+			
+								
+					Issue 39, 2018-02-05
+
+					The Automagic of the LII’s eCFR
+
+					
+						The Legal Information Institute (LII) began providing access to federal legal materials in 1992.  This article discusses their work expanding and improving free public access to federal legal resources in the U.S., particularly developing  their eCFR product for the Code of Federal Regulations, and plans to integrate DocketWrench. 
+
+					
+
+					
+						
+by Charlotte Schneider and Sylvia Kwakye
+
+Background
+
+Cornell Law School’s Legal Information Institute (LII) has been publishing law online since 1992. The mission of the LII was, and remains, to publish law online for free, to create materials that help people understand the law, and to explore new technologies that make it easier for people to find the law. The United States Code (USC) was the first full collection that the LII made available. The LII’s USC was innovative in that they used hyperlinks to allow researchers to easily navigate between sections referenced in the text. The LII also made the Table of Popular Names, a supplement to the USC, available so that researchers could navigate from the popular name of the statute to the statutory section within the USC.
+
+In the years following the availability of the USC, the LII expanded their offerings to include United States Supreme Court opinions, the United States Constitution, secondary content like Wex, their legal encyclopedia and dictionary, and more. These collections, in particular, all work together. Some collections, like the Supreme Court opinions, are fully automated so that when new content is available from the Supreme Court, that information is automatically processed and made available on the LII site. Hyperlinks to the LII’s USC and Constitution collections are also automatically created when the text is processed. 
+
+The USC collection went further by incorporating another collection that is independent of the LII: they programmed a feature to automatically create hyperlinks for the Statutes at Large and Public Law citations in a statute’s source credits that linked to the full-text of the Public Law from GPO’s online repository, Thomas, the FDsys predecessor. As a result of the LII’s success with the USC, in February 2010, the GPO announced a partnership with the LII to convert the Code of Federal Regulations into XML, which enabled them to publish the first HTML version of the Code of Federal Regulations, in the same fashion as the USC with respect to its interoperability with other collections. 
+
+The Code of Federal Regulations
+
+The Code of Federal Regulations (CFR) presents the official language of current federal regulations in force. The authority for rulemaking can come from several different directives. One such directive is legislation, in a statutory grant of authority. When agency rulemaking begins, the agencies publish a Notice of Proposed Rulemaking (NPRM), with the proposed language of the rule. This Proposed Rule publication opens up the period for public comments to allow interested persons or organizations, and the general public, to submit comments for informing the rulemaking process. When the agency publishes the Final Rule, it also publishes a summary of the comments received. The NPRM and the Final Rule are published in the Federal Register, the daily publication of agency rulemaking activities. The Final Rules, as published in the Federal Register, are compiled and organized by subject into the CFR by the Office of the Federal Register (OFR). The CFR is updated only once a year, which can present challenges when doing regulatory research. 
+
+Companion publications and finding aids to the CFR include the Parallel Table of Authorities (PTOA) and the List of Sections Affected (LSA). The PTOA presents a list of the statutory–or otherwise–grants of authority for rulemaking. This allows researchers to navigate between the CFR and the USC, making connections between statutes granting rulemaking authority and the regulations promulgated in furtherance of those grants. Likewise, researchers reading a regulation can easily find out what legislation authorized that rule. 
+
+The LSA is a compilation of all of the sections that are affected by agency rulemaking activities during the year. Each NPRM and Final Rule published in the Federal Register notes which CFR sections are affected by the rulemaking. 
+
+The LSA is a compilation of all of the sections that are affected by agency rulemaking activities during the year. Each NPRM and Final Rule published in the Federal Register notes which CFR sections are affected by the rulemaking.
+
+Researching regulations typically begins  with the most recent publication of the CFR and finding the appropriate Part or Section. To see if that section has been updated since the CFR was published, researchers check the most recent monthly compilation of the LSA. Since the LSA is only a monthly publication, researchers still need to check the most recent issues of the Federal Register. Each issue’s table of contents contains a short list of CFR sections affected within that issue. If the section is one that has been affected, researchers then need to use individual, referenced issues of the Federal Register to find the new Final Rule, or the NPRM that will affect that rule. 
+
+The CFR is available in print in most law libraries as a collection of over 200 volumes. The CFR is also available online from the GPO, as PDF documents. The PTOA and the LSA are also available in print and online from the GPO. 
+
+LII’s CFR
+
+In February 2010, the GPO announced a pilot project, partnering with the Cornell Law Library and the LII to create “a high-value version of the CFR.”[1] The LII had experience from their early work with the USC in processing government typesetting into XML format, and lent that expertise to the GPO. This gave way to the GPO making available to the public for download the bulk XML source data for the CFR. From that bulk XML source data, the LII built an early, full-text version of their CFR.[2] 
+
+Given their experience with similar government information, the LII applied some of the technologies employed in their other collections to this CFR collection, such as their formatting, with nested and indented paragraphs, hyperlinked cross-references, the breadcrumb trail.[3] Other features that enhance the regulatory research experience include: 
+
+	table of contents and individual CFR sections each having a dedicated page and URL; 
+	each paragraph’s alpha-numeric prefix is formatted in bold so that they stand out when looking for a specific paragraph; 
+	Federal Register citations in the source credits are hyperlinked to the correct issue and page where the final rule is published in GPO’s Federal Register collection; 
+	each page features a breadcrumb trail for context and navigation; and
+
+pages contain tabs for organizing relevant information.[4] 
+
+
+One of these tabs, “Authorities (U.S. Code)”, links back to the statutory rulemaking authority for that Part or Section. In some cases, where the grant of authority comes from something other than a statute, like an Executive Order, this information will be listed, but not hyperlinked.[5] The information for these Authorities pages is programmed to automatically populate relevant information taken from the LII’s PTOA. 
+
+While just using these online collections with these technologies makes researching regulations easier, sometimes researchers want the current language of the regulation.  This can be done by either waiting for the updated publication of the relevant CFR volume, or by using the LSA and individual issues of the Federal Register, but these options can be time consuming.
+
+To answer this problem, the GPO offered an unofficial version of the CFR that was updated almost daily.[6] The LII linked to the GPO’s eCFR from the Toolbox on each of their CFR pages in case researchers wanted the current language for a regulation that had been updated. However, since the GPO’s XML files used for the LII’s CFR were derived from print volumes, the files were updated infrequently enough that the content for the end user was dated. The LII addressed this currency issue by creating a “Rulemaking” tab. This page is programmed to find issues of the Federal Register that contain notices, proposed rules, and final rules affecting that section, and then extract the relevant data for display on the page.[7]
+
+The CFR project gave the LII a chance to build systems for the way that researchers work. Likewise, it gave the LII a chance to work with some new technologies to better connect the general public with the laws they were looking for. To do this, they looked at linked data and semantic web technologies that would enable, for example,  someone researching federal regulations to get to the regulation about acetaminophen from a search for the more common name for the drug, Tylenol. 
+
+The LII hosts approximately 30 million unique visits each year. The CFR collection sees approximately one-quarter of that traffic. There’s been an uptick in demand for regulations, but not as many free sources are available for researching regulations as those available for researching legislation. To that end, the LII continues to improve this collection to better help people find and understand the law. 
+
+LII’s eCFR
+
+In August 2015, the GPO announced that they would offer for download the XML files of the eCFR for developers. This gave the LII a chance to scale, re-work, and implement existing technologies on this new collection. It also gave the LII a chance to try out new technologies.[8]
+
+The first step in the process was to just get the text of the eCFR up, from the XML files. The new XML was cleaner, but different enough from the book-derived-XML that LII programmer, Sylvia Kwakye, could not simply reuse what was in place for processing the book-CFR-XML. A new build was required, and was successfully executed. From there, Kwakye added all of the LII’s formatting features mentioned above, improving on how those features worked in the old CFR collection.[9] After that, the LII added back the information tabs, including the Rulemaking tab and also the Authorities tab that integrates their PTOA. 
+
+Another innovation was made for the definitions. Key terms can be defined at as high a level as to be applicable to the whole Title, or as granular as to be applicable to only that Subchapter or even Part. To bring clarity to what certain terms mean, especially terms that are seemingly straightforward, the LII created a definitions feature for their eCFR that highlights those defined, legal terms. This feature displays as off-colored, or highlighted words with a dotted-underline. When the highlighted term is clicked, researchers are presented with a pop-up box of useful information which includes the definition of the term, the source for where that term is defined with a hyperlink to that section, and the scoping language which explains, from the source section, where within that Title the definition is applicable. The pop-up feature means that the user will not lose their place on the CFR page they are researching. 
+
+Another feature new to the eCFR is the  “What Cites Me” tab. This page is programmed to scan every page of the CFR to find references to that section—i.e. citations to that section found in other CFR sections—and then list them on that page. This is helpful for finding scoping language from a section that might apply to the immediate section being researched.
+
+The hyperlinked source credits also  got an update. The Federal Register citations in the source credits of each section in the eCFR now link to the LII’s RIO (Read It Online) database, which brings researchers to a page that provides links to that document from a variety of open and free sources and subscription services from the single, in this case, Federal Register citation. 
+
+eCFR Pipeline
+
+In August, 2015, the GPO finally made available the XML files for their eCFR. Today, the LII’s CFR content retrieved for the end user is as up-to-date as the most recent issue of the Federal Register. When a specific CFR page is requested, i.e., visited, a series of rules within layers of automation retrieve the most up-to-date information available. While the information is current, the pages of content displayed for the end users are static cached pages. 
+
+LII’s eCFR processing starts with a simple web scraper script that visits the GPO’s bulk download site. It locates the table that lists information about each title. It then extracts each title’s metadata, including the “last updated” date, and compares it to the “last updated” date that we have stored in a file locally. If the date has changed, the program automatically downloads the new XML file and updates the “last updated” date for the title in the local file. After all changed titles have been retrieved, the script writes the list of changed titles to a file named title.changed.text and exits.
+
+A non-empty, updated title.changed.text file automatically kicks off the main processing pipeline. This pipeline is a bash script that runs a title file sequentially through a number of programs, each one of which produces a richer xml document until it is finally ingested into an xml database.
+
+The processing pipeline is divided into roughly 3 phases: preprocessing, features, and storage.
+
+In the preprocessing phase, LII checks (and repairs, if necessary) that all the xml files are utf-8 encoded and well-formed.  In addition, LII removes the need to deal with mixed case items by lowercasing the names of all elements and attributes. Next, LII adds a variety of identifier attributes for  use internally to uniquely identify every division in the document hierarchy. The simplest and most heavily used of these is the “extid,” which compactly encodes the division type and enumerator.
+
+With the identifiers in place, LII extracts all sections and appendices into individual xml files. They also generate an xml table of contents document for each title. The table of contents (TOC) structure is then mapped to an RDF graph and uploaded to a central graphDB metadata repository. Snippets for a section, part, subchapter, and chapter from Title 9’s structure RDF are shown below.
+
+
+Listing 1: Representations of section, part, subchapter and chapter in the RDF graph for CFR Title 9.
+
+
+<https://liicornell.org/liiecfr/9_CFR_1.1> a liitop:Section ;
+  dc:title "§ 1.1   Definitions." ;
+  liiecfr:extid "lii:ecfr:t:9:ch:I:sch:A:pt:1:s:1.1" ;
+  liiecfr:extidDS "lii:cfr:2017:9:0:-:I:A:1:-:1.1" ;
+  liiecfr:hasEnumerator "1.1" ;
+  liiecfr:hasHeading "Definitions." ;
+  liiecfr:hasWebPage <https://www.law.cornell.edu/cfr/text/9/1.1> ;
+  liiecfr:mayCiteAs "9 CFR 1.1" ;
+  liitop:belongsTo <https://liicornell.org/liiecfr/9_CFR_part_1> ;
+  liitop:hasLevelName "section" ;
+  liitop:hasLevelNumber 8 .
+<https://liicornell.org/liiecfr/9_CFR_part_1> a liitop:Supersection ;
+  dc:title "PART 1 - DEFINITION OF TERMS" ;
+  liiecfr:extid "lii:ecfr:t:9:ch:I:sch:A:pt:1" ;
+  liiecfr:extidDS "lii:cfr:2017:9:0:-:I:A:1" ;
+  liiecfr:hasEnumerator "1" ;
+  liiecfr:hasHeading "Definition of Terms" ;
+  liiecfr:hasWebPage <https://www.law.cornell.edu/cfr/text/9/part-1> ;
+  liiecfr:mayCiteAs "9 CFR Part 1" ;
+  liitop:belongsTo <https://liicornell.org/liiecfr/9_CFR_chapter_I_subchapter_A> ;
+  liitop:hasLevelName "part" ;
+  liitop:hasLevelNumber 5 .
+<https://liicornell.org/liiecfr/9_CFR_chapter_I_subchapter_A> a liitop:Supersection ;
+  dc:title "SUBCHAPTER A - ANIMAL WELFARE" ;
+  liiecfr:extid "lii:ecfr:t:9:ch:I:sch:A" ;
+  liiecfr:extidDS "lii:cfr:2017:9:0:-:I:A" ;
+  liiecfr:hasEnumerator "A" ;
+  liiecfr:hasHeading "Animal Welfare" ;
+  liiecfr:hasWebPage <https://www.law.cornell.edu/cfr/text/9/chapter-I/subchapter-A> ;
+  liitop:belongsTo <https://liicornell.org/liiecfr/9_CFR_chapter_I> ;
+  liitop:hasLevelName "subchapter" ;
+  liitop:hasLevelNumber 4 .
+<https://liicornell.org/liiecfr/9_CFR_chapter_I> a liitop:Supersection ;
+  dc:title "CHAPTER I - ANIMAL AND PLANT HEALTH INSPECTION SERVICE, DEPARTMENT OF AGRICULTURE" ;
+  liiecfr:extid "lii:ecfr:t:9:ch:I" ;
+  liiecfr:extidDS "lii:cfr:2017:9:0:-:I" ;
+  liiecfr:hasEnumerator "I" ;
+  liiecfr:hasHeading "Animal and Plant Health Inspection Service, Department of Agriculture" ;
+  liiecfr:hasWebPage <https://www.law.cornell.edu/cfr/text/9/chapter-I> ;
+  liiecfr:mayCiteAs "9 CFR Chapter I" ;
+  liitop:belongsTo <https://liicornell.org/liiecfr/9_CFR> ;
+  liitop:hasLevelName "chapter" ;
+  liitop:hasLevelNumber 3 .
+
+
+The pre-processing phase is also where extra content tags and attributes are added to the XML. One of the reasons for the LII’s popularity is the readability of their content: LII developers pay particular attention to the way the information is displayed, for easier consumption by the end user. Some of these content tags distinguish a section title from the section text, identify nesting paragraphs, and identify and add hyperlinks to cross-reference citations.
+
+
+Listing 2: XML snippet from 5 CFR 151.101 before any enrichment.
+
+
+<p>(c) <i>Federal agency</i> means an executive agency or other agency of the
+          United States, but does not include a member bank of the Federal Reserve
+          System; </p>
+          <p>(d) <i>State or local officer or employee</i> means an individual employed by
+          a State or local agency whose principal employment is in connection with an
+          activity which is financed in whole or in part by loans or grants made by the
+          United States or a Federal agency but does not include - </p>
+          <p>(1) An individual who exercises no functions in connection with that
+          activity. </p>
+          <p>(2) An individual employed by an educational or research institution,
+          establishment, agency, or system which is supported in whole or in part by - </p>
+          <p>(i) A State or political subdivision thereof; </p>
+          <p>(ii) The District of Columbia; or </p>
+          <p>(iii) A recognized religious, philanthropic, or cultural organization. </p>
+          <p>(e) <i>Political party</i> means a National political party, a State
+          political party, and an affiliated organization. </p>
+
+
+
+[image: screenshot of GPO display]
+
+Image 1: A screenshot of how the above snippet is presented on GPO’s website
+
+
+Listing 3: LII’s enriched XML after identifiers and nested paragraph markup. The class and lev attributes can be used to style the text to improve styles to improve readability. Note also the addition of the id attribute which enables the construction of direct links to the content.
+
+
+<p class="psection-1"><enumxml id="c" lev="1">(c)</enumxml>
+     <i>Federal agency</i> means an executive agency or other agency of the United States, but does
+     not include a member bank of the Federal Reserve System; </p>
+   <p class="psection-1"><enumxml id="d" lev="1">(d)</enumxml>
+     <i>State or local officer or employee</i> means an individual employed by a State or local
+     agency whose principal employment is in connection with an activity which is financed in whole
+     or in part by loans or grants made by the United States or a Federal agency but does not
+     include - </p>
+   <p class="psection-2"><enumxml id="d_1" lev="2">(1)</enumxml> An individual who exercises no
+     functions in connection with that activity. </p>
+   <p class="psection-2"><enumxml id="d_2" lev="2">(2)</enumxml> An individual employed by an
+     educational or research institution, establishment, agency, or system which is supported in
+     whole or in part by - </p>
+   <p class="psection-3"><enumxml id="d_2_i" lev="3">(i)</enumxml> A State or political subdivision
+     thereof; </p>
+   <p class="psection-3"><enumxml id="d_2_ii" lev="3">(ii)</enumxml> The District of Columbia; or </p>
+   <p class="psection-3"><enumxml id="d_2_iii" lev="3">(iii)</enumxml> A recognized religious,
+     philanthropic, or cultural organization. </p>
+   <p class="psection-1"><enumxml id="e" lev="1">(e)</enumxml>
+     <i>Political party</i> means a National political party, a State political party, and an
+     affiliated organization. </p>
+
+
+
+[image: screenshot of CFR presented by the LII]
+
+Image 2:  A screenshot of how the snippet of 5 CFR 151.101 is presented by the LII.
+
+The pre-enrichment XML as used by the GPO and shown in Image 1 shows the basic text in paragraph form. Since the subsections are all left-justified, It is up to the user to figure out the proper nesting of subsections, whereas the LII’s enriched XML adds styles to the text to improve the readability. Specifically, subsection enumerations and sometimes the title for that paragraph are formatted in bold so that pertinent information stands out, and the subsections are properly indented for easier consumption using the class and lev attributes.
+
+It is not just the XML files that get enriched when features are added. The RDF is also updated as more metadata becomes available, enabling LII to develop features useful to their users. An example of this is the “What Cites Me” feature, which, for the end-user, displays as a tab for CFR sections that are referenced in other parts of the CFR. This feature is made possible by adding references to the structure-toc graph. The following snippet of code adds reference information, 
+
+
+Listing 4: Code snippet to update RDF graph with references.
+
+
+if update_toc:
+  toc_graph.add((URIRef(my_uri), TOP["hasXref"], (URIRef(target_uri))))
+
+
+updates the metadata for section 1.1 in title 9 so that it now looks like:
+
+
+Listing 5: Updated section the RDF graph
+
+
+<https://liicornell.org/liiecfr/9_CFR_1.1> a liitop:Section ;
+  dc:title "§ 1.1   Definitions." ;
+  liiecfr:extid "lii:ecfr:t:9:ch:I:sch:A:pt:1:s:1.1" ;
+  liiecfr:extidDS "lii:cfr:2017:9:0:-:I:A:1:-:1.1" ;
+  liiecfr:hasEnumerator "1.1" ;
+  liiecfr:hasHeading "Definitions." ;
+  liiecfr:hasWebPage <https://www.law.cornell.edu/cfr/text/9/1.1> ;
+  liiecfr:mayCiteAs "9 CFR 1.1" ;
+  liitop:belongsTo <https://liicornell.org/liiecfr/9_CFR_part_1> ;
+  liitop:hasLevelName "section" ;
+  liitop:hasLevelNumber 8 ;
+  liitop:hasXref <https://liicornell.org/liiecfr/9_CFR_1.1>,
+      <https://liicornell.org/liiecfr/9_CFR_2.1>,
+      <https://liicornell.org/liiecfr/9_CFR_part_2>,
+      <https://liicornell.org/liiecfr/9_CFR_part_3>,
+      <https://liicornell.org/liiecfr/9_CFR_subpart_C> .
+
+
+LII built their first “What Cites Me” feature for a CFR section by querying the central eCFR repository for the list of sections that reference that section.  They have since developed a more extensive graph model for references in general, and are moving on to new referencing features, in addition to migrating the “What Cites Me” feature to other corpura.
+
+All of this activity is logged so that LII developers can later compile reports on various metrics and quickly find problems when something goes wrong. The example below shows the progression of the pipeline with some of the messages it logs as it processes a single title. Bolding and extra spaces are added to the output to make it easier to pick up important events.
+
+
+Listing 6: sample processing log
+
+
+~ input array of titles to process: ['9']
+num_of_titles to pre-process: 1
+No pooling, only one title.
+Pre-processing factory-ecfr/stages/gposource/ECFR-title9.xml
+Working in process #: 9733
+
+--- cleaning up and making all element and attribute tags lower case ---
+Writing new file to to factory-ecfr/stages/lowercase_tags/ECFR-title9.xml
+
+--- Adding identifiers ---
+add_lii_ids took 3.3294479847 seconds.
+
+--- generating clean TOC (for definitions) ---
+--- generating TOC with misc data elements (eg. hed, notes etc.) ---
+Title 9
+before merging 2 volumes
+subtitles: 0 | subjgrps: 150 | appendices: 0 |sections: 2517 | chapters: 3 | subchapter: 19 | parts: 153 | subparts: 145
+factory-ecfr/stages/toc/ECFR-title9-datatoc.xml
+
+after merging volumes . . .
+subtitles: 0 | subjgrps: 150 | appendices: 0 | sections: 2517 | chapters: 3 | subchapters: 19 | parts: 153 | subparts: 145
+
+--- generating structure RDF from TOC --
+factory-ecfr/metadata/toc_structure/title9
+factory-ecfr/metadata/toc_structure/title9.nt
+
+--- chunking titles: extracting sections/appendices ---
+Chunking up the title
+Title 9
+Done chunking! Wrote a total of 2517 files to factory-ecfr/stages/section_chunks/title9/
+  - 2517 section files
+  - 0 appendix files
+chunk_up_title took 3.85553884506 seconds.
+
+--- creating nested paragraphs ---
+In nested paragraph detector: 2517 files found in factory-ecfr/stages/section_chunks/title9/
+
+.. Found 740 new paragraphs.
+.. Found and tagged 22 additional paragraphs.
+Tagged output written to factory-ecfr/stages/nested_paragraphs/title9/
+
+--- adding cross reference markup (to other places in the title) ---
+  .. Found and tagged 1461 paragraph, 820 section, and 595 supersection cross references within a total of 2518 files.
+
+--- adding aref markup (external-other cfr titles, uscode etc.) ---
+output for arefs (sections) factory-ecfr/stages/arefs/title9/
+....... finished adding arefs .......
+....... getting xref RDF .......
+factory-ecfr/metadata/xrefs/title9
+Total num of CFR cross-references found (in sections and appendices) in title 9: 4334
+('Writing xref RDF to', 'factory-ecfr/metadata/xrefs/title9.nt')
+
+--- Updating lii_ecfr_changelist.json and LII_eCFR_META.xml metadata files for processed titles
+Which supersections changed in title 9?
+checking TOC ...
+Which sections and appendices changed in title 9?
+checking file contents ...
+
+Summary
+ changed = 57
+ removed = 0
+ added = 0
+ checked: 2018-Jan-09 14:54:23
+... updating title 9 in /stages/lii_ecfr_urls_changelist.json
+... updating title 9 in /stages/lii_ecfr_extids_changelist.json
+... updating title 9 in /stages/lii_ecfr_files_changelist.json
+update_title_changelist_meta took 1.71637392044 seconds.
+.. meta file found and updated at factory-ecfr/stages/LII_eCFR_META.xml
+<title>
+   <num>9</num>
+   <head>Title 9 - Animals and Animal Products</head>
+   <extid>lii:ecfr:t:9</extid>
+   <old_extid>lii:cfr:2016:9:0</old_extid>
+   <subtitles>0</subtitles>
+   <chapters>3</chapters>
+   <subchapters>19</subchapters>
+   <parts>153</parts>
+   <subparts>145</subparts>
+   <subjgrps>150</subjgrps>
+   <sections>2517</sections>
+   <appendices>0</appendices>
+   <volumes>
+     <total>2</total>
+   <volume amd_date="Oct. 12, 2017" node_prefix="9:1." num_sections="1216"> Sections 1.1 to 167.10 </volume>
+       <volume amd_date="Jan. 1, 2018" node_prefix="9:2." num_sections="1301"> Sections 201.1 to 592.650 </volume>
+     </volumes>
+   <published>05-Jan-2018 04:02</published>
+   <last_injested>Tue Jan  9 14:54:24 2018</last_injested>
+   <toc_year>2018</toc_year>
+   <content_year>2018</content_year>
+ </title>
+
+--- Generating redirect files for legacy urls.
+
+Updating graphDB toc and references repositories for titles 9
+python factory-ecfr/semweb/graphdb_toc_load.py 9 eCFR_Structure
+Loading into context file://title9.nt
+Response 204
+python factory-ecfr/semweb/loader.py 9 eCFR_Structure xrefs
+Found rdf file: factory-ecfr/metadata/xrefs/title9.nt
+Response 204
+Triplestore update after preprocessing eCFR titles 9
+Complete
+
+Querying for title 9 reference URIs
+Response 200
+968 Reference URIs retrieved.
+Starting what-cites-me with 4 threads
+what_cites_me took 17.6925630569 seconds.
+Making whatcitesme.json files, Complete
+Adding definitions to titles 9
+Generating char files for titles 9
+python factory-ecfr/definitions/getCharFiles.py factory-ecfr/stages/arefs/title9
+Working [2517 files total] ...
+
+Done with char files, starting up definitions extraction and markup 9
+java -jar factory-ecfr/definitions/bin/ecfrDefinitions-1.5.01-SNAPSHOT.jar 9 factory-ecfr/stages factory-ecfr/metadata
+.
+New word added to Map: fmd-susceptible Count: 1
+New word added to Map: deboning Count: 2
+New word added to Map: strain-to-strain Count: 5
+New word added to Map: heath Count: 11
+.
+title 9 is processed in 592 seconds
+Adding Definitions to eCFR, Titles 9, Complete
+
+python factory-ecfr/preprocess/htmlizer.py -src defs 9
+
+Starting the process of converting xml to xhtml for eCFR title 9
+In htmlizer: 2518 files found in factory-ecfr/stages/definitions/title9/
+Output written to factory-ecfr/stages/html/title9/
+Finished processing xml files from factory-ecfr/stages/definitions/title9/
+It took 3.53 seconds total.
+
+
+This subset of the log shows progression of the pipeline from preprocessing through to the extraction and markup of definitions, and ends when the XML is transformed to XHTML. 
+
+The definitions feature is currently the most computationally intensive process and takes the longest to complete.  Title 9, Animal and Animal Products,  is in the middle of the pack in terms of file size. It takes about 10 minutes when all sections and appendices are processed for definitions. Title 26, Internal Revenue, the second largest title, takes about 12 hours to complete processing.
+
+A full discussion of how the definitions feature is implemented is beyond the scope of this article. In short, LII uses a dictionary of well-defined rules to find candidate definitions. Then, they use entity extraction and basic disambiguation techniques to locate defined terms in context and map them to their correct definitions.
+
+Given all the intermediate stages that the data goes through, it is very important for LII developers to check and make sure that the text content of the regulations remain unchanged. This check is done with a sequence matcher. This is illustrated by the following small section of code from the reference identification and markup script:
+
+
+Listing 7: Reference identification and markup
+
+
+if len(reflist) > 0:
+  old_textchunk = etree.tostring(elem, encoding='utf-8', method='text')
+  reflist.sort(key=itemgetter(0))
+  n = markup_refs(elem, reflist, textchunk, title_number)
+  num_crossrefs += n
+  # sequence matching to check for changes in the text
+  # Note -- there should be none, ideally similarity should be 100%
+  new_textchunk = etree.tostring(elem, encoding='utf-8', method='text')
+  diff, opcodes = sanity_check(new_textchunk, old_textchunk)
+  if diff == 100:
+      seqmatch['same'] += 1
+  else:
+      seqmatch['different'] += 1
+      diffnums.append(diff)
+      msg = sanity_check_msg(old_textchunk, new_textchunk, diff, opcodes)
+      print msg
+
+
+As the code snippet shows, after references in a paragraph are marked up, the text is run through the aptly named “sanity_check” utility function (see below). It uses the SequenceMatcher from the Python Standard Library to compare text from the original paragraph to the newly marked up one.
+
+
+ Listing 8: Sanity check
+
+
+def sanity_check(text1, text2):
+  seq = difflib.SequenceMatcher()
+  seq.set_seqs(text1, text2)
+  diff = seq.ratio()*100
+  op = seq.get_opcodes()
+  return diff, op
+def sanity_check_msg(text1, text2, diff, op):
+  msg = '''
+  ----------------------------------------------------
+  % similarity = {}
+  text chunk 1:
+  {}
+  text chunk 2:
+  {}
+  Opcodes show spots where the text matches and what
+  to do to make text chunk 2 match text chunk 1.
+  {}
+  ----------------------------------------------------
+  '''.format(diff, text1, text2, op)
+  return msg
+
+
+If the texts are not identical, a message will be printed showing exactly where the mismatches occurred. These kinds of messages are one of the things LII developers check for and correct before serving the content.
+
+In the storage phase of the pipeline (not shown in the log), the final HTML, the XML from the last feature implemented, and TOC files of the titles are uploaded to an eXist database.  The JSON files that support features like definitions and “What Cites Me” are moved into the appropriate directories within the web tree of the LII site. The original XML files from GPO, the final XML file, log files, and all the metadata files generated during processing are also uploaded to an Amazon S3 bucket. Finally, the driver script generates an alldone.out file which is also uploaded to the eCFR storage bucket.
+
+The eCFR factory is actually an EC2 instance.  Writing the alldone.out file to S3 triggers a couple of functions. One sends a message to the developers and the second shuts down the instance.
+
+Drupal is the content management system that the LII uses to serve the content on its website. Drupal allows dynamic content boxes to be dragged around by admins to build different views on any given page that will be seen by the end user. Examples of content boxes on an eCFR page include the “body” of the page where the text of the table of contents or section is shown, the Toolbox on the right-side of each page, and the breadcrumb trail above each page’s body section. Each box is programmed by the LII to display different blocks of text or other features that the LII is interested in showing. For instance, the contents of each Toolbox change from collection to collection; for example, only the eCFR Toolbox will contain a link to the GPO’s eCFR.
+
+Content is not retrieved from the eXist database every time someone makes a request for a page on the LII website. Instead, Drupal is programmed to retrieve data from eXist, with an xquery, the first time someone requests it. It caches and serves this saved version of the page on subsequent requests. This and other optimizations put in place by LII’s Systems Administrator, Nic Ceynowa, has worked not only to decrease the load time for these pages, but also to support thousands of simultaneous requests for the same page. [10]
+
+
+Listing 9: Example of the xquery used to retrieve the table of contents of a title.
+
+
+xquery version "3.0";
+let $req_title := request:get-parameter("title", "")
+(: Locate the correct toc document :)
+let $doc := doc(concat("/db/eCFR/LII/title-", $req_title, "/ECFR-title", $req_title, "-datatoc.xml"))
+let $base_url := concat("/cfr/text/", $req_title)
+let $this_title := $doc//.[lower-case(@type) = "title"][./num = $req_title]
+let $outbuf := if ($doc) then
+   <supcontent>
+       <div class="TOC">
+          <ul>{
+              (: div2|div3|div4|div5 == subtitle|chapter|subchapter|part  :)
+                 for $item in $this_title/(div2 | div3 | div4 | div5)
+                  let $this_catchline := $item/head
+                  let $myextid := $item/@extid
+                  let $myid := $item/idnums
+                  let $myid_tokens := tokenize($myid, ":")
+                  let $mytype := lower-case($myid_tokens[last() - 1])
+                  let $myhead := $item/head//text()
+                  let $mynum := tokenize($myextid, ":")[last()]
+                  let $mypath := concat($mytype, "-", $mynum)
+                  
+                  return
+                     <li
+                        class="tocitem">
+                        {  if (contains($this_catchline, "[Reserved]") or contains($this_catchline, "[RESERVED]")) then
+                               <span>{$this_catchline}</span>
+                               else
+                                  <a title="{$myhead}" href="{$base_url}/{$mypath}">{$this_catchline}</a> }
+                     </li>
+               }
+           </ul>
+       </div>
+   </supcontent>
+else
+   (<supcontent/>)
+return
+   $outbuf
+
+
+Updating Drupal’s cache after running the processing pipeline is not yet fully integrated into the automation sequence.  First, a developer reviews the logs to make sure there are no errors that need to be resolved. Then a visual check of a selection of pages is done in a staging environment. If all is well, they manually kick off another script that cycles through all the updated pages on the LII website. It deletes each one and immediately requests the page so that Drupal can cache it.
+
+Automating this last part of the CFR pipeline is another project that is on-going. The key to doing this successfully is designing meaningful tests for both the processing and presentational aspects.
+
+Future: Docket Wrench Integration
+
+In the last year, the team of programmers at the LII have been working to revive an application called Docket Wrench. The software was originally built in 2011 by the Sunlight Foundation, a government transparency organization, to track how organizations and influencers were engaging in the notice-and-comment rulemaking process over time. The application was not maintained and when Sunlight Foundation discontinued its software development program, LII picked up the project. 
+
+The software is programmed to pull in rulemaking activity from regulations.gov, as well as individual agency websites who are not using regulations.gov, to create complete and comprehensive rulemaking dockets. Where regulations.gov does not compile related materials, Docket Wrench offers all related information on a single page, in an easily understandable interface.
+
+Each docket is presented as a timeline, showing the duration of the rulemaking process, at which point in the process the comments were received, and all of the comments and documents collected during the comment period. The software analyzes the comments, allowing researchers to fully understand the major influences with visual representations of when comments were submitted and determining the weight of support based on the number of comments submitted by or on behalf of particular organizations or persons.
+
+The challenges in reviving the application and building it out into a full-fledged research tool for the rulemaking process are significant. Since Docket Wrench was originally developed, new classes of data stores have matured, more government rulemakings are now retrievable via API, and technologies such as Apache Spark have made large scale data processing far easier. Refactoring the obsolete parts to use these modern technologies is an ongoing adventure for the developers and students. 
+
+During the re-introduction of this software, Sara Frug, Associate Director for Technology at Cornell’s LII, said that it “fills a niche adjacent to a popular [LII] offering.”[10] It is our hope that the information compiled and analyzed by the Docket Wrench software will, in the future, be incorporated into the LII’s eCFR collection. 
+
+Notes
+
+[1] Quote of Tom Bruce, LII Co-Founder and Director. GPO and Cornell University Pilot Open Government Initiative, see https://www.fdlp.gov/news-and-events/733-gpo-cornell-pilot
+
+[2] For a more detailed accounting of this process, see Sara S. Frug. Ground-up law: Open Access, Source Quality, and the CFR, available from http://www.hklii.hk/conference/paper/2B3.pdf
+
+[3] For a complete list of the original features, please see the LII’s YouTube Playlist, Why Our CFR Doesn’t Suck, available from https://www.youtube.com/watch?v=cK_jGMR1UkI&list=PLELct7ye-lvoSm4qRoQ17DcFH72Zbr905
+
+[4] For a detailed accounting of the process and challenges in building the CFR, see Frug, supra note 2.
+
+[5] When the LII first published their PTOA, there was not a static, linkable destination to these documents. Since then, these documents have become readily available and the LII team is in the process of creating a hyperlink application enhancement for these and all other recognizable citations.
+
+[6] This unofficial CFR was updated as each new issue of the Federal Register was published. This means that when a Final Rule was published in the Federal Register, that new or amended language was readily available in the GPO’s CFR.
+
+[7] The programming for this is legacy code that is soon to be phased out due to the currency of the CFR text. Essentially, new Federal Register content is checked in a similar fashion to that of how the CFR titles are checked for updates, see supra eCFR Pipeline, with a major difference being that the Federal Register document is not downloaded, and only the metadata from the document is stored in a database for display when a user queries a section of the CFR that is in the process of being amended.
+
+[8] See LII: Under the Hood for a more detailed accounting of their eCFR collection, available from https://blog.law.cornell.edu/tech
+
+[9] See https://blog.law.cornell.edu/tech/2015/10/23/a-look-at-indentation/
+
+[10] See https://blog.law.cornell.edu/tech/2015/10/30/a-day-in-the-life-traffic-spike/ 
+
+ About the Authors
+
+Charlotte D. Schneider, https://orcid.org/0000-0003-3248-1569, is the Government Documents Librarian at Rutgers Law School in Camden, NJ. She also works closely with the Legal Information Institute at Cornell University.
+
+Sylvia Kwakye is a developer at the Legal Information Institute at Cornell University. Sylvia uses data science technologies to continuously enhance the experience of users who visit the LII site. She also mentors masters of engineering students, managing their semester-long projects.
+
+					
+
+														
+
+				
+
+
+	Subscribe to comments: For this article | For all articles
+
+
+			
+
+	 
+
+Leave a Reply
+
+
+
+
+
+
+
+Name (required)
+
+
+
+Mail (will not be published) (required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+             
+
+            
+            
+             
+            
+
+
+
+
+
+
+
+							
+
+
+			
+				Log in
+
+				This work is licensed under a Creative Commons Attribution 3.0 United States License.
+[image: Creative Commons License]
+
+			
+
+			            
+
+
+
+
+
+
+
+
+		
+
+		
+		
+	

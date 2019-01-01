@@ -1,0 +1,990 @@
+
+
+
+
+
+
+
+	[image: Page Header]
+
+
+
+
+
+
+
+
+
+	
+							
+				
+	Open Journal Systems
+
+
+	Journal Help
+
+
+			User
+	
+												
+						Username	
+	Password	
+	 Remember me
+	
+
+
+				
+
+						
+
+
+	Journal Content
+
+	
+			
+													Search 
+
+					
+								
+	
+				Search Scope
+				
+
+				All
+Authors
+Title
+Abstract
+Index terms
+Full Text
+
+
+				
+	
+
+
+	
+
+
+	
+
+
+		Browse
+		By Issue
+	By Author
+	By Title
+	Other Journals
+
+
+	
+
+
+
+
+
+
+	Font Size
+	
+
+
+
+
+
+	Current Issue
+	
+	[image: Atom logo]
+	
+
+	
+	[image: RSS2 logo]
+	
+
+	
+	[image: RSS1 logo]
+
+
+
+
+
+	Article Tools
+			
+			[image: ] Abstract
+
+		
+
+				
+			[image: ] Print this article
+		
+
+				
+			[image: ] Indexing metadata
+
+		
+
+				
+			[image: ] How to cite item
+
+		
+
+				
+			[image: ] Supplementary files
+
+		
+
+						
+			[image: ]
+			Email this article (Login required)		
+
+				
+			[image: ]
+			Email the author (Login required)		
+
+		
+
+
+
+	
+					About The Authors
+			
+		
+	
+		Hee Jhee Jiow
+								
+Singapore Institute of Technology		
+Singapore	
+
+
+	
+
+	
+
+	
+
+		
+	
+		Rayvinder Jit Singh Athwal
+											
+
+
+	
+
+	
+
+	
+
+		
+	
+		Ling Ling Chew
+											
+
+
+	
+
+	
+
+	
+
+		
+	
+		Muhammad Helmi Elias
+											
+
+
+	
+
+	
+
+	
+
+		
+	
+		Nina Lim
+											
+
+
+	
+
+	
+
+	
+
+		
+	
+		Qin Ting Lye
+											
+
+
+	
+
+	
+
+	
+
+		
+	
+		Xin Yu Ng
+											
+
+
+	
+
+	
+
+	
+
+		
+	
+		Kenneth Woo
+											
+
+
+	
+
+	
+
+	
+	
+
+			
+
+			
+
+
+
+
+
+		Home
+	About
+	Login
+	Register
+	Search
+	Current
+	Archives
+	Announcements
+	SUBMISSIONS
+
+
+
+
+
+	Home >
+	Volume 23, Number 2 - 5 February 2018 >	Jiow
+
+
+
+
+
+
+			
+
+
+
+
+
+[image: First Monday]
+
+
+
+
+
+
+[image: Perceptions of video gaming careers and its implications on parental mediation by Hee Jhee Jiow, Rayvinder Jit Singh Athwal, Ling Ling Chew, Muhammad Helmi Elias, Nina Lim, Qin Ting Lye, Xin Yu Ng, and Kenneth Woo]
+
+
+
+
+
+
+[image: Abstract]
+Since its advent in the 1970s, the video game industry has superseded its film counterpart, sporting a growth rate quadrupling that of other media and entertainment sectors. In contemporary times, video gaming occupations — namely game designers, professional gamers and YouTubers — have gained prominence, bolstered by the support of the media industry and government agencies. Yet, little remains known about the perceptions of these careers from the standpoint of parents and young gamers. This dearth of knowledge thus provides an impetus for research since parents’ perceptions could arguably influence the management of their children’s video gaming consumption. Results yielded through qualitative interviews with 35 respondents revealed that parental mediation was practiced via ‘distant mediation’. This is characterised by parents ostensibly withdrawing or remaining remotely detached from their children’s video gaming whilst monitoring them from afar. When perspectives of gaming careers were further scrutinised through a comparative scope, the findings also reflected that parents and children shared accommodating attitudes toward vocations in the video gaming sector.
+
+
+Contents
+
+Introduction
+
+Literature review of careers in the video game industry
+
+Methodology
+
+Findings
+
+Discussion and conclusion
+
+Limitations
+
+
+ 
+
+ 
+
+[bookmark: p1]Introduction
+
+
+To Hilvoorde (2015), the explosive growth of the video game industry can be credited to its strong foothold in the daily lives of people. Indeed, the integration of video games into one’s lifestyle has set forth a chain reaction. Mounting dependence on the gaming industry translated into burgeoning demands for new and improved video games, which ultimately resulted in the development of a lucrative industry with diverse vocational opportunities (Crosby, 2000; Deuze, et al., 2007; Liming and Vilorio, 2011; Weststar, 2015). Prime examples of careers spawned from the industry’s growth are game designers (working either independently or within a company), professional gamers (pro-gamers) and YouTubers. That such positions exist and are increasingly viewed as ‘normal’ suggests that cultural and social attitudes towards the video game industry has undergone rapid transformation (Hutchins, 2008). Concomitantly, they also function to illustrate how those interested in video games can turn their hobbies into income-earning opportunities.
+
+
+In some cases, governmental support helped fan the growth of these industries. For instance, the Info-communications Media Development Authority (IMDA) of Singapore pumped in over US$360 million to help fund various start-up and local projects (Peichi, 2008).  In parallel, the Broadband policy of the Ministry of Information and Communication (MIC) and the Special Military Exemption Policy (Jin, 2010) implemented by the Korean government were integral to the proliferation of Korea’s gaming sector as well. Against this backdrop featuring political initiatives aimed at boosting the video gaming industry, the examples thus propose a cultural shift in attitudes toward video games (Peichi, 2008). It provides grounds to assume that parents and children may harbour receptive attitudes towards video games, which may be further reinforced by the potential profitability of related professions.
+
+
+However, existing literature has neither explored parents’ nor children’s perceptions on video gaming careers despite the expanding industry. Rather, the bulk of research addressing parental perceptions of video games has narrowly focused upon worries over the potential negative effects of video gaming (Granic, et al., 2014). They center around the displacement effect of time (children should be spending time on more beneficial activities such as studying, exercising or reading), game content, pathological video game usage (video game addiction), poor academic performance and inadequate social skills (Gentile, 2009; Gentile, et al., 2011; Nikken and Jansz, 2006; Jiow, et al., 2016; Kutner, et al., 2008; Mehrabi, et al., 2011; Shin and Huh, 2011).
+
+
+Although there has yet to be a consensus on the repercussions of video gaming, certain risk factors have nonetheless been identified. Studies spanning across various countries, including the United States and Singapore, have shown that eight–nine percent of gamers are diagnosed as pathological, averaging out with more than 37 gaming hours per week (Choo, et al., 2010; Gentile, et al., 2011). This was starkly contrasted against the enhanced social and cognitive skills that video gaming was argued to benefit players with. Alternative studies in fact observed that video games equipped children with beneficial skills in a fashion similar to that of formal education. First person shooter (FPS) games, in particular, were found to improve cognitive abilities such as multi-tasking, visual short-term memory, and spatial skills (Green and Bavalier, 2012; Uttal, et al., 2013). It is pertinent to note that the benefits associated with video games are indicative of the skills parents hope to cultivate in their children, as they deem these skills to be integral in navigating through daily life and academia (Granic, et al., 2014).
+
+
+The benefits of video games notwithstanding, video gaming careers remain ill-suited as long-term career options (Granic, et al., 2014). Existing literature writes that parents dismiss video gaming as a career prospect, regardless of their impressions of video games. On this continuum, parents have consistently regarded video games to be a waste of time, with little career prospects and would rather their children spend time engaging in productive activities such as studying, playing sports, and reading (Jiow, et al., 2016; Khoo, 2012; Kutner, et al., 2008; Mehrabi, et al., 2011). Under the confluence of such factors, there is therefore a need to examine how the potential profitability of a career in the video game industry may affect parent’s and children’s regard of such vocations.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p2]Literature review of careers in the video game industry
+
+
+Game designers
+
+
+Accompanying the surge in demand for video games, the number of game developers entering the market either independently or through major companies has increased dramatically (Peichi, 2008). In the creation of games, the game designer is but one party in a team effort. For Weststar (2015), the nature of modern video games necessitates the cooperation between multiple parties such as “computer engineers and programmers, visual artists, audio engineers, and many more.” [bookmark: 1a][1] As the linchpin of creativity in the development process, game designers deal primarily with the mechanics of gameplay, character description, and general content (Burton, 2015; Crosby, 2000; Liming and Vilorio, 2011). The success and sustainability of a video game thus becomes predicated on the game designer’s ability to enthrall players (Weststar, 2015).
+
+
+Typically, game designers engage in project-based work packed with a myriad of challenges. These difficulties include excessive and undercompensated working hours and burnouts, to name a few (Legault and Ouellet, 2012; Legault and Weststar, 2012, as cited in Weststar, 2015). Often times, such downsides and job hazards are veiled by the glamour of potential profitability and prestige attached to games design. To this end, the arduous work schedules of game designers often fail to parallel their wages, for it was found that the income of a game designer was the second lowest in the industry, outranking only their colleagues in quality assurance (Gamasutra, 2014).
+
+
+From the Gamasutra (2014) salary survey, the average pay for game designers took a downturn from US$73,864 in 2013 to US$75,065 in 2012. With the pay scale being dependent on the amount of experience one possessed, Gamasutra (2014) also noted that designers with experience below three years earned US$50,625 in 2013, which was a drop from US$55,813 in 2012. Respectively, designers with three to six years of experience and those beyond six years of experience earned US$65,385 in 2013, up from US$63,639 in 2012, and US$86,563 in 2013, down from US$92,583 (Gamasutra, 2014). These salaries reflect triple-A game development characteristics, where games are allocated huge budgets and produced by major companies such as Electronic Arts (EA), Valve and Blizzard.
+
+
+In terms of physical toll, game designers are easy victims to burnouts due to the fast-paced nature of their projects. As Weststar (2015) highlights, the video gaming industry is denoted by the rapid transition of individuals between projects in short spans of time. He furthers that the numerous firms and spin-offs from existing video games compel companies to do so, thus compounding the job’s intensity. To this, Edwards, et al. (2014) [bookmark: 2a][2] finds that the average job tenure is 3.5 years. Nonetheless, game designers need not be restricted to a company or organization, as they are free to create independent business opportunities as indie game developers.
+
+
+According to Gamasutra (2014), indie game developers experience major fluctuations in yearly income since they work independently or within a small team to create video games. The survey found that 57 percent of indie game developers (either solo or small team-based) made less than US$500 in game sales. Interestingly, solo indie developers made an average of US$11,812 in 2013, a 49 percent decline from US$23,130 in 2012; whereas team-based indie developers raked in US$50,833 in 2013, a 161 percent increase from US$19,487 in 2012. Apparently, the profitability of indie developers leans heavily upon the chances of stumbling upon a ‘gold mine’. This is exemplified by the success story of Markus Persson, whom quit his job to focus on creating Minecraft product development, and eventually clinched a US$2 billion deal with Microsoft for the Minecraft franchise (Sherwin, 2014).
+
+
+The rise of casual gaming (commonly manifesting through mobile phone applications) likewise provides another potential platform for success to companies and indie developers. As opposed to computer games, mobile games require significantly less expertise and budget for products with a strong selling point (Peichi, 2008). With success within easier reach, the gaming market in Asia flourished. In South Korea alone, approximately 1,000 out of 1,500 gaming companies are small developers, although it is the top five companies that rake in approximately 70 percent of the total market revenue (Peichi, 2008).
+
+
+While the industry in Singapore has not grown as quickly as in South Korea, it has as many as 50 gaming companies currently in existence (Vinova, 2015). One such company, Mikoishi, has even ventured beyond local borders into the larger Asian market by collaborating with South Korean distributor Nexon to access the mobile gaming market in South Korea (Peichi, 2008). Nexon subsequently launched its pioneer made-in-Singapore game called Dropcast for Nintendo in 2007 (Peichi, 2008).
+
+ 
+The past decade has witnessed a massive expansion of the gaming sector in Singapore. With this expansion came jobs, although they were not without obstacles. Still, it appears that cultural and economic shifts in the local video gaming archipelago have enhanced the perceived stability and appeal of gaming-related professions. Hopefully, such attitudinal changes may alleviate the concerns harboured by parents over their child’s potential for success within the industry.
+
+
+Professional gamers (Pro-gamers)
+
+
+In the video game industry, ‘electronic sports’ or ‘e-sports’ for short form an entirely new category of sports (Szablewicz, 2015). Opinions on ‘e-sports’ as a genuine form of athletics remain divided, in spite of its ‘sport-status’ in nearly 60 countries (Witkowski, 2012; 2009). This sums up to an estimated 22 million e-sports competitors and 500 pro-gamers in the competitive gaming sector (Hilvoorde, 2015). The World Cyber Games (WCG) organises competitive events for a multitude of games, ranging from FIFA and World of Warcraft (WoW) to Starcraft and League of Legends (LoL). Over a million participants were in attendance for the preliminary rounds at WCG’s last event in 2013 (Hutchins, 2008; Wimmer, 2012). Successively, it was replaced by other competitions such as Major League Gaming (MLG) and Championship Gaming Series (CGS) (Hutchins, 2008). In addition to such events, major video gaming companies have also begun hosting major professional gaming tournaments, complete with prize pools that run in the millions. Prominent examples of this include The International for Dota 2 and the Overwatch League for Overwatch (Boluk and LeMieux, 2017; Webster, 2017).
+
+
+To Martončik (2015), the increased interest in e-sports has contributed significantly to its acceptance as a mainstream activity. This is buttressed by how pro-gamers are alternatively referred to as ‘cyber athletes’ as it reflects an inherent desire for e-sports to be recognised as an authentic category in itself (Jin, 2010). In the wake of this normalisation follows a potential future for some to pursue a career in professional gaming. In contrast to ‘casual gamers’, pro-gamers specialize in one particular game. Honing their skills to qualify for online tournaments and Local Area Network (LAN) events (Martončik, 2015). Similar to sports teams, pro-gamers may be a part of game clans. (Hutchins, 2006, as cited in Martončik, 2015). Personal branding for game clans are also created to attract the support of fans during online or LAN events. Optic Gaming is one such organisation, owning teams for various video games such as Call of Duty (COD), Counterstrike:GO and Halo. Like the tournaments, game clans tend to be sponsored by major brands like Microsoft and Hewlett Packard, thus fueling the competitive ethos of video games (Hutchins, 2008; Seo, 2016; Taylor, 2016).
+
+
+Spectatorship in e-sports has also increased exponentially, as competitive games are streamed through online sites such as YouTube and Twitch, in lieu of television. Through such channels, e-sports events appeal to a wider audience not simply because of the added convenience, but particularly because online platforms have the effect of integrating the audience into the game, creating the sensation of viewing the event first-hand even without being physically present. On a related note, Seo (2016) noted that high levels of spectatorship have led to the idolization of professional gamers. As epitomized in South Korea, pro-gamers are placed on the same pedestal as celebrities and they earn the respect of the general public for their unique expertise (Jin and Chee, 2008, as cited in Szablewicz, 2015). Additionally, spectators also concentrate on knowledge acquisition, collecting information about teams and tactics, as well as copying and reproducing the same strategies utilized by professional gamers in their own games (Hamari and Sjoblom, 2017).
+
+
+In this sense, spectatorship in e-sports appears to be key in asserting its position as an authentic sport (Ditmarsch, 2013; Hutchins, 2008; Seo, 2016). In general, concerns over the financial viability of pro-gaming professions are recurrent. The fame and fortune attached to stereotypical images of pro-gamers are unfortunately only true for a handful of individuals. Co-founder of Major League Gaming (MLG), Sundance Giovanni, admitted to this, as only 40 of the current batch of pro-gamers lead a steady life in this profession (Ketchum, 2016). On an international scale, Russell (2013) found a mere 60 pro-gamers who had won more than US$100,000 in tournament winnings. There was only a small number of pro-gamers who earned a steady income, let alone one ranging between US$100,000 to more than US$1 million (Ketchum, 2016). This reinforces the widely-held idea that professional gaming cannot ensure a stable monthly income, which was also a major concern of parents’ (Mehrabi, et al., 2011). However, the emergence of YouTube has somewhat acted as a counter-weight to the lack of steady income within the pro-gaming sector.
+
+
+YouTubers
+
+
+YouTube provides a possible revenue source for both pro-gamers and non-pro-gamers that is off the beaten track (Kim, 2012). As one of the most widely-accessed video-sharing platforms, YouTube is a common ground for people to post and view videos (Lavaveshkul, 2012). This allows potential YouTubers (individuals who post self-generated content) to access a large audience and use them as a stepping stone towards fame. This is the case for pro-gaming events, where pro-gaming events capitalise upon the market by streaming their competition or posting promotional videos of events on YouTube (Taylor, 2016).
+
+
+Like typical tournaments, promotional events are carried out on YouTube as well to advertise pro-gamers based on their gaming expertise (Taylor, 2016). Branding allows prominent gamers to have a relatively easier time generating income due to their well-established fame from sponsorships and endorsements. By virtue of this fame, prominent gamers would be able to garner subscribers, views, and endorsements — the three main funnels of revenue on YouTube (Zoia, 2014). Many pro-gamers are simultaneously active in official gaming tournaments and YouTube to acquire a consistent income, as opposed to being solely dependent on tournament winnings (Taylor, 2016). In additional to YouTube, professional gamers have also turned to Twitch as well to broadcast their play sessions and solicit donations from fans as an additional revenue stream (Kaytoue, et al., 2012). However, this does not mean that only pro-gamers have been successful in establishing their brand through YouTube, as there are also YouTubers who are not pro-gamers.
+
+
+One famous non-pro-gamer YouTuber is PewDiePie, who has approximately 48 million subscribers on YouTube and earns roughly US$140,000 to US$1.4 million monthly through advertisements (SocialBlade, 2016). He plays video games to entertain his subscribers, all the while swearing and goofing off throughout the commentary — the biggest appeal for his subscribers (Zoia, 2014). YouTubers like PewDiePie are also known as “Let’s players”, characterised by their running commentaries throughout videos which encompass various games to draw viewership (Zoia, 2014). However, there are certain risks involved in becoming a YouTuber. As Zoia (2014) expounds, most YouTubers survive on low to modest monthly incomes even with with viewerships in the hundred-thousand range. This is not considering the risks posed by shady investors aiming to exploit the fame of YouTubers under the false pretence of sponsorships, endorsements, and partnerships (Kachroo-Levine, 2015). Once a YouTuber has created videos that attract a stable fanbase, they will be able to earn a regular income much like any other job. This shows how YouTube has morphed from a video sharing site to a business platform capable of generating revenue (Kim, 2012).
+
+
+This review of the literature thus clearly reflects how the growth of the video game industry has brought diverse career opportunities to the table. In doing so, it catalyses video gaming from a pastime into legitimate careers which may encourage children to invest more time and effort into playing video games (Martončik, 2015; Seo, 2016). Therefore, the evolution of the video game industry, job opportunities provided, and increased governmental support are three vital reasons that make video gaming careers more lucrative. Even so, little is known about parents’ and children’s perceptions of occupations in the video-gaming sector.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p3]Methodology
+
+
+A qualitative evaluation was adopted for this paper by conducting interviews either at participants’ homes or at a chosen venue, to collect substantive and relevant data. In order to gather a wide range of data as well as different perceptions of the gaming industry, the sample size of the paper was set at 35 participants in the form of parent-child dyads. Parents’ viewpoints were first recorded before the opinions of children, as parents tended to function as the main mediator of a child’s video gaming habits. For the children, gender distribution was equal between males and females, aged 10 to 15 years old (inclusive). Eight specific video games titles chosen as the top video games played by children identified within our age range allowed for further classification. These titles are Clash of Clans, League of Legends, Counter-Strike, Minecraft, FIFA16, Piano Tiles, Colour Switch and Neko Atsume.
+
+
+Approval for this study was sought and obtained from the Singapore Institute of Technology’s (SIT) Institutional Review Board (IRB). This work was supported by the Singapore Institute of Technology Ignition Grant (Project Ref: R–MNR–E103–A006) and was done in collaboration with Kingmaker Consultancy Pte Ltd. Participants were recruited for this study through purposive sampling via a variety of channels by the research team. Firstly, the research team tapped into their personal contacts; secondly, the team publicized the study on prominent gaming forums and on social media networks such as Facebook. Interested parties were screened for their eligibility to participate in this study by the research team, before eligible parties were sent the Participant Information Sheet and Consent Form (PIS&CF) to read before confirming their intention to participate. Arrangements were subsequently made for the research team to interview the participants in their homes.
+
+
+One member of the research team conducted each of the interviews and the interviews were recorded using a personal recording device provided by the research team. Upon reaching a participant’s house, the interviewer would first explain the study by going through the PIS&CF with them, after which any questions would be addressed. This was proceeded by requesting the parent and child to sign the consent and assent forms. The parent was interviewed first, taking approximately 30 to 45 minutes, and then the child was interviewed, which took a similar period of approximately 30 to 45 minutes.
+
+
+Upon successful completion of both parent and child interviews and surveys, each pair would receive remuneration in the form of a S$50 cash voucher. A total of 1,193 pages of transcripts were generated.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p4]Findings
+
+
+The findings derived from the study were categorised into respondents’ conceptualizations of video gaming careers and their attitudes towards such careers. In what follows, parents’ conceptualisations of video gaming careers and their perceptions of those careeers are explored.
+
+
+Parents’ conceptualization of video gaming careers
+
+
+Generally, parents were found to have limited knowledge and understanding of video gaming careers. The knowledge deficit was particularly pronounced for job scopes of pro-gamers and YouTubers. While some parents were somewhat able to describe these two career options based on job titles, there were others who were unfamiliar with these careers. Some parents were even surprised to hear that pro-gamers/YouTubers were actual career paths:
+
+
+	[Parent 3] — I don’t know ... maybe they play the game and play very well and they provide some — they make some videos or whatever ... to help the ... game developer to ... collaborate with them to help them to build something.
+
+
+
+However, parents were generally more familiar with games design as a potential career option:
+
+
+	[Parent 17] they are the guys who design the games, very interesting jobs, just moving your eyes, that one needs creativity, programming, all the software knowledge ... needs interaction with people ... sounds more encouraging.
+
+[Parent 1] It’s like going into media ... like going into advertising or becoming a journalist, or a computer programmer. Game designers are actually very good computer programmers. So even if he doesn’t think that game design is what he wants to do, a game designer can always move into other programming areas.
+
+
+
+
+Parents were also able to briefly describe the job scope of a game designer. Contact with this topic was largely made through talking with their peers in the workplace, via the Internet and attending courses. A majority of the parents demonstrated an understanding of the advanced technical skills required of the profession, which allowed for an acknowledgement that “it is not very easy”.
+
+
+Parents’ attitudes towards video gaming careers
+
+
+When questioned about their opinions on their child pursuing a video gaming career in the future, most parents revealed that their child had never expressed any interest in this career track, particularly as a pro-gamer. One parent, however, mentioned about his child’s aspirations to be a video game YouTuber in the future:
+
+
+	[Parent 1] He has a channel already and has produced these videos, and he’s trying to get people to subscribe. But I think he sort of tapered off when he realized how difficult it can be. Because he was doing it for almost two years and he only got maybe a few dozen subscribers, you know. Whereas he looks at other professional YouTubers who have millions of subscribers, so I don’t know.
+
+
+
+This excerpt described a parent’s concern for his son’s involvement in becoming a video game YouTuber. Evidently, the child has a first-hand understanding of how success was hard to attain. In general, parents did not see pro-gaming and YouTube careers as legitimate career options for their children. Concerns were raised over job stability, profitability, and sustainability of these careers:
+
+
+	[Parent 8] I really want to know the scope of this whole new ... career right ... probably I have to find more about ... it is suitable or not, whether can it sustain at all, you think as a career right from the time of start working to the time of retired, so I don’t know what this whole thing is about, so probably I will look into whether ... sustainability, reliability, right? you can continue, like for how often — like how long you can stay working in this job  I’m so sorry of these so old-fashioned thinking ... whether he had enough money to feed him, his family ... practical issues.
+
+
+
+One parent provided insight on how the sustainability of these careers might be of great concern by providing a comparison between sports and e-sports:
+
+
+	[Parent 1] As a traditional parent, I would say — I would want him to have a proper job. Or he can run in parallel. He can be a professional gamer at night but at least have a day job ... to be honest ... we have to be realistic ... I mean you look at sportsmen in Singapore or in the region here. If you’re a professional sportsperson, it’s still not that easy to make that much money. Most of our sports, our athlete ... they also have another job. Sports are unfortunately relegated to part-time. They’re a few professional sportsmen, you know, but again, they are far and few. So, I would encourage him if I think that he’s really good and he can get sponsored by you know, one of the gaming companies, then that might be okay. But if he’s not then I’ll definitely tell him please, remember to do your homework ... Okay, so this is where I am contradictory. I would say that yes, I do see it as a legitimate career, but being an Asian parent, I would say not for my child.
+
+
+
+On the other hand, parents were more receptive of their child becoming a game designer and felt that game designing was an acceptable job:
+
+
+	[Parent 1] Game design is a lot different from being a professional gamer, so I would say that it is a legitimate career. It’s like going into media, advertising or becoming a journalist, or a computer programmer. Game designers are actually very good computer programmers. So even if he doesn’t think that game design is what he wants to do, a game designer can always move into other programming areas. I would think that being a game designer has a much lower risk because when you are with a game production company, they do buy your design and all that you are already in the money ... I think if game designer, then no problem (to supporting), all the way.
+
+[Parent 23] If he wants to be a game designer, I hope that he will be the world class game designer.
+
+
+
+
+Yet, some parents were very cautious on the prospects of being a game designer, especially in the local gaming scene. One parent expressed that in the Singaporean context, the sustainability and viability of such a career might be unfavourable for their child:
+
+
+	[Parent 4] Not in Singapore maybe like say Japan or other countries it’s still fine with it because in Singapore the market is a bit small.
+
+
+
+While parents in general were supportive of their child’s interests and aspirations, they had reservations over the legitimacy of certain video gaming careers. They explained that they would not discount their child’s ambitions, passion, and talents if they really were interested in pursuing them — and this applied to all three video gaming careers discussed:
+
+
+	[Parent 2] If he really expresses his interest and he demonstrates he has the skills can have some progress there then ... I will support. Why not? But don’t affect your school work. At least you give me a pass ... don’t fail everything.
+
+[Parent 4] If he really wants to and he is independent financially we will still support him.
+
+
+
+
+However, parents also explained that from their standpoint, they had to remain cautious of the negative drawbacks affiliated with a pursuit of video gaming careers:
+
+
+	[Parent 1] ... if he has the potential, I would say yes, he can try it out for the first few years, you know. Because ... I think you should allow people the opportunity to prove themselves. But at the same time, I would also caution him that you know, you would also have to have a Plan B, because sometimes just having a Plan A, saying do or die I’ll make it work, is not the right way to go.
+
+[Parent 5] I’ll tell him not to in the first place, but he very keen then I have no choice but to support him ... because I don’t find it ... advisable to hang around in gaming centres he playing the games whole day long, because I think I’m afraid he’ll get addicted to it.
+
+[Parent 4] ... I mean in Singapore it might be difficult to survive ... because like what I say in the first place, if he really wants to and he is independent financially we will still support him.
+
+
+
+
+Children’s conceptualizations of video gaming careers
+
+
+As for children, our findings revealed that children generally knew of pro-gamer and YouTuber careers and were able to briefly describe the scopes of those professions:
+
+
+	[Child 12] I think it’s quite cool that people would actually go to that profession. Like if they like gaming then they actually go full time to do it. It’s just like — maybe people who start out like just gaming for fun then like they actually want to proceed from then, like have a career in gaming then I think that is like quite cool, to like professional gaming.
+
+[Child 12] ... it’s still very funny because you can play games all day ... and you also earn money as sponsorship sometimes but you must be like very professional.
+
+[Child 2] Well the thing about being a YouTuber is that you can play casually and you don’t have to actually good at the game. All you need to do is get your audience to laugh. That’s basically it.
+
+
+
+
+Other children also mentioned how one has to be “very good in playing the game”, possess “passion”, “patience” and has to “be entertaining” Some children revealed that their knowledge was gathered through videos of both e-sports as well as video game commentaries on YouTube. On the conceptualization of a game designer, the children demonstrated an overall understanding of the profession by providing a generic description of a game designer’s job:
+
+
+	[Child 30] to design games and develop the game through like for example coding, you know, the software of the game and ... Aesthetics of the game ... Such as the arts and all ... and to make characters move ...
+
+[Child 24] ... they also need inspiration ... must crack your brain, must think a lot like what and why would people want to download your game and all that.
+
+[Child 2] I mean to design a game itself you do it all pre-game but to develop the game, you are constantly having to code, add new feature updates.
+
+
+
+
+When questioned about what it takes to become a game designer, children mentioned the importance of “creativity”, “imagination”, and extensive “computer programming skills”. They also indicated that they came to know of this profession by learning about it in school. Some children had actually learned basic programming skills in school as part of an additional curriculum activity. Thus, the game designer profession was perceived to be more discussed about in children’s daily lives.
+
+
+Children’s attitudes towards video gaming careers
+
+
+Fascinatingly, children seemed to hold a similar negative perception towards pursuing a career in pro-gaming and YouTubing, in spite of their heightened understandings of these careers. They also believed that their parents would disapprove should they pursue these career paths, speculating that their parents would remark that these careers were a “waste of time” or “an excuse to play video games all day and not study”. Additionally, most felt that these careers had numerous drawbacks, particularly in terms of profitability and stability:
+
+
+	[Child 3] Unless you have like a lot of friends or ... at first when you start out, you cannot start out like full time or else you are not going to have any money. It’s not very profitable in my opinion. I think they (parents) probably, also think like me think about the money. It won’t be very stable.
+
+[Child 7] Cause if they [children] play games, they won’t be able to study. Like if they play all day, they won’t be able to study and then after that, they won’t get a job. And then they won’t earn a living.
+
+[Child 8] after for a while when people stop — start losing interest in the type of games you playing if you are competitive gamer ... or if you are YouTuber, they start losing interests in your channel or type of contents you are putting on then ... over a long period of time, it is not sustainable.
+
+
+
+
+In addition, some children also perceived it to be inappropriate as a career because of how video gaming was viewed as a non-value-added activity:
+
+
+	[Child 4] gaming it increases your eyesight and you waste electricity bills playing 24 hours ... because you see playing much does not work. You can win the whole world so what? It doesn’t mean that you’re good, you’re successful in life.
+
+
+
+The idea that extensive video gaming was necessary within these two career options seems to have negatively affected children’s perceptions. They foresaw such careers to be detrimental to health, unstable, unsustainable, and ultimately non-value-adding to their lives. Hence, even children did not see pro-gamers and Youtubers as legitimate career options for their future.
+
+
+Despite the perceived difficulty of pursuing a game designer career in Singapore, parents generally conveyed more positive responses. Similarly, most children mentioned that if they really gained a strong interest in the field, they would be receptive towards picking up the necessary skills in school to prepare themselves:
+
+
+	[Child 2] It’s basically the same thing ... same as these professional businessmen. They create products and they sell it to the buyers so the buyers will enjoy them. So, it is professional.
+
+[Child 3] When I’m in poly or JC I might ... take up the course or like IT or something then maybe I might consider gaming design.
+
+[Child 8] I think that is something more worthwhile because like people will always need games, so as long you putting on unique, interesting concepts and designs for games then sending them to big company like PlayStation and Xbox then it should be good.
+
+
+
+
+Children also felt that their parents were more open to the idea of becoming a game designer because of the perceived stability of the career:
+
+
+	[Child 3] I think they will probably support me because ... if I join a company, there should be a steady income unless like the company crash down, but that applies most to other companies ... apart from gaming companies. So I think it is okay.
+
+
+
+One mentioned how being a game designer would require numerous skillsets and educational certificates. These comments hinted at how parents might be open to the idea, given their heavy emphasis on educational achievement:
+
+
+	[Child 9] ...you actually need like a lot of skill to actually design a game and try not to make it ... like a rip-off of another game ... so yeah (to parental support).
+
+
+
+However, the requirement for highly specialised skill sets was equally significant in diverting children away from pursuing careers in game design:
+
+
+	[Child 2] The reason why I don’t really want to become a game designer is because I’m very bad at computer programming. Yeah. Coding and computer programming. I’m not good at this stuff.
+
+[Child 9] I feel like it will be very, again, interesting. But I’m not really good at like designing things. I’m not like — I’m not a person who likes to design. Even in art class, I don’t like to do art class; I don’t like to design things.
+
+
+
+
+In summary, conceptualizations of different video gaming careers by parents and children saw slight variations. Increased exposure to gaming-related professions in everyday life appeared to have enhanced participants’ understanding of the job scopes of game designers. Conceptualizations of YouTubers and pro-gamers seem to be slightly incoherent amongst parents, while children generally knew of YouTubers and had heard of or seen videos of pro-gaming. Juxtaposed against each other were also perceptions of different career options in the gaming industry. Parents were generally receptive towards the idea of their children becoming game designers as compared to YouTubers and pro-gamers, at the same time accepting it as a legitimate career option because of its long-term profitability. This notion resonated amongst children as well, although they too understood that the high technicality required in the jobs made it an onerous path to pursue. Negative sentiments towards pro-gamers and YouTubers was another commonality among participants, apparently deterred by the long gaming hours. Still, our findings showed that parents were ready to support their children’s career aspirations in the video gaming industry — if they really were keen.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p5]Discussion and conclusion
+
+
+Table 1 summarizes this study’s key points, notable similarities and differences pertaining to parents’ and children’s perceptions of pro-gamers, YouTubers, and game designers. This section discusses key aspects underscoring the major issues found in understanding video gaming career perceptions.
+
+
+ 
+
+[bookmark: tab1]
+	Table 1: Summary of perceptions of pro-gamers, YouTubers and game designers by parents and children.
+	 	Conceptualization	Attitude
+	 	Pro-gamer	YouTuber	Designer	Pro-gamer	YouTuber	Designer
+	Parent	• Have not heard of such profession
+• Only a few knew because their child told them about it	• Only a handful knew
+• Understanding based on child’s YouTube consumption	• Profession is fairly popular
+• Have a general understanding	• Not a legitimate career
+• Not stable
+• Market is not profitable
+• Too much time spent playing video games
+• Neglect of studies	• Not a legitimate career
+• Not stable
+• Success is unlikely
+• Too much time spent playing video games
+• Neglect of studies	• Legitimate career
+• Stable and profitable
+• Transferrable skills
+• The need for education
+• Success rate might not be high
+	Child	• Most able to briefly describe the profession
+• Knowledge through Youtube or e-sports channels	• Generally all understood the profession• Use of YouTube led to this knowledge	• Children generally knew what a game designer does
+• A topic discussed in schools and amongst peers	• Not a legitimate career
+• Not stable
+• Market is not profitable
+• Too much time spent playing video games
+• Neglect of studies	• Not a legitimate career
+• Difficult to obtain subscribers and viewers
+• Too much time spent playing video games	• Legitimate career
+• Stable and profitable
+• Very difficult career
+• Requires not only skills but passion
+
+
+ 
+
+
+Firstly, the conceptualization of different video gaming careers by parents and children share some similarities. Conventional terms in job titles helped facilitate understandings about game design. Secondly, attitudes towards video gaming careers are found to be similar between both groups. Pursuing a career in the video gaming industry was deemed to be risky and unsustainable because of questionable profitability and stability. It is noteworthy that these fears still exist despite considerable growth of the video game industry, though not unfathomable (Jiow, 2014; Peichi, 2008). Many also felt that profitability and stability issues might hinder them from success. Some research supports these claims of risks (Ketchum, 2016; Russell, 2013; Zoia, 2014). For example, becoming a pro-gamer involves long hours of gaming; parents felt that sort of dedication would be detrimental to their child. The same concern applies also to YouTubers whose aims of entertaining (and not competing) should lessen the need for excessive game play (Zoia, 2014). For the sake of success, however, they have to produce multiple videos and this translates to investing time into playing video games as well.
+
+
+Thus, a diffusion of perspectives between parents and children was observed. Mutual viewpoints on perspectives of video gaming careers may be attributed to shared values and goals, with concerns over pathological video gaming (Gentile, 2009; Gentile, et al., 2011; Nikken and Jansz, 2006; Jiow, 2014; Kutner, et al., 2008; Mehrabi, et al., 2011; Shin and Huh, 2011) and long gaming hours. Contrastingly, parents and children were more receptive to the vocation of a game designer as compared to a pro-gamer or YouTuber. Parents regarded game designers as being comparatively more legitimate and viable career because of the profession’s perceived stability. This was compounded by an accumulation of technical skills and accompanying formal qualifications, which they felt could be easily transferable to other non-video gaming careers. Positive attitudes were likewise buttressed by perceptions that game designers do not simply engage in long hours of gaming, but were involved in creating interactive and profitable video games. While children largely felt the same way, they also thought that investing effort into designing games for others would provide them with a sense of achievement and meaning, whilst stimulating their creativity, skills, and imagination (Crosby, 2000; Deuze, et al., 2007; Liming and Vilorio, 2011). Concurrently, the demands and trials of becoming a game designer were the same factors that dampened children’s interests and aspirations in pursuing these paths. These considerations replicated findings highlighted by Weststar (2015).
+
+
+However, differences still existed between parents and children on conceptualizations and attitudes toward video gaming careers. Children were more well-informed about video gaming careers due to their high levels of exposure to video games and the multimedia culture surrounding it — including YouTube videos of those games, modding, and watching e-sports online (Ditmarsch, 2013; Hutchins, 2008; Niemeyer and Gerber, 2015). Their knowledge about game designers mainly derived from school and discussions with their peers. This could be attributed to children’s increased exposure to game design courses available in tertiary education (Star Online, 2017).
+
+
+Generally, parents showed a weaker understanding of different video gaming careers, especially pro-gamers and Youtubers. Parents, who had no knowledge of these career options prior to the study, reflected conventional notions of video gaming as a leisure activity. This was indicative that the normalization and acceptance of these professions might still be limited in Singapore as compared to other parts of the world (Martončik, 2015).
+ 
+
+Nevertheless, parents with better technological competencies should not be discounted. Parents who were more aware of their child’s video gaming habits and interests were often well-informed about such career options. Familiarity with the cyberworld has allowed them to be more active mediators (Livingstone and Helsper, 2008; Top, 2016) since they were able to grasp current activities and digital trends with relative ease (Jiow, 2014; Nathanson, 2008). Parents demonstrated a greater understanding of game designers in general, perhaps due to increased contact with designers through institutions and government initiatives that emphasised the practicality of this profession (Peichi, 2008; Star Online, 2017). With formal acknowledgement, game design has been increasingly accepted as a legitimate career. Hence the conceptualizations of video gaming careers appears to be tied to an individual’s exposure to information about video gaming. Parents and children alike seemed to know more about game design due to its conventional nature, although children tended to grasp a better understanding of pro-gamers and YouTubers due to their higher usage of multimedia. The same could be said for technologically inclined parents, with an exception for pro-gamers and YouTubers.
+
+
+Results suggest that there might be an association between the growth of the video gaming industry and parents’ increasingly liberal attitude to video gaming careers. Regardless of how they perceived video gaming careers (on its legitimacy or sustainability), most were prepared to support their children’s aspirations if they really demonstrated genuine interest. It is worthwhile to note that most parents were practicing distant mediation due to hectic lifestyles, of which work and household chores occupied a significant component. Many spoke of their reliance on deference strategies most times because they were unable to keep track of their children’s video gaming habits on a regular basis. Concomitantly, parents also demonstrated higher levels of trust and freedom to their children’s aspirations and interests. Although parents continued to have reservations about a career in pro-gaming, becoming a game designer was thought to be normal and met with optimistic responses. It served as an indication of how the growth of the video game industry may have normalized a career in designing games. Future growth in professions, such as pro-gaming and YouTubing, might result in similar normalizing effects.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p6]Limitations
+
+
+This present study is not without its limitations. Firstly, it only explored three out of many potential career professions available in the video gaming industry, a myriad of alternative video gaming career options are available, such as programmers, animators, and audio engineers. There exists a possibility that these options are able to contribute fresh perspectives to the current debate surrounding careers in video gaming. Secondly, the scale of this study meant that the results and findings are limited, such that the study cannot be generalizable. We believe that a future study with an increased scale would provide more depth and a larger variety of responses. Next, this research was solely based on samples from Singapore. This means that differences in cultural ideologies and values must be factored in to understand their effects upon local participants’ perceptions of video games and associated careers. The socio-cultural register could also mean that the video gaming market in Singapore may spot vast differences from those of other countries as well.
+
+
+Last but not least, additional research could be done to focus on differences of perceptions across the gender divide. This study did not discuss such comparisons as nothing significant was found. With more data, however, there is a possibility of finding perceptible differences with regards to gender differences as hinted by other studies (Jiow, 2014). Hence, future research should look into these limitations and would do well to expand on the literature. A possible direction would be to explore the relationship between parent-child perceptions of video game careers and their impacts on parental mediation. [image: End of article]
+
+ 
+ 
+
+[bookmark: author]
+About the authors
+
+
+Jiow Hee Jhee is Assistant Professor at the Singapore Institute of Technology, Singapore.
+E-mail: Jhee [dot] Jiow [at] SingaporeTech [dot] edu [dot] sg
+
+
+Rayvinder Jit Singh Athwal was a student at the Singapore Institute of Technology, Singapore.
+E-mail: rayvinder_2014 [at] sit.singaporetech [dot] edu [dot] sg
+
+
+Chew Ling Ling was a student at the Singapore Institute of Technology, Singapore.
+E-mail: lingling.chew_2014 [at] sit.singaporetech [dot] edu [dot] sg
+
+
+Muhammad Helmi Elias was a student at the Singapore Institute of Technology, Singapore.
+E-mail: helmi_2014 [at] sit.singaporetech [dot] edu [dot] sg
+
+
+Nina Lim was a student at the Singapore Institute of Technology, Singapore.
+E-mail: Jiahui.lim_2014 [at] sit.singaporetech [dot] edu [dot] sg
+
+
+Qin Ting Lye was a student at the Singapore Institute of Technology, Singapore.
+E-mail: Q [dot] Lye [at] student [dot] Liverpool [dot] ac [dot] uk
+
+
+Ng Xin Yu was a student at the Singapore Institute of Technology, Singapore.
+E-mail: xinyu.ng_2014 [at] sit.singaporetech [dot] edu [dot] sg
+
+
+Kenneth Woo is a professional officer at the Singapore Institute of Technology, Singapore.
+E-mail: Kenneth [dot] Woo [at] SingaporeTech [dot] edu [dot] sg
+
+
+ 
+
+Acknowledgements
+
+
+This work was supported by the Singapore Institute of Technology Ignition Grant (Project Ref: R–MNR–E103–A006) and was done in collaboration with Kingmaker Consultancy Pte Ltd.
+
+
+ 
+
+Notes
+
+
+[bookmark: 1]1. Weststar, 2013, p. 1,239.
+
+
+[bookmark: 2]2. Cited in Weststar, 2015, p. 1,239.
+
+
+ 
+
+References
+
+
+Stephanie Boluk and Patrick LeMieux, 2017. Metagaming: Playing, competing, spectating, cheating, trading, making, and breaking videogames. Minneapolis: University of Minnesota Press.
+
+
+Michelle Burton, 2015, “Video game designer — Career profile” (5 January), at http://www.animationcareerreview.com/articles/video-game-designer-career-profile, accessed 20 June 2016.
+
+
+Hyekyung Choo, Dougles Gentile, Timothy Sim, Dong Dong Li, Angeline Khoo, and Albert Liau, 2010. “Pathological video-gaming among Singaporean youth,” Annals of the Academy of Medicine Singapore, volume 39, number 11, pp. 822–829.
+
+
+Olivia Crosby, 2000. “Working so others can play: Jobs in video game development,” Occupational Outlook Quarterly, pp. 2–13, and at https://www.bls.gov/careeroutlook/2000/Summer/art01.pdf, accessed 14 January 2018.
+
+
+Mark Deuze, Chase B. Martin, and Christian Allen, 2007. “The professional identity of gameworkers,” Convergence, volume 13, number 4, pp. 335–353.
+doi: https://doi.org/10.1177/1354856507081947, accessed 14 January 2018.
+
+
+Joerik van Ditmarsch, 2013. “Video games as a spectator sport: How electronic sports transforms spectatorship,” Master’s thesis, Utrecht University, at https://dspace.library.uu.nl/handle/1874/288162, accessed 14 January 2018.
+
+
+Gamasutra, 2014. “Gamasutra salary survey 2014,” at http://www.gamasutra.com/salarysurvey2014.pdf, accessed 19 June 2016.
+
+
+Douglas Gentile, 2009. “Pathological video-game use among youth ages 8 to 18: A national study,” Psychological Science, volume 20, number 5, pp. 594–602.
+doi: https://doi.org/10.1111/j.1467-9280.2009.02340.x, accessed 14 January 2018.
+
+
+Douglas Gentile, Hyekyung Choo, Albert Liau, Timothy Sim, Dongdong Li, Daniel Fung, and Angeline Khoo, 2011. “Pathological video game use among youths: A two-year longitudinal study,” Pediatrics, volume 127, number 2, pp. 319–329.
+doi: https://doi.org/10.1542/peds.2010-1353, accessed 14 January 2018.
+
+
+Isabela Granic, Adam Lobel, and Rutger C. M. E. Engels, 2014. “The benefits of playing video games,” American Psychologist, volume 69, number 1, pp. 66–78.
+doi: https://doi.org/10.1037/a0034857, accessed 14 January 2018.
+
+
+C. Shawn Green and Daphne Bavelier, 2012. “Learning, attentional control and action video games,” Current Biology, volume 22, number 6 (20 March), pp. R197–R206.
+doi: https://doi.org/10.1016/j.cub.2012.02.012, accessed 14 January 2018.
+
+
+Juho Hamari and Max Sjoblom, 2017. “What is eSports and why do people watch it?” Internet Research, volume 27, number 2, pp. 211–232.
+doi: https://doi.org/10.1108/IntR-04-2016-0085, accessed 14 January 2018.
+
+
+Ivo V. Hilvoorde, 2015. “Sport and play in a digital world,” Sport, Ethics and Philosophy, volume 10, number 1, pp. 1–4.
+doi: https://doi.org/10.1080/17511321.2016.1171252, accessed 14 January 2018.
+
+
+Brett Hutchins, 2008. “Signs of meta-change in second modernity: The growth of e-sport and the World Cyber Games,” New Media & Society, volume 10, number 6, pp. 851–869.
+doi: https://doi.org/10.1080/17511321.2016.1171252, accessed 14 January 2018.
+
+
+Dal Yong Jin, 2010. Korea’s online gaming empire. Cambridge, Mass.: MIT Press.
+
+
+Hee Jhee Jiow, 2014. “Parental mediation of video gaming in Singapore,” Ph.D. thesis, National University of Singapore, at http://scholarbank.nus.edu.sg/handle/10635/113295, accessed 14 January 2018.
+
+
+Hee Jhee Jiow, Sun Sun Lim, and Julian Lin, 2016. “Level up! Refreshing parental mediation theory for our digital media landscape,” Communication Theory, volume 27, number 3, pp. 309–328.
+doi: https://doi.org/10.1111/comt.12109, accessed 14 January 2018.
+
+
+Maya Kachroo-Levine, 2015. “How do YouTubers make money? A Pro YouTuber explains just how the whole system works,” Bustle (10 August), at https://www.bustle.com/articles/103239-how-do-youtubers-make-money-a-pro-youtuber-explains-just-how-the-whole-system-works, accessed 17 November 2016.
+
+
+Mehdi Kaytoue, Arlei Silva, Loic Cerf, Wagner Meira, Jr., and Chedy Raissi, 2012. “Watch me playing, I am a professional: A first study on video game live streaming,” WWW ’12 companion: Proceedings of the 21st international conference on World Wide Web, pp. 1,181–1,188.
+doi: https://doi.org/10.1145/2187980.2188259, accessed 14 January 2018.
+
+
+Dan Ketchum, 2016. “Salaries of pro gamers,” Chron, at http://work.chron.com/salaries-pro-gamers-26166.html, accessed 17 November 2016.
+
+
+Angeline Khoo, 2012. “Video games as moral educators,” Asia Pacific Journal of Education, volume 32, number 4, pp. 416–429.
+doi: http://dx.doi.org/10.1080/02188791.2012.738638, accessed 14 January 2018.
+
+
+Jin Kim, 2012. “The institutionalization of YouTube: From user-generated content to professionally generated content,” Media, Culture & Society, volume 34, number 1, pp. 53–67.
+doi: https://doi.org/10.1177/0163443711427199, accessed 14 January 2018.
+
+
+Lawrence A. Kutner, Cheryl K. Olson, Dorothy E. Warner, and Sarah M. Hertzog, 2008. “Parents’ and sons’ perspectives on video game play: A qualitative study,” Journal of Adolescent Research, volume 23, number 1, pp. 76–96.
+doi: https://doi.org/10.1177/0743558407310721, accessed 14 January 2018.
+
+
+Liz Lavaveshkul, 2012. “How to achieve 15 minutes (or more) of fame through YouTube,” Journal of International Commercial Law and Technology, volume 7, number 4, pp. 370–385, and at http://www.jiclt.com/index.php/jiclt/article/view/171, accessed 14 January 2018.
+
+
+Marie-Josée Legault and Kathleen Ouellet, 2012. “So into it they forget what time it is? Video game designers and unpaid overtime,” In: Dariusz Jemielniak and Abigail Marks (editors). Managing dynamic technology-oriented businesses: High-tech organizations and workplaces. Hershey, Pa.: IGI Global, pp. 82–102.
+doi: https://doi.org/10.4018/978-1-4666-1836-7.ch006, accessed 14 January 2018.
+
+
+Marie-Josée Legault and Johanna Weststar, 2012. “More than the numbers: Independent analysis of the IDGA 2009 quality of life survey,” at http://gameqol.org/wp-content/uploads/2012/12/Quality of Life in the Videogame Industry — 2009 IGDA Survey Analysis.pdf, accessed 19 June 2016.
+
+
+Drew Liming and Dennis Vilorio, 2011. “Work for play: Careers in video game development,” Occuptional Outlook Quarterly, pp. 2–11, and at https://www.bls.gov/careeroutlook/2011/fall/art01.pdf, accessed 14 January 2018.
+
+
+Sonia Livingstone and Ellen J. Helsper, 2008. “Parental mediation of children’s Internet use,” Journal of Broadcasting & Electronic Media, volume 52, number 4, pp. 581–599.
+doi: https://doi.org/10.1080/08838150802437396, accessed 14 January 2018.
+
+
+Marcel Martončik, 2015. “e-Sports: Playing just for fun or playing to satisfy life goals?” Computers in Human Behavior, volume 48, pp. 208–211.
+doi: https://doi.org/10.1016/j.chb.2015.01.056, accessed 14 January 2018.
+
+
+Meghdad Mehrabi, Masoud Kousari, and Vivian Hsueh-Hua Chen, 2011. “Parents’ mediation of children’s video game experience and game rating systems: Iranian parents’ mediation patterns,” paper presented at the annual meeting of the International Communication Association (Boston, Mass.).
+
+
+Amy I. Nathanson, 2008. “Parental mediation strategies,” In: Wolfgang Donsbach (editor). International Encyclopedia of Communication. Malden, Mass.: Blackwell, pp. 3,506–3,508.
+doi: https://doi.org/10.1002/9781405186407.wbiecp007, accessed 14 January 2018.
+
+
+Dodie J. Niemeyer and Hannah R. Gerber, 2015. “Maker culture and Minecraft: Implications for the future of learning,” Educational Media International, volume 52, number 3, pp. 216–226.
+doi: https://doi.org/10.1080/09523987.2015.1075103, accessed 14 January 2018.
+
+
+Peter Nikken and Jeroen Jansz, 2006. “Parental mediation of children’s videogame playing: A comparison of the reports by parents and children,” Learning, Media and Technology, volume 31, number 2, pp. 181–202.
+doi: https://doi.org/10.1080/17439880600756803, accessed 14 January 2018.
+
+
+Chung Peichi, 2008. “New media for social change: Globalisation and the online gaming industries of South Korea and Singapore,” Science Technology and Society, volume 13, number 2, pp. 303–323.
+doi: https://doi.org/10.1177/097172180801300207, accessed 14 January 2018.
+
+
+Kyle Russell, 2013. “The highest-paid professional video gamers in the world,” Business Insider (15 July), at http://www.businessinsider.com/the-highest-paid-professional-gamers-2013-7, accessed 1 October 2016.
+
+
+Yuri Seo, 2016. “Professionalized consumption and identity transformations in the field of eSports,” Journal of Business Research, volume 69, number 1, pp. 264–272.
+doi: https://doi.org/10.1016/j.jbusres.2015.07.039, accessed 14 January 2018.
+
+
+Adam Sherwin, 2014. “Minecraft game maker Notch ‘sells out’ to Microsoft in $2bn deal,” Independent (11 September), at http://www.independent.co.uk/life-style/gadgets-and-tech/gaming/minecraft-maker-notch-sells-out-to-microsoft-in-2bn-deal-9727579.html, accessed 19 June 2016.
+
+
+Wonsun Shin and Jisu Huh, 2011. “Parental mediation of teenagers’ video game playing: Antecedents and consequences,” New Media & Society, volume 13, number 6, pp. 945–962.
+doi: https://doi.org/10.1177/1461444810388025, accessed 14 January 2018.
+
+
+SocialBlade, 2016. “PewDiePie,” at http://socialblade.com/youtube/user/pewdiepie, accessed 1 October 2016.
+
+
+Star Online, 2017. “Carve a career in the multi-billion dollar videogaming industry” (20 January), at http://www.thestar.com.my/news/nation/2017/01/20/carve-a-career-in-the-multi-billion-dollar-videogaming-industry/, accessed 14 January 2017.
+
+
+Marcella Szablewicz, 2015. “A realm of mere representation? ‘Live’ e-sports spectacles and the crafting of China’s digital gaming image,” Games and Culture, volume 11, number 3, pp. 256–274.
+doi: https://doi.org/10.1177/1555412015595298, accessed 14 January 2018.
+
+
+Nicholas Taylor, 2016. “Play to the camera: Video ethnography, spectatorship, and e-sports,” Convergence, volume 22, number 2, pp. 115–130.
+doi: https://doi.org/10.1177/1354856515580282, accessed 14 January 2018.
+
+
+Namik Top, 2016. “Socio-demographic differences in parental monitoring of children in late childhood and adolescents’ screen-based media use,” Journal of Broadcasting & Electronic Media, volume 60, number 2, pp. 195–212.
+doi: https://doi.org/10.1080/08838151.2016.1164168, accessed 14 January 2018.
+
+
+David H. Uttal, Nathaniel G. Meadow, Elizabeth Tipton, Linda L. Hand, Alison R. Alden, Christopher Warren, and Nora S. Newcombe, 2013. “The malleability of spatial skills: A meta-analysis of training studies,” Psychological Bulletin, volume 139, number 2, pp. 352-402.
+doi: https://doi.org/10.1037/a0028446, accessed 14 January 2018.
+
+
+Vinova, 2015. “List of Singapore game companies” (26 February), at http://vinova.sg/2015/02/26/list-of-singapore-games-companies/, accessed 1 October 2016.
+
+
+Andrew Webster, 2017. “Blizzard’s Overwatch League will finally debut in January,” Verge (20 September), at https://www.theverge.com/2017/9/20/16338718/blizzards-overwatch-league-start-date-january, accessed 27 December 2017.
+
+
+Johanna Weststar, 2015. “Understanding video game developers as an occupational community,” Information, Communication & Society, volume 18, number 10, pp. 1,238–1,252.
+doi: https://doi.org/10.1080/1369118X.2015.1036094, accessed 14 January 2018.
+
+
+Jeffrey Wimmer, 2012. “Digital game culture(s) as prototype(s) of mediatization and commercialization of society: The World Cyber Games 2008 in Cologne as an example,” In: Johannes Frommes and Alexander Unger (editors). Computer games and new media cultures. Dordrecht: Springer, pp. 525–540.
+doi: https://doi.org/10.1007/978-94-007-2777-9_33, accessed 14 January 2018.
+
+
+Emma Witkowski, 2012. “On the digital playing field: How we ‘do sport’ with networked computer games,” Games and Culture, volume 7, number 5, pp. 349–374.
+doi: https://doi.org/10.1177/1555412012454222, accessed 14 January 2018.
+
+
+Emma Witkowski, 2009. “Probing the sportiness of eSports,” In: Julia Christophers and Tobias Scholz (editors). eSports yearbook 2009. Norderstedt: Books on Demand GmbH, pp. 53–56, and at http://esportsyearbook.com/eyb2009_ebook.pdf, accessed 14 January 2018.
+
+
+Christopher Zoia, 2014. “This guy makes millions playing video games on Youtube,” Atlantic (14 March), at http://www.theatlantic.com/business/archive/2014/03/this-guy-makes-millions-playing-video-games-on-youtube/284402/, accessed 1 October 2016.
+
+
+ 
+
+
+
+
+Editorial history
+
+Received 31 July 2017; revised 3 January 2018; accepted 15 January 2018.
+
+
+
+
+
+[image: Creative Commons License]
+This paper is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+
+Perceptions of video gaming careers and its implications on parental mediation
+by Hee Jhee Jiow, Rayvinder Jit Singh Athwal, Ling Ling Chew, Muhammad Helmi Elias, Nina Lim, Qin Ting Lye, Xin Yu Ng, and Kenneth Woo.
+First Monday, Volume 23, Number 2 - 5 February 2018
+http://firstmonday.org/ojs/index.php/fm/article/view/8048/6637
+doi: http://dx.doi.org/10.5210/fm.v23i2.8048
+
+
+
+
+
+		
+
+		
+			
+					[image: Bookmark and Share]
+			
+			
+		
+
+	
+
+		
+
+
+
+
+
+
+
+
+A Great Cities Initiative of the University of Illinois at Chicago University Library.© First Monday, 1995-2018. ISSN 1396-0466.
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,132 @@
+
+Editorial Board Thoughts: 
+Reinvesting in Our Traditional 
+Personnel Through Knowledge 
+Sharing and Training Mark Dehmlow 
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 4 
+
+ 
+
+Mark Dehmlow (mdehmlow@nd.edu) is a member of the ITAL Editorial Board and Director of 
+Library Information Technology, Hesburgh Library, University of Notre Dame, South Bend, Indiana.  
+
+Lately I have been giving a lot of thought to how those of us in technology positions can extend our 
+impact throughout our organizations. With finite budgets and time and relatively low personnel 
+turnover, I have realized that the solution goes beyond merely finding ways that technology can 
+optimize workflows through automation. I have been working in academic library technology for 
+nearly 20 years and when I began my career, virtually all areas of technology required specialized 
+staff – from supporting general computer applications to managing the technical infrastructure 
+that underlay our core systems. These days, technology is still a specialty, but the function of 
+technicians has become more focused on providing infrastructure and much of the general 
+application support we used to provide has become ubiquitous and has become an expectation of 
+almost all library positions. Managing email, creating specialized formulas for data analysis, 
+navigating operating systems, even developing basic databases, are now regular parts of library 
+work. The trend of technological infusion will continue but instead of general technical tasks, 
+almost all new library positions will require deeper technical skills. This is due, in part, to the 
+function of knowledge work becoming more specialized as libraries focus on the areas where they 
+can create the most value and those new domains require more technical expertise to be effective.  
+
+Perhaps the most striking example of this evolution is in the transition of catalogers to metadata 
+specialists. The days of working with a single metadata format (MARC) in a single, tabular 
+interface (catalog) are quickly slipping away and being replaced by metadata structured in 
+multiple complex schemes, expressed in formats like XML and JSON. Instead of acquiring data 
+from OCLC, libraries need to work with web-based APIs to harvest metadata. And the tools for 
+manipulation require basic programming skills in languages like Python or working with open 
+source applications that look little like the integrated library systems we are used to. Working 
+with these tools can enable metadata experts to customize metadata at scale, but it requires new 
+knowledge and even new ways of thinking about metadata and metadata manipulation. Cataloging 
+isn’t the only position undergoing change in academic libraries, either. Acquisitions is pushing 
+toward greater automation and patron driven selection. The catalog is becoming more like a 
+bookstore and the discovery landscape includes a panoply of resources that are purchased only at 
+the point a user clicks on a link to a resource. Acquisitions is also occurring at larger scale, and 
+requiring the ability to work with thousands of items in a batch, to select based on the qualities of 
+what libraries want to make available, to analyze usage trends, and to load, update, and remove 
+metadata as quickly from our discovery environment as possible. The tools to accomplish this are 
+similar to those for metadata. Beyond technical services, we’re beginning to see the role of the 
+subject selector transition from building broad disciplinary collections toward a focus on  curation 
+
+
+
+ 
+
+EDITORIAL BOARD THOUGHTS | DEHMLOW 5 
+https://doi.org/10.6017/ital.v36i4.10239 
+
+of specialized collections requiring digitization and digital curation. The tools to accomplish this 
+are digital asset management systems and web-based digital exhibition tools which are 
+specialized content management systems. Subject selectors are transforming into digital content 
+creators and managers. 
+
+Technologically-driven change regularly outpaces generational personnel turnover in libraries, 
+and given that technological change continues to grow exponentially, it is clear we need a flexible 
+workforce and an organizational commitment to training and professional growth. While 
+organizations are rewriting positions to include technical skills, we will always have a 
+preponderance of staff that started their careers in libraries with depreciating skillsets. Merely 
+directing staff to webinars, conferences and self-driven development isn’t enough. Multi-day 
+workshops are great as long as there are opportunities to apply learning upon returning to work. 
+To guarantee skill retention, sustained training needs to be directed towards the specific skills 
+needed now and based in actual work, not just theoretical exercises. The challenge, then, becomes 
+how to implement such a program and identifying who can provide the necessary training. How 
+can specialization be disseminated to non-specialists? Many libraries have some of the needed 
+resources close at hand, even if staffing is thin and technical resources scarce. It requires thinking 
+a bit pragmatically to reuse the resources libraries do have, and for technologists to evolve with 
+demands as well, transitioning our roles from technology experts alone to a hybrid of 
+practitioners, teachers, and enablers. 
+
+Teaching is, itself, a specialty and many IT professionals are unlikely to have developed that 
+skillset. Most libraries, though, have staff who do have experience and expertise in training and 
+pedagogy. Evolving towards in-sourced technology development will undoubtedly require IT staff 
+to first learn effective teaching methods and basic curricula development. They will need a 
+framework to take a set of specific skills and build ad-hoc courses with medium range learning 
+objectives. Teaching can occur in the context of actual work scenarios so that learning is put to 
+practical use as part of that training, and skills retention improved. Libraries can become labs for 
+cross-training and knowledge sharing through leveraging our teachers and technologists in 
+interdisciplinary partnerships and collaboration with a focus on internal growth so that library 
+organizations can meet continuously changing demands. 
+
+Once staff have been trained in new technical areas, there is another opportunity for IT 
+professionals to extend their impact, by dividing technology-driven projects into the parts that 
+require deep technical work and the parts that require transferable technical skills. If 
+technologists start looking at ways to implement technical solutions in componentized ways 
+instead of as end-to-end solutions, they have the opportunity to empower newly trained staff to 
+contribute in practical ways through building solution foundations and then delegating 
+configurable application inputs. As an example – developing a full application stack requires 
+considerable programming skill, but learning to create and update extensible stylesheets to 
+transform XML-based metadata is a teachable skill. IT professionals could develop applications 
+that take a configuration file and an XSL file as inputs while staff with XSLT training can modify the 
+configuration to include parameters for connecting to APIs or loading XML. Trained staff could 
+then modify the XSL to transform data to their specifications without having to pass the task back 
+to the IT professional.  
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 6 
+
+ 
+
+Moving toward more holistic technology capability in libraries will require all personnel to be 
+committed to evolving to meet the emerging needs of our organizations – IT professionals 
+included. For decades, technologists have been in the privileged position of having the necessary 
+skills to advance the profession’s digital future, but it will be important for technologists in 
+libraries to integrate the many valuable skills other personnel can offer so that they also can 
+evolve in ways that best support our organizations – leveraging foundational library skills to 
+enhance overall organizational capacity to accomplish tasks that are increasingly requiring 
+technical expertise. 
+
+I won’t pretend it will be easy. It will require libraries to prioritize organizationally-led training, 
+even amidst the flurry of demands around us, but I think it is also critical to the future of the 
+profession, and the old adage that winter pays for summer feels apropos here. Technologists will 
+need to be open to incorporating foundational library skills, to collaborating and learning from 
+other library specialists, to thinking of their positions more broadly, and, for those who live in 
+ivory towers (you know who you are), to eliminating the silos they’ve built and collaborate, 
+cooperate, and engage. Technologists are an important part of library ecosystems with what we 
+contribute operationally, but I think we can have a greater impact if we propagate our knowledge 
+in an effort to increase the profession’s overall technology capacity and become agents to support 
+knowledge workers’ future skill development.  
+
+

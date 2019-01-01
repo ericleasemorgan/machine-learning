@@ -1,0 +1,236 @@
+
+		
+			
+				
+					[image: The Code4Lib Journal]
+
+					ISSN 1940-5758
+
+				
+
+			
+
+			
+				
+					
+						
+						
+					
+
+				
+
+				
+					Current Issue
+
+							Issue 39, 2018-02-05
+
+
+						
+					Previous Issues
+
+							Issue 38, 2017-10-18
+	Issue 37, 2017-07-18
+	Issue 36, 2017-04-20
+	Issue 35, 2017-01-30
+	Older Issues
+
+
+				
+
+				
+					About
+
+						Mission
+	Editorial Committee
+	Process and Structure
+	Code4Lib
+
+
+				
+
+				
+					For Authors
+
+						Call for Submissions
+	Article Guidelines
+
+
+				
+
+			
+
+						
+
+			
+								
+					Issue 39, 2018-02-05
+
+					Getting Real in the Library: A Case Study at the University of Florida
+
+					
+						In the fall of 2014, the University of Florida (UF) Marston Science Library, in partnership with UF IT, opened a new computer lab for students to learn and develop mobile applications.  The Mobile Application Development Environment (MADE@UF) features both software and circulating technology for students to use in an unstructured and minimally-staffed environment.  As the technological landscape has shifted in the past few years, virtual and augmented reality have become more prominent and prevalent, signaled by companies like Facebook, Google, and Microsoft making significant financial investments in these technologies.  During this evolution, MADE@UF has migrated to focus more on virtual and augmented reality, and we will discuss the opportunities and challenges that hosting and managing such a space has provided to the science library and its staff.
+
+					
+
+					
+						
+by Samuel R. Putnam and Sara Russell Gonzalez
+
+Introduction
+
+In order to be fully prepared to enter the workforce or graduate school, students need the opportunity to explore new technology and develop new proficiencies.  Through the development of makerspaces, technology workshops and lending collections, libraries are positioning themselves on academic campuses as collaborative learning environments where students can experience emerging technologies and gain valuable expertise.  
+
+MADE@UF (Mobile Application Development Environment) is a digital makerspace for students at the University of Florida to develop and test mobile and virtual reality and augmented reality (VR/AR) applications.  With two locations, in Marston Science Library and the Infinity Residence Hall, it was originally designed to solely focus on mobile app development; however, in response to the emergence of VR/AR technology and the demand of our stakeholders, MADE@UF has pivoted to focus primarily on providing a space for VR/AR development.
+
+Background
+
+MADE@UF was originally conceived in 2013 as a sandbox for mobile application development  by Anne Allen in the University of Florida’s (UF) Academic Technology unit.  Allen had funding for technology through the UF technology fees, which are assessed to each student, but lacked a space to install MADE@UF.  In 2014, Marston Science Library (MSL) completed a full renovation of its ground floor including the repurposing of a large classroom.  Originally contemplated as a physical makerspace, plans for the room changed when Allen approached the library with the proposal to use the space for MADE@UF instead.  This new lab’s emphasis on emerging technology fit with the science library’s objective of encouraging collaboration in its predominantly engineering and science student population.
+
+The original design of the space was a mixture of 3 collaboration pods and 5 individual workstations each with a Mac mini.  The collaboration pods accommodate 5-7 users and the large-scale monitor is connected with a Crestron unit that allows users to change inputs between the Mac Mini or mirroring over wifi their own laptop screens. 
+
+[image: Figure 1]
+
+Figure 1. Collaboration pods in Made@UF (enlarge)
+
+[image: Figure 2]
+
+Figure 2. 2014 Made@UF floor plan with potential 2018 changes (enlarge)
+
+The Mac Minis were selected because early focus groups of students, faculty and alumni  indicated that most students would want to develop iOS applications and an Apple computer is required for iOS development.  Software installed included Eclipse ADT, Xcode, Android Studio, Brackets, and SeaMonkey.  We made the decision early in MADE@UF’s development not to include Microsoft Office or other productivity software in an attempt to preserve the sandbox nature of the space and discourage general homework activity; this was not viewed as unduly hindering student work as there are another 90 workstations on the same floor outside of MADE@UF with the full range of software available to students.
+
+To support iOS development, we also joined the Apple iOS Developer University program (https://developer.apple.com/programs/ios/university/).  This free program, open to degree-granting higher education institutions, permits students to begin developing in iOS without first paying the required $100 developer fee.  We felt this was important because one of MADE@UF’s major objectives was to encourage students who are new to app development and to eliminate barriers such as the initial developer fee.  However, enrolling in this program also required the library to mandate that users would first sign a user agreement stipulating that students would comply with Apple’s terms and conditions as well as general use policies.  The logistics of this agreement also meant that only students could use MADE@UF because there was not a way to restrict software usage to different types of patrons, such as faculty, staff, and community patrons. 
+
+Along with the software development resources, students could also check out boxes of tablets of varying sizes and manufacturers to test their apps throughout the development process.  These boxes could be checked out at the service desk on the main floor for 4 hours and contained an iPad 2, iPad mini, Android Nexus tablet, and an iPod Touch as a proxy for an iPhone.  One of the first challenges was how to facilitate students wiping the memory and resetting each of the devices before returning the device box.  One of the individual workstations was set aside for this need, unfortunately removing a workstation from general student usage.  Detailed instructions for resetting the devices was provided next to the station and it was the responsibility of the student to reset all devices before returning the box to circulation.
+
+After MADE@UF in MSL was opened, the library was approached by Housing IT to query if we would like to partner with them on opening a second MADE@UF in a new residence hall being constructed a few blocks off campus.  This new hall targeted students focused on entrepreneurship and included a ground floor with resources that students might need to bring a new invention or company to fruition.  These services included a fabrication lab, graphics design studio, and start-up incubator; MADE@UF was seen as an ideal complement to support students developing digital projects. 
+
+Using the same UF technology fee support, the new MADE@UF at Infinity was opened in 2015 with similar setup and technology as MSL’s location.  This was a deliberate attempt to keep the 2 spaces uniform so that students could move between either location easily.  Although Infinity is approximately a 10-minute walk off campus, it does have the advantage of being open 24 hours a day, 7 days a week.  The hall’s lobby staff monitor usage in the space, checkout technology, and disseminate room keys to the students.
+
+Early Stages
+
+Activity early on was aimed at raising awareness of the space and encouraging students to begin app development.  UF Information Technology (UFIT) agreed to provide an experienced undergraduate to staff MSL’s MADE@UF for 3 hours a day, Monday through Friday.  The student was familiar with iOS development and also could triage problems with the workstations.  We quickly discovered that students rarely sought assistance; although, it was unclear if it was because they were already comfortable with the software or if they were doing work other than app development.  After 2 semesters, UFIT decided to discontinue the daily staffing and provide help as needed. 
+
+Marketing of MADE@UF was done mainly through events where we were allowed to set up tables and discuss MADE@UF with participants as well as presentations across campus.  These events included new student orientations, the campus-wide IT showcase, and department presentations to faculty.  In addition to a handout explaining the basic concept of MADE@UF, students received a Google Cardboard kit, a do-it-yourself cardboard viewer that couple with a smartphone to create a VR headset,along with instructions on how to assemble it and links to available apps to try.  Also, MADE@UF obtained an Oculus Rift DK2 that was used for hands-on demonstrations; this invariably led to long lines of students excited to try out the new technology.  Even though students were impressed by the Rift, they often seemed reluctant to use MADE@UF due to a lack of programming experience. 
+
+Part of the preliminary development of the MADE@UF concept was recognizing the need for basic-level tutorials and instruction to encourage students to explore building apps. Part of the initial funds were earmarked to a computer science professor who agreed to create an online course leading beginners through development using Phonegap, a cross-platform app builder.  Unfortunately, the professor did not follow through on finishing the online course so workshop activity changed to locating in-person instructors who would teach hands-on classes.   It proved challenging to find speakers and instructors capable of leading workshops without a budget to compensate presenters and we did not have library staff with enough programming expertise to teach.  We did invite a local app development company to speak about their work and later held a 3-part series designed to start students developing Android apps.  Infinity’s MADE@UF had the advantage of an in-house coding school that held classes adjacent to their space.  Otherwise, students were encouraged to take advantage of UF’s Lynda.com subscription that contains numerous programming tutorials covering both iOS and Android development.  All workshops that were held in MADE@UF were heavily attended, highlighting that the demand existed.
+
+Transition
+
+Shortly after MADE@UF opened, we decided to expand app development to include wearable technology.  Smartwatches were discussed, such as the Android-based Pebble watch, but staff settled on introducing Google Glass and Epson Moverio, a headset aimed at business.  The Glasses were challenging for IT to support because they required network access, necessitating either tethering to a phone or directly connecting to the campus wireless network.  Since the Glasses could not connect to the campus network due to its authentication protocols, a separate hidden wireless network was installed in the MSL location exclusively for using the Glasses.  These proved to generate the most excitement for MADE@UF at the beginning because most people had never seen or tried on a pair and were highly curious about the interface.  However, after examining the circulation statistics for the Glasses and Moverios, we realized that  MADE@UF served as a showcase to try out new equipment rather than its original purpose as a development lab. 
+
+The Google Glasses led directly to purchasing the Oculus Rift Development Kit 2, a virtual reality headset, as well as the Microsoft Hololens, a mixed reality headset. Issues with the Oculus Rift Development Kit 2 began when Oculus dropped support of the Rifts on Macs. Considering Made@UF was an all-Mac lab at the time, this effectively ended our VR circulation program. However, we utilized another UF technology fee to purchase Windows computers in conjunction with Oculus release of their new VR headset. Oculus was chosen over the HTC Vive partially due to the Rift’s minimal space requirements (HTC Vive requires a 6.5 feet by 5 feet of empty space with a minimum 16 feet between base stations). Additionally, these VR-capable Windows computers present a barrier for adoption because several libraries can afford the cost of an Oculus Rift or HTC Vive but not the computer that is required to run VR games and experiences.  While most newer machines will meet the minimum requirements for CPU, RAM, and ports, few off-the-shelf builds will contain the requisite graphics card to support VR. 
+
+Microsoft Hololens provided another list of issues. First, the high cost of the Hololens, starting at $3000, made staff wary of loaning the item and thus limited us to purchasing 1 for circulation. Next, the Development version does not work well with lending due to need for users to link their Microsoft account to use. This requirement leaves circulation staff with the burden of ensuring patrons are logged off of the Hololens, otherwise risking exposure of a patron’s Microsoft account to a stranger. As an alternative, Microsoft offers a Hololens with enterprise options geared toward multiple users for $5000.
+
+The transition from mobile app development to VR/AR technology also reflected the increased investment in VR/AR by some of the largest technology companies in the world. In the past four years, Facebook purchased the virtual reality company Oculus, Apple released the ARKit for developing augmented reality applications on iOS devices, Google developed Google Cardboard as an affordable VR option, and Sony released Playstation VR to accompany their gaming platform, just to name a few notable examples. This increase of VR/AR development was mirrored by a rise in student interest and faculty research in using and creating new VR/AR content at UF.
+
+Around this time, we began conducting informal whiteboard polls at the library entrance. The whiteboard polls would pose one question and invite the responses of library patrons. When the we asked questions related to technology in the libraries on the whiteboard polls, we received robust responses, typically between 75-100 in a 24-hour period.  Though informal, these polls helped us receive up-to-date opinions related to technology quickly from our patrons. 
+
+Recent Developments
+
+The transition from mobile app development to VR/AR was accompanied by new partners in MADE@UF.  Gator VR, a student club on campus dedicated to creating VR/AR projects and holding VR/AR events, began conducting their general body meetings, officer meetings, and special events in the MADE@UF space. MADE@UF’s partnership with GatorVR has brought 15 students into the space who are using the VR equipment on a weekly basis. This partnership creates familiarity with a group of students that otherwise may not have been involved.
+
+Beginning in February 2017, the George A. Smathers Libraries was a part of a marketing project funded by our regional library cooperative, the Northeast Florida Library Information Network. For the marketing project, the Libraries agreed to focus on marketing MADE@UF.  The project team worked to refresh the MADE@UF website. This included updating information, synthesizing information to eliminate unnecessary pages, adding Google Analytics to the web page, and creating a newsletter sign-up form. Google Analytics allows us to see that our website has had 468 users from September 1, 2017 through November 30, 2017 with 90% of the users being new users. We have also had 39 email subscribers since the beginning of fall 2017. These subscribers receive emails about new technology as well as opportunities to “beta-test” via checkout before it is available to all library patrons. Subscribers also receive information about upcoming events in MADE@UF as well as other VR/AR events on campus and in the community. The project team also crafted press releases accompanying new technology in the space and advertised for the space. The work of the marketing project team laid a foundation for future growth as MADE@UF seeks to increase its impact on campus.
+
+Beginning in fall 2017, Benjamin Lok, a professor in Computer and Information Science and Engineering, created a class named “VR for the Social Good.” The class consists  of 50 students who will break into groups of five to create a VR/AR project over the course of the semester.  The enrollment will grow to 100 in spring 2018 and potentially larger in fall 2018. The course does not require students to be computer science majors. Rather, students from non-computer science disciplines are encouraged to enroll as the first month of the course is dedicated to learning Unity, a game engine used to create VR/AR applications.  Lok’s course does not have the infrastructure to support VR/AR development on this scale, which is where the partnership with MADE@UF began.
+
+MADE@UF is equipped with collaborative spaces for multiple student groups to work with Oculus Rifts and Unity software in order to complete their projects. We have also blocked off time during mornings from 8:00 a.m. to 10:00 a.m. on Monday through Friday for students enrolled in VR for Social Good to receive priority in MADE@UF. The class also is able to reserve stations with VR/AR technology through use of the LibCal room booking system. These accommodations allow for students to complete group work without risking interference from casual computer users. Due in part to these new partnerships, MSL’s Oculus Rifts have been circulated 112 times during the fall 2017 semester, a vast improvement over 77 loans in the spring 2017 semester.
+
+In order to provide the most appropriate VR technology for developers on campus, we surveyed the students in the VR for Social Good course (See Appendix 1 for Survey on VR/AR Technology in Made@UF). We will be able to use this survey data to make a more informed decision when we apply for the annual UF Technology Fee. The timing of the yearly application allows librarians to survey students from the fall and spring semesters of the course; in this funding cycle, we will be able to survey approximately 150 student developers for their input. In the future, we will survey the student club GatorVR to gain their input.
+
+In fall 2017, MADE@UF hosted one-hour workshops within the space taught by recently hired librarians and graduate interns. Five workshops were planned during the semester, three focusing on Unity,  one focusing on Aurasma, an augmented reality app, and one on Git and Github, which was unfortunately cancelled due to Hurricane Irma. The four workshops brought in 70 participants, a mark representing 50% capacity on average for the events. These hands-on workshops allowed students to use these programs and create a VR/AR project of their own. GatorVR sent a representative to each event to allow participants interested in VR/AR projects the opportunity to connect with other interested students.
+
+MADE@UF also hosted two open hours during the fall 2017 semester. One open house, which was marketed as “Coffee and VR”, aimed to bring in faculty and graduate students who identified VR/AR within their research interests. Upon bringing these interested parties into MADE@UF, the goal was to foster discussion amongst researchers from various fields and introduce them to the resources available in MADE@UF and Marston Science Library. We emailed information about the first “Coffee and VR” event to 90 interested parties. We tracked the emails and discovered 49 recipients opened the emails, while 5 clicked on links inside the emails. During the event, 7 participants arrived to enjoy coffee and talk VR/AR; 1 of the participants came as a result of the email. Although this may seem less the ideal, the 1 participant was from the School of Construction Management, a department we did not have a relationship with prior to the email blast. Since the event, we have been in discussions with this researcher about partnership opportunities.
+
+The other open house was designed to reach undergraduate students and excite them about the potential of VR/AR. We included GatorVR in this open house and had them demo the final version of the VR application they created during spring 2017. The two-hour event drew 40 participants including 1 who received the email blast. This graduate student brought his class to the event, a group of about 12 students. Also, we have been in discussions with this graduate student about future partnerships with his college, the College of the Arts, with which we previously did not have a relationship.
+
+Conclusion
+
+MADE@UF has transitioned from a mobile app development space to a VR/AR focused space over the span of about two years. The transition echoes the emergence of VR/AR into the public consciousness and reflects new partnerships created between librarians at Marston Science Library and VR/AR stakeholders on campus at the University of Florida. In the future, MADE@UF hopes to continue to identify potential partners through open houses and workshops on campus as well as supporting faculty interested in utilizing the space for relevant courses. As an area of growth, we are interested in identifying potential opportunities for working with faculty and graduate students conducting research in VR/AR and enhancing assessment to understand our impact on student learning.
+
+About the Authors
+
+Samuel R. Putnam (srputnam@ufl.edu) is an engineering librarian at the University of Florida where he is the mechanical and aerospace engineering liaison and director of the MADE@UF development lab. His current research interests include virtual and augmented reality in libraries as well as innovative instruction and information-seeking behavior of students.
+
+Sara Russell Gonzalez (saragonz@ufl.edu) is a science librarian at the University of Florida where she is the physical sciences and mathematics liaison and former director of the MADE@UF development lab.  Her current research interests include emerging technologies in libraries, modeling and visualization of data, and scientific literacy instruction.
+
+Appendix 1: Survey on VR/AR Technology in Made@UF
+
+See the Made@UF Student Survey from Spring 2017.
+
+					
+
+														
+
+				
+
+
+	Subscribe to comments: For this article | For all articles
+
+
+			
+
+	 
+
+Leave a Reply
+
+
+
+
+
+
+
+Name (required)
+
+
+
+Mail (will not be published) (required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+             
+
+            
+            
+             
+            
+
+
+
+
+
+
+
+							
+
+
+			
+				Log in
+
+				This work is licensed under a Creative Commons Attribution 3.0 United States License.
+[image: Creative Commons License]
+
+			
+
+			            
+
+
+
+		
+
+		
+		
+	

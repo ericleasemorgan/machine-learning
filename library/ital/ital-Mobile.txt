@@ -1,0 +1,1348 @@
+
+Mobile Website Use and Advanced 
+Researchers: Understanding Library 
+Users at a University Marine 
+Sciences Branch Campus 
+
+ 
+ 
+
+Mary J. Markland, 
+Hannah Gascho Rempel, 
+
+and Laurie Bridges 
+
+ 
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017  
+
+   
+
+7 
+
+ABSTRACT 
+
+This exploratory study examined the use of the Oregon State University Libraries website via mobile 
+
+devices by advanced researchers at an off-campus branch location. Branch campus–affiliated faculty, 
+
+staff, and graduate students were invited to participate in a survey to determine what their research 
+
+behaviors are via mobile devices, including frequency of their mobile library website use and the 
+
+tasks they were attempting to complete. Findings showed that while these advanced researchers do 
+
+periodically use the library website via mobile devices, mobile devices are not the primary mode of 
+
+searching for articles and books or for reading scholarly sources. Mobile devices are most frequently 
+
+used for viewing the library website when these advanced researchers are at home or in transit. 
+
+Results of this survey will be used to address knowledge gaps around library resources and research 
+
+tools and to generate more ways to study advanced researchers’ use of library services via mobile 
+
+devices.  
+
+INTRODUCTION 
+
+As use of mobile devices has expanded in the academic environment, so has the practice of 
+
+gathering data from multiple sources about what mobile resources are and are not being used. 
+
+This data informs the design decisions and resource investments libraries make in mobile tools. 
+
+Web analytics is one tool that allows researchers to discover which devices patrons use to access 
+
+library webpages. But web analytics data do not show what patrons want to do and what hurdles 
+
+they face when using the library website via a mobile device. Web analytics also lacks nuance in 
+
+that it cannot distinguish user characteristics, such as whether users are novice or advanced 
+
+researchers, which may affect how these users interact with a mobile device. User surveys are 
+
+another tool for gathering data on mobile behaviors. User surveys help overcome some of the 
+
+limitations of web analytics data by directly asking users about their perceived research skills and 
+
+the resources they use on a mobile device. 
+
+As is the case at most libraries, Oregon State University Libraries serves a diverse range of users. 
+We were interested in learning whether advanced researchers—particularly advanced 
+researchers who work at a branch campus—use the library’s resources differently than main 
+
+ 
+
+Mary J. Markland (mary.markland@oregonstate.edu), is Head, Guin Library; Hannah Gascho 
+Rempel (hannah.rempel@oregonstate.edu) is Science Librarian and Coordinator of Graduate 
+Student Success Services; and Laurie Bridges (laurie.bridges@oregonstate.edu) is Instruction 
+and Outreach Librarian, Oregon State University Libraries and Press.  
+
+mailto:mary.markland@oregonstate.edu
+mailto:hannah.rempel@oregonstate.edu
+mailto:laurie.bridges@oregonstate.edu
+
+
+ 
+
+MOBILE WEBSITE USE AND ADVANCED RESEARCHERS | MARKLAND, REMPEL, AND BRIDGES 
+doi:10.6017/ital.v36i4.9953 
+
+8 
+
+campus users. We were chiefly interested in these advanced researchers because of the mobile 
+
+nature of their work. They are graduate students and faculty in the field of marine science who 
+
+work in a variety of locations, including their offices, labs, and in the field (which can include 
+
+rivers, lakes, and the ocean). We focused on the use of the library website via mobile devices as 
+
+one way to determine whether specific library services should be adapted to best meet the needs 
+
+of this targeted user community. 
+
+Oregon State University (OSU) is Oregon’s land-grant university; its home campus is in Corvallis, 
+
+Oregon. Hatfield Marine Science Center (HMSC) in Newport is a branch campus that includes a 
+
+branch library. Guin Library at HMSC serves OSU students and faculty from across the OSU 
+
+colleges along with the co-located federal and state agencies of the National Oceanic and 
+
+Atmospheric Administration (NOAA), US Fish and Wildlife Service, Environmental Protection 
+
+Agency (EPA), United States Geological Survey (USGS), United States Department of Agriculture 
+
+(USDA), and the Oregon Department of Fish and Wildlife. The Guin Library is in Newport, which is 
+
+forty-five miles from the main campus. Like many other branch libraries, Guin Library was 
+
+established at a time when providing a print collection close to where researchers and students 
+
+work was paramount, but today it must adapt its services to meet the changing information needs 
+
+of its user base.  
+
+Branch libraries are typically designed to serve a clientele or subject area, which can create a 
+
+different institutional culture from the main library. Guin Library serves advanced 
+
+undergraduates, graduate students, and scientific researchers. HMSC’s distance from Corvallis, the 
+
+small size of the researcher community, and the shared focus on a research area—marine 
+
+sciences—create a distinct culture. While Guin Library is often referred to as the “heart of HMSC,” 
+
+the number of in-person library users is decreasing. This decline is not unexpected as numerous 
+
+studies have shown that faculty and graduate students have fewer needs that require an in-person 
+
+trip to the library.1 Studies have also shown that faculty and graduate students can be unaware of 
+
+the services and resources that libraries provide, thereby continuing the cycle of underuse.2  
+
+To learn more about the needs of HMSC’s advanced researchers, this exploratory study examined 
+
+their research behaviors via mobile devices. The goals of this study were to  
+
+• determine if and with what frequency advanced researchers at HMSC use the OSU Libraries 
+
+website via mobile devices;  
+
+• gather a list of tasks advanced users attempt to accomplish when they visit the OSU 
+
+Libraries website on a mobile device; and 
+
+• determine whether the mobile behaviors of these advanced researchers are different from 
+
+those of researchers from the main OSU campus (including undergraduate students), and if 
+
+so, whether these differences warrant alternative modes of design or service delivery.  
+
+  
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 
+
+ 
+
+9 
+
+LITERATURE REVIEW 
+
+The conversation about how best to design mobile library websites has shifted over the past 
+
+decade. Early in the mobile-adoption process some libraries focused on creating special websites 
+
+or apps that worked with mobile devices.3 While libraries globally might still be creating mobile-
+
+specific websites and apps,4 US libraries are trending toward responsively designed websites as a 
+
+more user-friendly option and a simpler solution for most libraries with limited staff and budgets.5 
+
+Most of the literature on mobile-device use in higher education is focused on undergraduates 
+
+across a wide range of majors who are using a standard academic library.6 To help provide context 
+
+for how libraries have designed their websites for mobile users, some of those specific findings 
+
+will be shared later. But because our study focused on graduate students and faculty in a science-
+
+focused branch library, we will begin with a discussion of what is known about more advanced 
+
+researchers’ use of library services and their mobile-device habits.  
+
+Several themes emerged from the literature on graduate students’ relationships with libraries. In 
+
+an ironic twist, faculty think graduate students are being assisted by the library while librarians 
+
+think faculty are providing graduate students with the help they need to be successful.7 This 
+
+results in many graduate students end up using their library’s resources in an entirely 
+
+disintermediated way. Graduate students, especially those in the sciences, visit the physical library 
+
+less often and use online resources more than undergraduate students.8 Most graduate students 
+
+start their research process with assistance from academic staff, such as advisors and committee 
+
+members,9 and are unaware of many library services and resources.10 As frequent virtual-library 
+
+users who receive little guidance on how to use the library’s tools, graduate students need a 
+
+library website that is clear in scope and purpose, offers help, and has targeted services.11  
+
+Compared to reports on undergraduate use of mobile devices to access their library’s website, 
+
+relatively few studies have focused on graduate-student or faculty mobile behaviors. A recent 
+
+survey of Japanese Library and Information Science (LIS) students compared and undergraduate 
+
+graduate students’ usage of mobile devices to access library services and found slight differences. 
+
+However, both groups reported accessing libraries as last on their list of preferred smartphone 
+
+uses.12 Aharony examined the mobile use behaviors of Israeli LIS graduate students and found 
+
+approximately half of these graduate students used smartphones and perceived them to be useful 
+
+and easy tools for use in their everyday life, and could transfer those habits to library searching 
+
+behaviors.13 When looking specifically at how patrons use library services via a mobile device, 
+
+Rempel and Bridges found the top reason graduate students at their main campus used the OSU 
+
+Libraries website via mobile devices was to find information on library hours, followed by finding 
+
+a book and researching a topic.14 Barnett-Ellis and Vann surveyed their small university and found 
+
+that both undergraduate and graduate students were more than twice as likely to use mobile 
+
+devices as are their faculty and staff; a majority of students also indicated they were likely to use 
+
+mobile devices to conduct research.15 Finally, survey results showed graduate students in Hofstra 
+
+University’s College of Education reported accessing library materials via a mobile device twice as 
+
+often as other student groups. In addition, these graduate students reported being comfortable 
+
+
+
+ 
+
+MOBILE WEBSITE USE AND ADVANCED RESEARCHERS | MARKLAND, REMPEL, AND BRIDGES 
+doi:10.6017/ital.v36i4.9953 
+
+10 
+
+reading articles up to five pages long on their mobile devices. Graduate students were also more 
+
+likely to be at home when using their mobile device to access the library, a finding the authors 
+
+attributed to education graduate students frequently being employed as full-time teachers.16  
+
+Research on how faculty members use library resources characterizes a population that is 
+
+confident in their literature-searching skills, prefers to search on their own, and has little direct 
+
+contact with the library.17 Faculty researchers highly value convenience;18 they rely primarily on 
+
+electronic access to journal articles but prefer print access to monographs.19 Faculty tend to be 
+
+self-trained at using search tools, such as PubMed or other online databases, and therefore are not 
+
+always aware of the more in-depth functionality of these tools.20  
+
+In contrast to graduate students, Rempel and Bridges found that faculty using the library website 
+
+via mobile devices were less interested in information about the physical library, such as library 
+
+hours, and were more likely to be researching a topic.21 Medical faculty are one of the few faculty 
+
+groups whose mobile-research behaviors have been specifically examined. A survey administered 
+
+by Bushhousen et al. at a medical university revealed that a third of respondents used mobile apps 
+
+for research-related activities.22 Findings by Boruff and Storie indicate that one of the biggest 
+
+barriers to mobile use in health-related academic settings was wireless access.23 Thus apps that 
+
+did not require the user to be connected to the internet were highly desired. Faculty and graduate 
+
+students in health-related academic settings saw a role for the library in advocating for better 
+
+wireless infrastructure, providing access to a targeted set of heavily used resources, and providing 
+
+online guides or in-person tutorials on mobile apps or procedures specific to their institution.24 
+
+According to the literature, most design decisions for library mobile sites have been made on the 
+
+basis of information collected about undergraduate students’ behavior at main-branch campuses. 
+
+To help inform our understanding of how recent decisions have been made, the remainder of the 
+
+literature review focuses on what is known about undergraduate students’ mobile behavior. 
+
+Undergraduate students are very comfortable using mobile technologies and perceive themselves 
+
+to be skilled with these devices. According to the 2015 EDUCAUSE Center for Research and 
+
+Analysis’ (ECAR) study of undergraduate students and information technology, most 
+
+undergraduate students consider themselves sophisticated technology users who are engaged 
+
+with information technologies.25 Undergraduate students mainly use their smartphones for non-
+
+class activities. But students indicate they could be more effective technology users if they were 
+
+more skilled at tools such as the learning management system, online collaboration tools, e-books, 
+
+or laptops and smartphones in class. Of interest to libraries is the ECAR participants’ top area of 
+
+reported interest, “search tools to find reference or other information online for class work.”26  
+
+However, when a mobile library site is in place, usage rates have been found to be lower than 
+
+anticipated. In a study of undergraduate science students, Salisbury et al. found only 2 percent of 
+
+respondents reported using their cell phones to access library databases or the library’s catalog 
+
+every hour or daily, despite 66 percent of the students browsing the internet using their mobile 
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 
+
+ 
+
+11 
+
+phone hourly or daily. Salisbury et al. speculated that users need to be told about mobile-
+
+optimized library resources if libraries want to increase usage. 27 
+
+Rempel and Bridges used a pop-up interrupt survey while users were accessing the OSU Libraries 
+
+mobile site.28 This approach allowed a larger cross-section of library users to be surveyed. It also 
+
+reduced memory errors by capturing their activities in real time. Activities that had been included 
+
+in the mobile site because of their perceived usefulness in a mobile environment, such as 
+
+directions, asking a librarian a question, and the coffee shop webcam, were rarely cited as a reason 
+
+for visiting the mobile site.  
+
+The OSU Libraries branch at HMSC is entering a new era. A Marine Studies Initiative will result in 
+
+the building of a new multidisciplinary research campus at HMSC that aims to serve five hundred 
+
+undergraduate students. The change in demographics and the increase in students who will need 
+
+to be served has prompted Guin Library staff to explore how the current population of advanced 
+
+researchers interact with library resources. In addition, examining the ways undergraduate 
+
+students at the main campus use these tools will help with planning for the upcoming changes in 
+
+the user community. 
+
+METHODS 
+
+This study used an online Qualtrics survey to gather information about how frequently advanced 
+
+researchers (graduate students, faculty, and affiliated scientists at a branch library for marine 
+
+science) use the OSU Libraries website via mobile devices, what they search for, and other ways 
+
+they use mobile devices to support their research behaviors.  
+
+A recruitment email with a link to the survey was sent to three discussion lists used by HMSC 
+
+community in Spring 2016. The survey was available for four weeks, and a reminder email was 
+
+sent one week before the survey closed. The invitation email included a link to an informed-
+
+consent document. Once the consent document had been reviewed, users were taken to the survey 
+
+via a second link. Respondents could provide an email address to receive a three-dollar coffee card 
+
+for participating in the study, but their email address was recorded in a separate survey location 
+
+to preserve their anonymity. The invitation email indicated that this survey was about using the 
+
+website via a mobile device, and the first survey question asked users if they had ever accessed the 
+
+library website on a mobile device. If they answered “no,” they were immediately taken to the end 
+
+of the survey and were not recorded as a participant in the study.  
+
+A similar survey was conducted with users from OSU’s main campus in 2012–13 and again in 
+
+2015. The results from 2012–13 have been published previously,29 but the results from 2015 have 
+
+not. While the focus of the present study is on the mobile behaviors of advanced researchers in the 
+
+HMSC community, data from the 2015 main-campus study is used to provide a comparison to the 
+
+broader OSU community. OSU main-campus respondents in 2015 and HMSC participants in 2016 
+
+both answered closed- and open-ended questions that explored participants’ general mobile-
+
+device behaviors and behaviors specific to using the OSU Libraries website via mobile devices. 
+
+
+
+ 
+
+MOBILE WEBSITE USE AND ADVANCED RESEARCHERS | MARKLAND, REMPEL, AND BRIDGES 
+doi:10.6017/ital.v36i4.9953 
+
+12 
+
+However, the HMSC survey also asked questions about behaviors related to using the OSU 
+
+(nonlibrary) website via a mobile device and participants’ mobile scholarly reading and writing 
+
+behaviors. The survey concluded with several demographic questions. The survey data was 
+
+analyzed using Qualtrics’ cross-tab functionality and Microsoft Excel to observe trends and 
+
+potential differences between user groups. Open-ended responses were examined for common 
+
+themes.  
+
+Twenty-three members of the HMSC community completed the survey, whereas one hundred 
+
+participants responded to the 2015 main campus survey. Participation in the 2015 survey was 
+
+capped at one hundred respondents because limited incentives were available. The participation 
+
+difference between the two surveys reflects several differences between the two sampled 
+
+communities. The most obvious difference is size. The OSU community comprises more than 
+
+thirty-six thousand students, faculty, and staff; the HMSC community is approximately five 
+
+hundred students, researchers, and faculty—some of whom are also included as part of the larger 
+
+OSU community. The second factor influencing response rates relates to the difference in size 
+
+between the two communities, but is more striking in the HMSC community: the survey relied on a 
+
+self-selected group of users who indicated they had a history using the library website via a 
+
+mobile device. Therefore, it is not possible to estimate the population size of mobile-device 
+
+library-website users specific to the branch library or the main campus library. This limitation 
+
+means that the results from this study cannot be used to generalize findings to all users who visit a 
+
+library website via mobile devices; instead the results are intended to present a case that other 
+
+libraries may compare with behaviors observed on their own campuses. Sharing the behaviors of 
+
+advanced researchers at a branch campus is particularly valuable as this population has 
+
+historically been understudied. 
+
+RESULTS AND DISCUSSION 
+
+Participant Demographics and Devices Used 
+
+Of the twenty-three respondents to the HMSC mobile behaviors survey, 13 (62 percent) were 
+
+graduate students, 7 (34 percent) were faculty (this category includes faculty researchers and 
+
+courtesy faculty), and one respondent was an NOAA employee. Two participants declined to 
+
+declare their affiliation. Of the 97 respondents to the 2015 OSU main-campus survey who shared 
+
+their affiliation, 16 (16 percent) were graduate students, 5 (5 percent) were faculty members, and 
+
+69 (71 percent) were undergraduates. 
+
+Respondents varied in the types of mobile devices they used when doing library research. 
+
+Smartphones were used by 78 percent (18 respondents) and 22 percent (5 respondents) used a 
+
+tablet. Apple (15 respondents) was the most common device brand used, although six of the 
+
+respondents used an Android phone or tablet. Compared to the general population’s device 
+
+ownership, these respondents are more likely to own Apple devices, but the two major device 
+
+types owned (Apple and Android) match market trends.30  
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 
+
+ 
+
+13 
+
+Frequency of Library Site Use on Mobile Devices 
+
+Most of the HMSC respondents are infrequent users of the library website via mobile devices: 50 
+
+percent (11 respondents) did so less than once a month; 41 percent (9 respondents) did so at least 
+
+once a month; and 9 percent (2 respondents) did so at least once a week. The low level of library 
+
+website usage via mobile devices was especially notable as this population reports being heavy 
+
+users of the library website via laptops or desktop computers, with 82 percent (18 respondents) 
+
+visiting the library website via those tools at least once a week.  
+
+Researchers at HMSC used the library website via mobile devices much less often than the 2015 
+
+main-campus respondents (undergraduates, graduate students, and faculty). No HMSC 
+
+respondents visited the mobile site daily compared to 10 percent of main-campus users, and only 
+
+9 percent of HMSC respondents visited weekly compared to 28 percent of main-campus users (see 
+
+Figure 1). 
+
+ 
+
+Figure 1. 2016 HMSC participants vs. 2015 OSU main-campus participants reported frequency of 
+
+library website visits via a mobile device by percent of responses. 
+
+While HMSC advanced researchers share some mobile behaviors with main-campus students, this 
+
+exploratory study demonstrates they do not use the library website via mobile devices as 
+
+frequently. Some possible reasons for this are researchers rarely spend time coming and going to 
+
+and from classes and therefore do not have small gaps of time to fill throughout their day. Instead, 
+
+their daily schedule involves being in the field or in the lab collecting and analyzing data. 
+
+0% 10% 20% 30% 40% 50% 60%
+
+This is my first time
+
+Less often than once a month
+
+At least once a month
+
+At least once a week
+
+Every day or almost every day
+
+Branch 2016 Main 2015
+
+
+
+ 
+
+MOBILE WEBSITE USE AND ADVANCED RESEARCHERS | MARKLAND, REMPEL, AND BRIDGES 
+doi:10.6017/ital.v36i4.9953 
+
+14 
+
+Alternatively, they are frequently involved in writing-intensive projects such as drafting journal 
+
+articles or grant proposals. They carve out specific periods to do research and do not appear to be 
+
+filling time with short bursts of literature searching. They can work on laptops and do not need to 
+
+multitask on a phone or tablet between classes or in other situations. Mobile-device ownership 
+
+among HMSC graduate students might also be limited because of personal budgets that do not 
+
+allow for owning multiple mobile devices or for having the most recent model. In addition, this 
+
+group of scientists may not be on the front edge of personal technologies, especially compared to 
+
+medical researchers, because few mobile apps are designed specifically for the research needs of 
+
+marine scientists.  
+
+Where Researchers Are When Using Mobile Devices for Library Tasks 
+
+Because mobile devices facilitate connecting to resources from many locations, and because 
+
+advanced researchers conduct research in a range of settings—including the field, the office, and 
+
+home—we asked respondents where they were most likely to use the library website via a mobile 
+
+device. Thirty-two percent were most likely to be at home, 27 percent in transit; 18 percent at 
+
+work; and 9 percent in the field. The popularity of using the library website via mobile devices 
+
+while in transit was somewhat unexpected, but perhaps should not have been because many 
+
+people try to maximize their travel time by multitasking on mobile devices. The distance from the 
+
+main campus might explain this finding because a local bus service provides an easy way to travel 
+
+to and from the main campus, and the hour-long trip would provide opportunities for multitasking 
+
+via a mobile device. 
+
+Relatively few respondents used mobile devices to access the library website while at work. 
+
+Previous studies show that a lack of reliable campus wireless internet access can affect students’ 
+
+ability to use mobile technology.31 HMSC also struggles to provide consistent wireless access, and 
+
+signals are spotty in many areas of our campus. Despite signal boosters in Guin Library, wireless 
+
+access is still limited at times. In addition, cell phone service is equally spotty both at HMSC and up 
+
+and down the coast of Oregon. It is much less frustrating to work on a device that has a wired 
+
+connection to the internet while at HMSC. These respondents did use mobile devices while at 
+
+home, which might indicate they had a better wireless signal there. Alternatively, working from 
+
+home on a mobile device might indicate that they compartmentalize their library-research time as 
+
+an activity to do at home instead of in the office.  
+
+Researchers used their mobile devices to access the library while in the field less than originally 
+
+expected, but upon further reflection, it made sense that researchers would be less likely to use 
+
+library resources during periods of data collection for oceanic or other water-based research 
+
+projects because of their focused involvement during that stage. The water-based research also 
+
+increases the risk of losing mobile devices. 
+
+Library Resources Accessed via Mobile Devices 
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 
+
+ 
+
+15 
+
+To learn more about how these respondents used the library website, we asked them to choose 
+
+what they were searching for from a list of options. Respondents could choose as many options as 
+
+applied to their searching behaviors. HMSC respondents’ primary reason for visiting the library’s 
+
+site via a mobile device was to find a specific source: 68 percent looked for an article, 45 percent 
+
+for a journal, 36 percent for a book, and 14 percent for a thesis. Many of the HMSC respondents 
+
+also looked for procedural or library-specific information: 36 percent looked for hours, 32 percent 
+
+for My Account information, 18 percent for interlibrary loan, 14 percent for contact information, 9 
+
+percent for how to borrow and request books, 9 percent for workshop information, and 9 percent 
+
+for Oregon estuaries bibliographies—a unique resource provided by the HMSC library. Fifty-five 
+
+percent of searches were for a specific source and 43 percent were for procedural or library-
+
+specific information. Notably missing from this list were respondents who reported searching via 
+
+their mobile device for directions to the library.  
+
+Compared to the 2015 OSU Libraries main-campus survey respondents, HMSC respondents were 
+
+much more likely to visit the library website via a mobile device to look for an article (68 percent 
+
+vs. 37 percent), find a journal (45 percent vs. 23 percent), access My Account information (32 
+
+percent vs. 7 percent), use interlibrary loan (18 percent vs. 5 percent), or find contact information 
+
+(14 percent vs. 1 percent). However, unlike HMSC participants, who do not have access to course 
+
+reserves at the branch library, 7 percent of OSU main-campus respondents used their mobile 
+
+devices to find course reserves on the library website. See Figure 2. 
+
+ 
+
+0% 10% 20% 30% 40% 50% 60% 70%
+
+Directions
+
+Contact information
+
+Interlibrary loan
+
+Course reserves
+
+My account
+
+A journal
+
+A book
+
+Library hours
+
+An article
+
+Branch 2016 Main 2015
+
+
+
+ 
+
+MOBILE WEBSITE USE AND ADVANCED RESEARCHERS | MARKLAND, REMPEL, AND BRIDGES 
+doi:10.6017/ital.v36i4.9953 
+
+16 
+
+Figure 2. 2016 HMSC vs. 2015 OSU main-campus participants reported searches while visiting the 
+
+library website via a mobile device by percent of responses. 
+
+It is possible that HMSC users with different affiliations might use the library site via a mobile 
+
+device differently. These exploratory findings show that graduate students used the greatest 
+
+variety of content via mobile devices. Graduate students as a group reported using 11 of the 14 
+
+provided content choices via a mobile device while faculty reported using 8 of the 14. Graduate 
+
+students were the largest group (62 percent of respondents), which might explain why as a group 
+
+they searched for more types of content via mobile devices. Interestingly, faculty members and 
+
+faculty researchers reported looking for a thesis via a mobile device, but no graduate students did. 
+
+Perhaps these graduate students had not yet learned about the usefulness of referencing past 
+
+theses as a starting point for their own thesis writing. Or perhaps they were only familiar with 
+
+searching for journal articles on a topic. In contrast, faculty members might have been searching 
+
+for specific theses for which they had provided advising or mentoring support. 
+
+To help us make decisions about how to best direct users to library content via mobile devices, we 
+
+asked respondents to indicate their searching behaviors and preferences. Of the 16 HMSC 
+
+respondents who answered this question, 12 (75 percent) used our web-scale discovery search 
+
+box via mobile devices; 4 (25 percent) reported that they did. Presumably these latter searchers 
+
+were navigating to another database to find their sources. Of 16 respondents, only 6 (38 percent) 
+
+indicated that they looked for a specific library database (as opposed to the discovery tool) when 
+
+using a mobile device. Those respondents who were looking for a database tended to be looking 
+
+for the Web of Science database, which makes sense for their field of study. When conducting 
+
+searches for sources on their mobile devices, HMSC respondents employed a variety of search 
+
+strategies: the 12 respondents who replied used a combination of author (75 percent), journal 
+
+title (67 percent, keyword (67 percent), and book title (50 percent) searches when starting at the 
+
+mobile version of the discovery tool. 
+
+When asked about their preferred way to find sources, a majority of HMSC respondents reported 
+
+that they tended to prefer a combination of searching and menu navigation while using the library 
+
+website from mobile devices, while the remainder were evenly divided between preferring menu-
+
+driven and search-driven discovery. While OSU Libraries does not currently provide links to any 
+
+specific apps for source discovery, such as PubMed Mobile or JSTOR Browser, 13 (62 percent) of 
+
+the HMSC respondents indicated they would be somewhat or very likely to use an app to access 
+
+and use library services. This finding connects to the issue of reliable wireless access. Medical 
+
+graduate students had a wider array of apps available to them, but the primary reason they 
+
+wanted to use these apps was because they provided a better searching experience in hospitals 
+
+that had intermittent wireless access—an experience to which researchers at HMSC could relate.32 
+
+University Website Use Behaviors on Mobile Devices 
+
+To help situate respondents’ library use behaviors on mobile devices in comparison to the way 
+
+they use other academic resources on mobile devices, we asked HMSC respondents to describe 
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 
+
+ 
+
+17 
+
+their visits to resources on the OSU (nonlibrary) website via mobile devices. Compared to their 
+
+use of the library site on a mobile device, respondents’ use of university services was higher: 43 
+
+percent (9 respondents) visited the university’s website via a mobile device at least once a week 
+
+compared to only 9 percent (2 respondents) who visited the library site with that frequency. This 
+
+makes sense because of the integral function many of these university services play in most 
+
+university employees’ regular workflow. Respondents indicated visiting key university sites 
+
+including MyOSU (a portal webpage, visited by 60 percent of respondents), the HMSC webpage 
+
+(55 percent), Canvas (the university’s learning management system, visited by 50 percent of 
+
+respondents), and webmail (45 percent). See Figure 3. 
+
+ 
+
+Figure 3. University webpages HMSC respondents access on a mobile device by percent of 
+
+responses. 
+
+University resources such as campus maps, parking locations, and the graduate school website 
+
+were frequently used by this population. The use of the first two makes sense as HMSC users are 
+
+located off-site and need to use maps and parking guidance when they visit the main campus. The 
+
+use of the graduate school website makes sense because the respondents were primarily graduate 
+
+students and graduate school guidelines are a necessary source of information. Interestingly, our 
+
+advanced users are similar to undergraduates in that they primarily read email, information from 
+
+social networking sites, and news on their mobile devices.33 
+
+Other Research Behaviors on Mobile Devices 
+
+
+
+ 
+
+MOBILE WEBSITE USE AND ADVANCED RESEARCHERS | MARKLAND, REMPEL, AND BRIDGES 
+doi:10.6017/ital.v36i4.9953 
+
+18 
+
+We wanted to know what other research-related behaviors the HMSC respondents are engaged in 
+
+via mobile devices to determine if there might be additional ways to support researchers’ 
+
+workflows. We specifically asked about respondents’ reading, writing, and note-taking behaviors 
+
+to learn how well these respondents have integrated them with their mobile usage behaviors. All 
+
+respondents reported reading on their mobile device (see Figure 4). Email represented the most 
+
+common reading activity (95 percent), followed by “quick reading” activities, such as reading 
+
+social networking posts (81 percent), current news (81 percent), and blog posts (62 percent). 
+
+Smaller numbers used their mobile devices for academic or long-form reading, such as reading 
+
+scholarly articles (33 percent) or books (19 percent). Of those respondents who read articles and 
+
+books on their mobile devices, only respondents highlighted or took notes using their mobile 
+
+device. Seven respondents used a citation manager on their mobile device: three used EndNote, 
+
+one used Mendeley, one used Pages, and one used Zotero. One respondent used Evernote on their 
+
+mobile device, and one advanced user reported using specific data and database management 
+
+software, websites, and apps related to their projects. More advanced and interactive mobile-
+
+reading features, such as online spatial landmarks, might be needed before reading scholarly 
+
+articles on mobile devices becomes more common.34 
+
+ 
+
+Figure 4. What HMSC respondents reported reading on a mobile device by percent of responses. 
+
+LIMITATIONS 
+
+This exploratory study had several limitations, most of which reflect the nature of doing research 
+
+with a small population at a branch campus. This study had a small sample size, which limited 
+
+observations of this population; however, future studies could use research techniques such as 
+
+interviews or ethnographic studies to gather deep qualitative information about mobile-use 
+
+19%
+
+33%
+
+62%
+
+81%
+
+81%
+
+95%
+
+0% 20% 40% 60% 80% 100% 120%
+
+Books
+
+Academic or scholarly articles
+
+Blog posts
+
+Current news
+
+Social networking posts (Facebook, Twitter, etc.)
+
+Email
+
+Percent of Responses
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 
+
+ 
+
+19 
+
+behaviors in this population. A second limitation was that previous studies of the OSU Libraries 
+
+mobile website used Google Analytics to compare survey results with what users were actually 
+
+doing on the library website. Unfortunately, this was not possible for this study. Because of how 
+
+HMSC’s network was set up, anyone at HMSC using the OSU internet connections is assigned an IP 
+
+address that shows a Corvallis, Oregon, location rather than a Newport, Oregon, location, which 
+
+rendered parsing HMSC-specific users in Google Analytics impossible. The research behaviors of 
+
+advanced researchers at a branch campus has not been well-examined; despite its limitations, this 
+
+study provides beneficial insights into the behaviors of this user population. 
+
+CONCLUSION 
+
+Focusing on how advanced researchers at a branch campus use mobile devices while accessing 
+
+library and other campus information provides a snapshot of key trends among this user group. 
+
+These exploratory findings show that these advanced researchers are infrequent users of library 
+
+resources via mobile devices and, contrary to our initial expectations, are not using mobile devices 
+
+as a research resource while conducting field-based research. Findings showed that while these 
+
+advanced researchers do periodically use the library website via mobile devices, mobile devices 
+
+are not the primary mode of searching for articles and books or for reading scholarly sources. 
+
+Mobile devices are most frequently used for viewing the library website when these advanced 
+
+researchers are at home or in transit.  
+
+The results of this survey will be used to address the HMSC knowledge gaps around use of library 
+
+resources and research tools via mobile devices. Both graduate students and faculty lack 
+
+awareness of library resources and services and have unsophisticated library research skills.35  
+
+While the OSU main campus has library workshops for graduate students and faculty, these 
+
+workshops have been inconsistently duplicated at the Guin Library. Because the people working at 
+
+HMSC come from such a wide variety of departments across OSU that focus on marine sciences, 
+
+HMSC has never had a library orientation. The results indicate possible value in devising ways to 
+
+promote Guin Library’s resources and services locally, which could include highlighting the 
+
+availability of mobile library access. While several participants mentioned using research tools 
+
+like Evernote, Pages, or Zotero on their mobile devices, most participants did not report enhancing 
+
+their mobile research experience with these mobile-friendly tools. Workshops specifically 
+
+modeling how to use mobile-friendly tools and apps such as Dropbox, Evernote, GoodReader, or 
+
+Browzine could help introduce the benefits of these tools to these advanced researchers.  
+
+Because wireless access is even more of a concern for researchers at this branch location than for 
+
+researchers at the main campus, database-specific apps will be explored to determine if the use of 
+
+searching apps could help alleviate inconsistent wireless access. If database apps that are 
+
+appropriate for marine science researchers are available, these will be promoted to this user 
+
+population. 
+
+Future research might involve follow-up interviews or focus groups, ethnographic studies, or 
+
+interviews, which could expand the knowledge of these researchers’ mobile-device behaviors and 
+
+
+
+ 
+
+MOBILE WEBSITE USE AND ADVANCED RESEARCHERS | MARKLAND, REMPEL, AND BRIDGES 
+doi:10.6017/ital.v36i4.9953 
+
+20 
+
+their perceptions of mobile devices. Exploring the technology usage by these advanced 
+
+researchers in their labs, including electronic lab notebooks or other tools, might be an interesting 
+
+contrast to their use of mobile devices. In addition, as the HMSC campus grows with the expansion 
+
+of the Marine Studies Initiative, increasing numbers of undergraduates will use Guin Library. The 
+
+ECAR 2015 statistics show that current undergraduates own multiple internet-capable devices.36 
+
+Presumably, these HMSC undergraduates will be likely to follow the trends seen in the ECAR data. 
+
+Certainly, the plans to expand HMSC’s internet and wireless infrastructure will affect all its users.  
+
+Our mobile survey gave us insights into how a sample of the HMSC population uses the library’s 
+
+resources and services. These observations will allow Guin Library to expand its services for the 
+
+HMSC campus. We encourage other librarians to explore their unique user populations when 
+
+evaluating services and resources. 
+
+REFERENCES 
+ 
+
+1 Maria Anna Jankowska, “Identifying University Professors’ Information Needs in the Challenging 
+
+Environment of Information and Communication Technologies,” Journal of Academic Librarianship 
+
+30, no. 1 (2004): 51–66, https://doi.org/10.1016/j.jal.2003.11.007; Pali U. Kuruppu and Anne 
+
+Marie Gruber, “Understanding the Information Needs of Academic Scholars in Agricultural and 
+
+Biological Sciences,” Journal of Academic Librarianship 32, no. 6 (2006): 609–23; Lotta Haglund 
+
+and Per Olsson, “The Impact on University Libraries of Changes in Information Behavior among 
+
+Academic Researchers: A Multiple Case Study,” Journal of Academic Librarianship 34, no. 1 (2008): 
+
+52–59, https://doi.org/10.1016/j.acalib.2007.11.010; Nirmala Gunapala, “Meeting the Needs of 
+
+the ‘Invisible University’: Identifying Information Needs of Postdoctoral Scholars in the Sciences,” 
+
+Issues in Science and Technology Librarianship, no. 77 (Summer 2014), 
+
+https://doi.org/10.5062/F4B8563P. 
+
+2 Tina Chrzastowski and Lura Joseph, “Surveying Graduate and Professional Students’ 
+
+Perspectives on Library Services, Facilities and Collections at the University of Illinois at Urbana-
+
+Champaign: Does Subject Discipline Continue to Influence Library Use?,” Issues in Science and 
+
+Technology Librarianship no. 45 (Winter 2006), https://doi.org/10.5062/F4DZ068J; Kuruppu and 
+
+Gruber, “Understanding the Information Needs of Academic Scholars in Agricultural and Biological 
+
+Sciences”; Haglund and Olsson, “The Impact on University Libraries of Changes in Information 
+
+Behavior Among Academic Researchers.” 
+
+3 Ellyssa Kroski, “On the Move with the Mobile Web: Libraries and Mobile Technologies,” Library 
+
+Technology Reports 44, no. 5 (2008): 1–48, https://doi.org/10.5860/ltr.44n5. 
+
+4 Paula Torres-Pérez, Eva Méndez-Rodríguez, and Enrique Orduna-Malea, “Mobile Web Adoption 
+
+in Top Ranked University Libraries: A Preliminary Study,” Journal of Academic Librarianship 42, 
+
+no. 4 (2016): 329–39, https://doi.org/10.1016/j.acalib.2016.05.011. 
+
+5 David J. Comeaux, “Web Design Trends in Academic Libraries—A Longitudinal Study,” Journal of 
+
+Web Librarianship 11, no. 1 (2017), 1–15, https://doi.org/10.1080/19322909.2016.1230031; 
+
+https://doi.org/10.1016/j.jal.2003.11.007
+https://doi.org/10.1016/j.acalib.2007.11.010
+https://doi.org/10.5062/F4B8563P
+https://doi.org/10.5062/F4DZ068J
+https://doi.org/10.5860/ltr.44n5
+https://doi.org/10.1016/j.acalib.2016.05.011
+https://doi.org/10.1080/19322909.2016.1230031
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 
+
+ 
+
+21 
+
+ 
+
+Zebulin Evelhoch, “Mobile Web Site Ease of Use: An Analysis of Orbis Cascade Alliance Member 
+
+Web Sites,” Journal of Web Librarianship 10, no. 2 (2016): 101–23, 
+
+https://doi.org/10.1080/19322909.2016.1167649. 
+
+6 Barbara Blummer and Jeffrey M. Kenton, “Academic Libraries’ Mobile Initiatives and Research 
+
+from 2010 to the Present: Identifying Themes in the Literature,” in Handbook of Research on 
+
+Mobile Devices and Applications in Higher Education Settings, ed. Laura Briz-Ponce, Juan Juanes-
+
+Méndez, and José Francisco García-Peñalvo (Hershey, PA: IGI Global, 2016), 118–39. 
+
+7 Jankowska, “Identifying University Professors’ Information Needs in the Challenging 
+
+Environment of Information and Communication Technologies.” 
+
+8 Chrzastowski and Joseph, “Surveying Graduate and Professional Students’ Perspectives on 
+
+Library Services, Facilities and Collections at the University of Illinois at Urbana-Champaign.” 
+
+9 Carole A. George et al., “Scholarly Use of Information: Graduate Students’ Information Seeking 
+
+Behaviour,” Information Research 11, no. 4 (2006), http://www.informationr.net/ir/11-
+
+4/paper272.html. 
+
+10 Kristin Hoffman et al., “Library Research Skills: A Needs Assessment for Graduate Student 
+
+Workshops,” Issues in Science and Technology Librarianship 53 (Winter-Spring 2008), 
+
+https://doi.org/10.5062/F48P5XFC; Hannah Gascho Rempel and Jeanne Davidson, “Providing 
+
+Information Literacy Instruction to Graduate Students through Literature Review Workshops,” 
+
+Issues in Science and Technology Librarianship 53 (Winter-Spring 2008), 
+
+https://doi.org/10.5062/F44X55RG. 
+
+11 Jankowska, “Identifying University Professors’ Information Needs in the Challenging 
+
+Environment of Information and Communication Technologies.” 
+
+12 Ka Po Lau et al., “Educational Usage of Mobile Devices: Differences Between Postgraduate and 
+
+Undergraduate Students,” Journal of Academic Librarianship 43, no. 3 (May 2017), 201–8, 
+
+https://doi.org/10.1016/j.acalib.2017.03.004. 
+
+13 Noa Aharony, “Mobile Libraries: Librarians’ and Students’ Perspectives,” College & Research 
+
+Libraries 75, no. 2 (2014): 202–17, https://doi.org/10.5860/crl12-415. 
+
+14 Hannah Gashco Rempel and Laurie M. Bridges, “That Was Then, This Is Now: Replacing the 
+
+Mobile-Optimized Site with Responsive Design,” Information Technology and Libraries 32, no. 4 
+
+(2013): 8–24, https://doi.org/10.6017/ital.v32i4.4636. 
+
+15 Paula Barnett-Ellis and Charlcie Pettway Vann, “The Library Right There in My Hand: 
+
+Determining User Needs for Mobile Services at a Medium-Sized Regional University,” Southeastern 
+
+Librarian 62, no. 2 (2014): 10–15. 
+
+https://doi.org/10.1080/19322909.2016.1167649
+http://www.informationr.net/ir/11-4/paper272.html
+http://www.informationr.net/ir/11-4/paper272.html
+https://doi.org/10.5062/F48P5XFC
+https://doi.org/10.5062/F44X55RG
+https://doi.org/10.1016/j.acalib.2017.03.004
+https://doi.org/10.5860/crl12-415
+https://doi.org/10.6017/ital.v32i4.4636
+
+
+ 
+
+MOBILE WEBSITE USE AND ADVANCED RESEARCHERS | MARKLAND, REMPEL, AND BRIDGES 
+doi:10.6017/ital.v36i4.9953 
+
+22 
+
+ 
+16 William T. Caniano and Amy Catalano, “Academic Libraries and Mobile Devices: User and 
+
+Reader Preferences,” Reference Librarian 55, no. 4 (2014), 298–317, 
+
+https://doi.org/10.1080/02763877.2014.929910. 
+
+17 Haglund and Olsson, “The Impact on University Libraries of Changes in Information Behavior 
+
+Among Academic Researchers.” 
+
+18 Kuruppu and Gruber, “Understanding the Information Needs of Academic Scholars in 
+
+Agricultural and Biological Sciences.” 
+
+19 Christine Wolff, Alisa B. Rod, and Roger C. Schonfeld, “Ithaka S+R US Faculty Survey 2015,” 
+
+Ithaka S+R, April 4, 2016, http://www.sr.ithaka.org/publications/ithaka-sr-us-faculty-survey-
+
+2015/. 
+
+20 M. Macedo-Rouet et al., “How Do Scientists Select Articles in the PubMed Database? An 
+
+Empirical Study of Criteria and Strategies,” Revue Européenne de Psychologie Appliquée/European 
+
+Review of Applied Psychology 62, no. 2 (2012): 63–72. 
+
+21 Rempel and Bridges, “That Was Then, This Is Now.” 
+
+22 Ellie Bushhousen et al., “Smartphone Use at a University Health Science Center,” Medical 
+
+Reference Services Quarterly 32, no. 1 (2013): 52–72, 
+
+https://doi.org/10.1080/02763869.2013.749134. 
+
+23 Jill T. Boruff and Dale Storie, “Mobile Devices in Medicine: A Survey of How Medical Students, 
+
+Residents, and Faculty Use Smartphones and Other Mobile Devices to Find Information,” Journal of 
+
+the Medical Library Association 102, no. 1 (2014): 22–30, https://doi.org/10.3163/1536-
+
+5050.102.1.006. 
+
+24 Bushhousen et al., “Smartphone Use at a University Health Science Center”; Boruff and Storie, 
+
+“Mobile Devices in Medicine.” 
+
+25 Eden Dahlstrom et al., “ECAR Study of Students and Information Technology, 2015 ," research 
+
+report, EDUCAUSE Center for Analysis and Research, 2015, 
+
+https://library.educause.edu/~/media/files/library/2015/8/ers1510ss.pdf?la=en. 
+
+26 Ibid., 24. 
+
+27 Lutishoor Salisbury, Jozef Laincz, and Jeremy J. Smith, “Science and Technology Undergraduate 
+
+Students’ Use of the Internet, Cell Phones and Social Networking Sites to Access Library 
+
+Information,” Issues in Science and Technology Librarianship 69 (Spring 2012), 
+
+https://doi.org/10.5062/F4SB43PD. 
+
+28 Rempel and Bridges, “That Was Then, This Is Now.” 
+
+29 Ibid. 
+
+https://doi.org/10.1080/02763877.2014.929910
+http://www.sr.ithaka.org/publications/ithaka-sr-us-faculty-survey-2015/
+http://www.sr.ithaka.org/publications/ithaka-sr-us-faculty-survey-2015/
+https://doi.org/10.1080/02763869.2013.749134
+https://doi.org/10.3163/1536-5050.102.1.006
+https://doi.org/10.3163/1536-5050.102.1.006
+https://library.educause.edu/~/media/files/library/2015/8/ers1510ss.pdf?la=en
+https://doi.org/10.5062/F4SB43PD
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 
+
+ 
+
+23 
+
+ 
+30  “Mobile/Tablet Operating System Market Share,” NetMarketShare, March 2017, 
+
+https://www.netmarketshare.com/operating-system-market-share.aspx?qprid=8&qpcustomd=1. 
+
+31 Boruff and Storie, “Mobile Devices in Medicine”; Patrick Lo et al., “Use of Smartphones by Art 
+
+and Design Students for Accessing Library Services and Learning,” Library Hi Tech 34, no. 2 
+
+(2016): 224–38, https://doi.org/10.1108/LHT-02-2016-0015. 
+
+32 Boruff and Storie, “Mobile Devices in Medicine.” 
+
+33 Dahlstrom et al., “ECAR Study of Students and Information Technology, 2015.” 
+
+34 Caroline Myrberg and Ninna Wiberg, “Screen vs. Paper: What Is the Difference for Reading and 
+
+Learning?” Insights 28, no. 2 (2015): 49–54, https://doi.org/10.1629/uksg.236. 
+
+35 Barnett-Ellis and Vann, “The Library Right There in My Hand”; Haglund and Olsson, “The Impact 
+
+on University Libraries of Changes in Information Behavior Among Academic Researchers”; 
+
+Hoffman et al., “Library Research Skills”; Kuruppu and Gruber, “Understanding the Information 
+
+Needs of Academic Scholars in Agricultural and Biological Sciences”; Lau et al., “Educational Usage 
+
+of Mobile Devices”; Macedo-Rouet et al., “How Do Scientists Select Articles in the PubMed 
+
+Database?” 
+
+36 Dahlstrom et al., “ECAR Study of Students and Information Technology, 2015.” 
+
+https://www.netmarketshare.com/operating-system-market-share.aspx?qprid=8&qpcustomd=1
+https://doi.org/10.1108/LHT-02-2016-0015
+https://doi.org/10.1629/uksg.236
+
+	ABSTRACT
+	INTRODUCTION
+	LITERATURE REVIEW
+	METHODS
+	RESULTS AND DISCUSSION
+	Participant Demographics and Devices Used
+	Frequency of Library Site Use on Mobile Devices
+	Where Researchers Are When Using Mobile Devices for Library Tasks
+	Library Resources Accessed via Mobile Devices
+	University Website Use Behaviors on Mobile Devices
+	Other Research Behaviors on Mobile Devices
+	LIMITATIONS
+	CONCLUSION
+	REFERENCES
+

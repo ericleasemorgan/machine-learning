@@ -1,0 +1,758 @@
+
+Everyone’s Invited: A Website 
+Usability Study Involving  
+Multiple Library Stakeholders 
+
+Elena Azadbakht,  
+John Blair, and  
+
+Lisa Jones 
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 34 
+
+ 
+
+ 
+
+Elena Azadbakht (elena.azadbakht@usm.edu) is Health and Nursing Librarian and Assistant 
+
+Professor, John Blair (john.blair@usm.edu) is Web Services Coordinator, and Lisa Jones 
+
+(lisa.r.jones@usm.edu) is Head of Finance and Information Technology, University of Southern 
+
+Mississippi, Hattiesburg, Mississippi. 
+
+ABSTRACT 
+
+This article describes a usability study of the University of Southern Mississippi Libraries website 
+
+conducted in early 2016. The study involved six participants from each of four key user groups
+
+undergraduate students, graduate students, faculty, and library employeesand consisted of six 
+
+typical library search tasks, such as finding a book and an article on a topic, locating a journal by 
+
+title, and looking up hours of operation. Library employees and graduate students completed the 
+
+relatively simple 
+
+displayed several 
+
+problematic features that affected each user group, including library employees. These results 
+
+increased internal buy-in for usability-related changes to the library website in a later redesign. 
+
+INTRODUCTION 
+
+Within the last decade, usability testing has become a common way for libraries to assess their 
+
+websites. Eager to gain a better understanding of how users experience our website, we 
+
+assembled a two-person team and conducted the first usability study of the University of Southern 
+
+Mississippi Libraries website in February 2016. The Web Advisory Committee—which is tasked 
+
+with developing, maintaining, and enhancing the Libraries’ online presence—wanted to determine 
+
+if the content on the website was organized in a way that made sense to users and facilitated the 
+
+efficient use of the Libraries’ online resources.  
+
+Our usability study involved six participants from each of the following library user groups: 
+
+undergraduate students, graduate students, faculty, and library employees. Student and faculty 
+
+participants represented several academic disciplines and departments. All of the library 
+
+employees involved in the study work in public-facing roles. The Web Advisory Committee and 
+
+Libraries’ administration wanted to know how each of these groups differ in their website use and 
+
+whether they have difficulty with the same architecture or features. Usability testing helped 
+
+illuminate which aspects of the website’s design might be hindering users from accomplishing key 
+
+tasks, thereby identifying where and how improvement needed to be made. We included library 
+
+employees in this study to compare their approach to the website to that of other users in the 
+
+mailto:elena.azadbakht@usm.edu
+mailto:john.blair@usm.edu
+mailto:lisa.r.jones@usm.edu
+
+
+ 
+
+EVERYONE’S INVITED | AZADBAKHT, BLAIR, AND JONES 35 
+https://doi.org/10.6017/ital.v36i4.9959 
+
+hope of increasing internal stakeholders’ buy-in for recommendations resulting from this study. 
+
+This article will discuss the usability study’s design, results, and recommendations as well as the 
+
+implications of the study’s findings for similarly situated academic libraries. We will give special 
+
+consideration to how the behavior of library employees compared to that of other groups.  
+
+LITERATURE REVIEW 
+
+The literature on library -website user experience and usability is extensive. In 2007, Blummer 
+
+conducted a literature review of research related to academic-library websites, including usability 
+
+studies. Her article provides an overview of the goals and outcomes of early library -website 
+
+usability studies.1 More recent articles focus on a portion or aspect of a library’s website such as 
+
+the homepage, federated search or discovery tool, or subject guides. Fagan published an article in 
+
+2010 that reviews user studies of faceted browsing and outlines several best practices for 
+
+designing studies that focus on next-generation catalogs or discovery tools.2 
+
+Other library -website studies have reported on the habits of user groups, with undergraduates 
+
+being the most commonly studied constituent group. Emde, Morris, and Claassen-Wilson observed 
+
+University of Kansas faculty and graduate students’ use of the library website, which had been 
+
+recently redesigned, including a new federated search tool.3 Many of the study’s participants 
+
+gravitated toward the subject-specific resources they were familiar with and either missed or 
+
+avoided using the website’s new features. When asked for their opinions on the federated search 
+
+tool, several participants said that while it was not a tool they saw themselves using, they did see 
+
+how it might be a helpful for undergraduate students who were still new to research. The 
+
+researchers also provided the participants with an article citation and asked them to locate it 
+
+using the using the library’s website or online resources. While half the participants did use the 
+
+website’s “E-Journals” link, others were less successful. Some who had the most difficulty 
+
+“search[ed] for the journal title in a search box that was set up to search database titles.”4 This led 
+
+Emde, Morris, and Claassen-Wilson to observe that “locating journal articles from known citations 
+
+is a difficult concept even for some advanced researchers.” 
+
+Turner’s 2011 article describes the result of a usability study at Syracuse University Library that 
+
+included both students and library staff. Participants were asked to start at the library’s homepage 
+
+and complete five tasks designed to emulate the types of searches a typical library user might 
+
+perform, such as finding a specific book, a multimedia item, an article in the journal Nature, and 
+
+primary sources pertaining to a historic event.5 When asked to find Toni Morrison’s Beloved, most 
+
+staff members used the library’s traditional online catalog whereas students almost always began 
+
+their searches with the federated search tool located on the homepage. Participants of both types 
+
+were less successful at locating a primary source, although this task highlighted key differences in 
+
+each groups’ approach to searching the library website. Since library staff were more familiar than 
+
+students with the library’s collections and online search tools, they relied more on facets and 
+
+limiters to narrow their searches, and some even began their searches by navigating to the 
+
+library’s webpage for special collections. 
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES |DECEMBER 2017 36 
+
+ 
+
+Library staff tended to be more persistent; draw upon their greater knowledge of the library’s 
+
+collections, website, and search tools; and use special syntax in their searchers, like inverting an 
+
+author’s first and last names. “Library staff took more time, on average, to locate materials,” writes 
+
+Turner, because of their “interest in trying alternative strategies.”6 Students, on the other hand, 
+
+usually included more detail than necessary in their search queries (such as adding a word related 
+
+to the format they were searching for after their keywords) and could not always differentiate 
+
+various types of catalog records, for example, the record for a book review and the record for the 
+
+book itself. Turner concludes that the students’ mental models for searching online and their 
+
+experiences with other web-search environments influence their expectations of how library 
+
+search tools work and that library -website design should take these mental models into 
+
+consideration. 
+
+Research on the search behaviors of students versus more experienced researchers or subject 
+
+experts also has implications for library website design. Two recent articles explore the different 
+
+mental models or mindsets students bring to a search. The students in Asher and Duke’s 2012 
+
+study “generally treated all search boxes as the equivalent of a Google search box” and used very 
+
+simple keyword searches.7 This tracked with Holman’s 2010 study, which likewise found that the 
+
+students she observed relied on simple search strategies and did not understand how search 
+
+interfaces and systems are structured.8 
+
+METHODS 
+
+Our research team consisted of the Libraries’ health and nursing librarian and the web services 
+
+coordinator. We worked closely with the head of finance and information technology in designing 
+
+and running the usability study. A two-week period in mid-February 2016 was chosen for 
+
+usability testing to avoid losing potential participants to midterms or spring break.  
+
+We posted a call for participants to two university discussion lists, on the Libraries website, and 
+
+on social media (Facebook and Twitter). We also reached out directly to faculty in academic 
+
+departments we regularly work with and emailed library employees directly . We directed 
+
+nonlibrary participants to a web form on the Libraries website to provide their name, contact 
+
+information, university affiliation/class standing, and availability. The health and nursing librarian 
+
+followed up with and scheduled participants on the basis of their availability. Each student 
+
+participant received a ten-dollar print card and each faculty participant received a ten-dollar 
+
+Starbucks gift card.  
+
+To record the testing sessions, we needed a free or low-cost software option. Since the Libraries 
+
+already had a subscription to Screencast-O-Matic to develop video tutorials, and the tool allows for 
+
+simultaneous screen, audio, and video capture, so we decided to use it to record all testing 
+
+sessions. We also used a spare laptop with an embedded camera and microphone.  
+
+The health and nursing librarian served as both facilitator and note-taker for most usability 
+
+testing sessions. Participants were given six tasks to complete. We encouraged participants to 
+
+
+
+ 
+
+EVERYONE’S INVITED | AZADBAKHT, BLAIR, AND JONES 37 
+https://doi.org/10.6017/ital.v36i4.9959 
+
+narrate as they completed each task. The sessions began with simple, secondary navigational 
+
+questions like the following: 
+
+ How late is our main library open on a typical Monday night?  
+
+ How could you contact a librarian for help? 
+
+ Where would you find more information about services offered by the library? 
+
+Next, we asked the participants to complete tasks designed to assess their ability to search for 
+
+specific library resources and to illuminate any difficulty users might have navigating the website 
+
+in the process. Each of the three tasks focused on a particular library -resource type, including 
+
+books, articles, and journals: 
+
+ Find a book about rabbits. 
+
+ Find an article about rabbits. 
+
+ Check to see if we have a subscription/access to a journal called Nature. 
+
+After the usability testing was complete, we reviewed the recordings and notes and coded them. 
+
+For each task, we calculated time to completion and documented the various paths participants 
+
+took to answer each question, noting any issues they encountered. We also compared the four 
+
+user groups in our analysis. 
+
+Limitations 
+
+Although we controlled for user type (undergraduate, graduate, faculty, or library employee) in 
+
+the recruitment of study participants, we did not screen by academic discipline. Doing so would 
+
+have hindered our team’s ability to include enough graduate students and faculty members in the 
+
+study, as nearly all the volunteers from these two groups were from humanities or social science 
+
+fields. The results might have differed slightly had the study successfully managed to include more 
+
+faculty from the so-called hard sciences and allied health fields.  
+
+Additionally, the order in which we asked participants to attempt the tasks might have affected 
+
+how they approached some of the later tasks. If a participant chose to search for a book using the 
+
+Primo discovery tool, for example, they might be more inclined to use it to complete the next task 
+
+(find an article) rather than navigate to a different online resource or tool. Despite these 
+
+limitations, usability testing has helped improve the website in key ways. We plan to correct for 
+
+these limitations in future studies.  
+
+RESULTS 
+
+Every group included a participant who failed to complete at least one of the six tasks. An 
+
+adequate answer to each of the study’s six tasks can be found within one or two pages/clicks from 
+
+the Libraries homepage (Figure 1). The average distance to a solution remained at about two page 
+
+loads across all of the study’s participants, despite a few individual “website safaris.” 
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES |DECEMBER 2017 38 
+
+ 
+
+ 
+
+Figure 1. University of Southern Mississippi Libraries’ homepage. 
+
+Graduate students tended to complete tasks the quickest and were generally as successful as 
+
+library employees. They preferred to use Primo for finding books but tended to favor the list of 
+
+scholarly databases on the “Articles & Databases” page to find articles and journals. 
+
+Undergraduates were the second fastest group, but many struggled to complete one or more of the 
+
+six tasks. They had the most trouble finding books and locating the journal by title. 
+
+Undergraduates generally performed simple searches and had trouble recovering from missteps. 
+
+They were heavy users of Primo, relying on the discovery tool more than any other group. 
+
+The other two user groups, faculty and library employees, were slower at completing tasks. Of the 
+
+two, faculty took the longest to complete any task and failed to complete tasks at a similar rate as 
+
+undergraduates. Likewise, this group favored Primo nearly as often. In contrast, library employees 
+
+took almost as long as faculty to complete tasks but were much more successful. As a group, 
+
+library employees demonstrated the different paths users could take to complete each task but 
+
+favored those paths they identified as the “preferred” method for finding an item or resource over 
+
+the fastest route.  
+
+
+
+ 
+
+EVERYONE’S INVITED | AZADBAKHT, BLAIR, AND JONES 39 
+https://doi.org/10.6017/ital.v36i4.9959 
+
+The majority of study participants across all user groups had little trouble with the first three 
+
+tasks. Although most participants favored the less direct path to the Libraries’ hours—missing the 
+
+direct link at the top of the homepage (Figure 2)—they spent relatively little time on this task. 
+
+Likewise, virtually all participants took note of the links to our “Ask-A-Librarian” and “Services” 
+
+pages located in our homepage’s main navigation menu. This portion of the usability study alerted 
+
+us to the need for a more prominent display of our opening hours on the homepage. 
+
+ 
+
+Figure 2. Link to “Hours” from the homepage. 
+
+Of the second set of tasks—find a book, find an article, and determine if we have access to 
+
+Nature—the first and last proved the most challenging for participants. One undergraduate was 
+
+unable to complete the book task, and one faculty member took nearly eight minutes to do so—the 
+
+longest time to completion of any task by any user in the study. Primo was the most preferred 
+
+method for finding a book. Although an option for searching our Classic Catalog (which uses 
+
+Innovative Interfaces’ Millennium integrated library system) is contained within a search widget 
+
+on the homepage, Primo is the default search option and therefore users’ default choice. 
+
+Interestingly, even after statements from some faculty such as “I don’t love Primo,” “Primo isn’t 
+
+the best,” and “the [Classic Catalog] is better,” these participants proceeded to use Primo to find a 
+
+book. Library employees were evenly split between Primo and Classic Catalog.  
+
+One undergraduate student, graduate student, and library employee were unable to determine 
+
+whether we have access to Nature. This task was the most time consuming for library employees 
+
+because there are multiple ways to approach this question and library employees tended to favor 
+
+the most consistently successful yet most time-consuming options (e.g., searching within the 
+
+Classic Catalog). Lacking a clear option in the main navigation bar, the most popular path started 
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES |DECEMBER 2017 40 
+
+ 
+
+with our “Articles & Databases” page, but the answer was most often successfully found using 
+
+Primo. Several participants tried using the “Search for Databases” search box on the “Articles & 
+
+Databases” page, which yielded no results because it searches only our database list. The search 
+
+widget on the homepage that includes Primo has an option for searching e-journals by titl e, as 
+
+shown in Figure 3. However, nearly all nonlibrary employees missed this feature. Participants 
+
+from both the undergraduate and graduate student user groups had trouble with this task, 
+
+including those who were ultimately successful. Unfortunately, many of the undergraduates could 
+
+not differentiate a journal from an article, and while graduate students were aware of the 
+
+distinction, a few indicated that they were not used to the idea of finding articles from a specific 
+
+journal. 
+
+ 
+
+Figure 3. E-journals search tab. 
+
+When it came to finding articles, undergraduates, as well as several faculty and a few library 
+
+employees, gravitated toward Primo. Others, particularly graduate students and library 
+
+employees, opted to search a specific database—most often Academic Search Premier or JSTOR. 
+
+However, those who used Primo to answer this question arrived at an answer two to three times 
+
+faster because of the discovery tool’s accessibility from a search widget on the homepage. 
+
+Regardless of the tool or resource they used, most participants found a sufficient result or two. 
+
+Common Breakdowns 
+
+Despite the clear label “Search for Databases,” at least one participant from each user group, 
+
+including library employees, attempted to enter a book title, journal name, or keyword into the 
+
+LibGuides’ database search tool on our “Articles & Databases” page (Figure 4). Some participants 
+
+attempted this repeatedly despite getting no results. Others did not try a search but stated, with 
+
+
+
+ 
+
+EVERYONE’S INVITED | AZADBAKHT, BLAIR, AND JONES 41 
+https://doi.org/10.6017/ital.v36i4.9959 
+
+confidence, that entering a journal, book, or article title into the “Search for Databases” field would 
+
+yield a relevant result. A few participants also attempted this with the search box on our Research 
+
+Guides (LibGuides) page, which searches only within the content of the LibGuides themselves.  
+
+Across all groups, when not starting at the homepage, many participants had difficulty finding 
+
+books because no clear menu option exists for finding books like it does for articles (our “Articles 
+
+& Databases” page). This was difficulty was compounded by many participants struggling to 
+
+return to the Libraries homepage from within the website’s subpages. Those participants who 
+
+were able to navigate back to the homepage were reminded of the Primo search box located there 
+
+and used it to search for books.  
+
+ 
+
+Figure 4. “Search for Databases” box on the “Articles & Databases” page. 
+
+Another breakdown was the “Help & FAQ” page (Figure 5). Participants who turned there for help 
+
+at any point in the study spent a relatively long time trying to find a usable answer and often 
+
+ended up more confused than before. In fact, only one in three participants managed to use “Help 
+
+& FAQ” successfully because the FAQ consists of many questions with answers on many different 
+
+pages and subpages. This portion of the website had not been updated in several years and 
+
+therefore the questions were not listed in order of frequency. 
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES |DECEMBER 2017 42 
+
+ 
+
+ 
+
+Figure 5. The answer to the “How do I find books?” FAQ item leads to several subpages. 
+
+DISCUSSION 
+
+Using the results of the study, we made several recommendations to the Libraries’ Web Advisory 
+
+Committee and administration: (1) display our hours of operation on the homepage; (2) remove 
+
+the search boxes from the “Articles & Databases” and “Research Guides” pages; (3) condense the 
+
+“Help & FAQ” pages; and (4) create a “Find Books” option on the homepage. All of these 
+
+recommendations were taken into account during a recent redesign of the website. We also 
+
+considered each user group’s performance and its implications for website design as well as 
+
+instruction and outreach efforts.  
+
+First, our team suggested that the current day’s hours of operation be featured prominently on the 
+
+website’s front page. Despite “How late is our main library open on a typical Monday night?” being 
+
+one of two tasks that had a 100 percent completion rate, this change is easy to make, adds 
+
+convenience, and addresses a long-voiced complaint. Several participants expressed a desire to 
+
+see this change implemented. Moreover, this is something many of our peer libraries provide on 
+
+their websites. 
+
+The team’s next recommendation was to remove the “Find Databases by Title” search box from 
+
+the “Article & Databases” page. During the study, participants who had a particular database in 
+
+mind opted to navigate directly to that database rather than search for it. Another such search box 
+
+exists on the “Research Guides” page. Although most of the participants did not encounter this 
+
+search box during the study, those that did also mistook it for a general search tool. Participants 
+
+
+
+ 
+
+EVERYONE’S INVITED | AZADBAKHT, BLAIR, AND JONES 43 
+https://doi.org/10.6017/ital.v36i4.9959 
+
+from all groups, especially undergraduate students, assumed that any search box on the Libraries’ 
+
+website was designed to search for and within resources like article databases and the online 
+
+catalog, regardless of how the search box was labeled. Given our findings, libraries with similar 
+
+search boxes might also consider removing these from their websites.  
+
+Another recommended change was to condense the “Help & FAQ” section of the website 
+
+considerably. The “Help & FAQ” section was too large and unwieldy for participants to use 
+
+successfully without becoming visibly frustrated, defeating its purpose. Moreover, Google 
+
+Analytics showed that only nine of the more than one hundred “Help & FAQ” pages were used with 
+
+any regularity. Going forward, we will work to identify the roughly ten most important questions 
+
+to feature in this section.  
+
+The final major recommendation was to consider adding a top-level menu item called “Find Books” 
+
+that would provide users with a means to escape the depths of the site and direct them to Primo 
+
+or the Classic Catalog. When participants would get stuck on the book-finding task, they looked for 
+
+a parallel to the “Articles & Databases” menu option. A “Getting Started” page or LibGuide could 
+
+take this idea a step further by also including brief, straightforward instructions on finding articles 
+
+and journals by title. In effect, this option would be another way to condense and reinvent some of 
+
+the topics originally addressed in the “Help & FAQ” pages.  
+
+Comparing each user group’s average performance helped illuminate the strengths and 
+
+weaknesses of the website’s design. We suspect that graduate students were the fastest and nearly 
+
+most successful group because they are early in their academic careers and doing a great deal of 
+
+their own research (as compared to faculty). Many of them are also responsible for teaching 
+
+introductory courses and are working closely with first -year students who are just learning how 
+
+to do research. Faculty, because their research tends to be on narrower topics, were familiar with 
+
+the specific resources and tools they use in their work but were less able to efficiently navigate the 
+
+parts of the website with which they have less experience. Moreover, individual faculty varied 
+
+widely in their comfort level with technology, and this affected their ability to complete certain 
+
+tasks. 
+
+CONCLUSION 
+
+The results of our website usability study echo those found elsewhere in the literature. Students 
+
+approach library search interfaces as if they were Google and generally conduct very simple 
+
+searches. Without knowledge of the Libraries’ digital environment and without the research skills 
+
+library employees possess, undergraduates in our study tended to favor the most direct route to 
+
+the answer—if they could identify it. This group had the most trouble with library and academic 
+
+terminology or concepts like the difference between an article and a journal. Though not as quick 
+
+as the graduate students, undergraduates completed tasks swiftly, mainly because of their reliance 
+
+on the Primo discovery tool. However, undergraduate students were less able to recover from 
+
+missteps; more of them confused the “Find Databases by Title” search tool for an article search 
+
+tool than participants from any other group. Since undergraduates compose the bulk of our user 
+
+
+
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES |DECEMBER 2017 44 
+
+ 
+
+base and are the least experienced researchers, we decided to focus our redesign on solutions that 
+
+will help them use the website more easily.  
+
+Although all of the library employees in our study work in public-facing roles, not all of them 
+
+provide regular research help or teach information literacy. Since most of them are very familiar 
+
+with our website and online resources, they approached the tasks more methodically and 
+
+thoroughly than other participants. Library employees tended to choose the search strategy or 
+
+path to discovery that would yield the highest-quality result or they would demonstrate multiple 
+
+ways of completing a given task, including any necessary workarounds.  
+
+The inclusion of library employees yielded the most powerful tool in our research team’s arsenal. 
+
+Holding this group’s “correct” methods side-by-side to equally valid methods of discovery helped 
+
+shake loose rigid thinking, and the fact that some library employees were unable to complete 
+
+certain tasks shocked all parties in attendance when we presented our findings to stakeholders. 
+
+Any potential argument that student, faculty, and staff missteps were the result of improper 
+
+instruction and not of a usability issue was countered by evidence that the same missteps were 
+
+sometimes made by library staff. Not only was this an eye-opening revelation to our entire staff, it  
+
+served as the evidence our team needed to break through entrenched resistance to making any 
+
+changes. We were met with almost instant, even enthusiastic, buy-in to our redesign 
+
+recommendations from the Libraries’ administration . Therefore, we highly recommend that other 
+
+academic libraries consider including library staff as participants in their website usability studies.  
+
+REFERENCES 
+ 
+
+1 Barbara A. Blummer, “A Literature Review of Academic Library Web Page Studies,” Journal of 
+
+Web Librarianship 1, no. 1 (2007): 45–64, https://doi.org/10.1300/J502v01n01_04 .  
+
+2 Jody Condit Fagan, “Usability Studies of Faceted Browsing: A Literature Review,” Information 
+
+Technology and Libraries 29, no. 2 (2010): 58–66, 
+
+https://ejournals.bc.edu/ojs/index.php/ital/article/view/3144/2758 .  
+
+3 Judith Z. Emde, Sara E. Morris, and Monica Claassen-Wilson, “Testing an Academic Library 
+
+Website for Usability with Faculty and Graduate Students,” Evidence Based Library and 
+
+Information Practice 4, no. 4 (2009): 24–36, https://doi.org/10.18438/B8TK7Q .  
+
+4 Ibid., 30.  
+
+5 Nancy B. Turner, “Librarians Do It Differently: Comparative Usability Testing with Students and 
+
+Library Staff,” Journal of Web Librarianship 5, no. 4 (2011): 286–98, 
+
+https://doi.org/10.1080/19322909. 2011.624428.  
+
+6 Ibid., 295. 
+
+https://doi.org/10.1300/J502v01n01_04
+https://ejournals.bc.edu/ojs/index.php/ital/article/view/3144/2758
+https://doi.org/10.18438/B8TK7Q
+https://doi.org/10.1080/19322909.2011.624428
+
+
+ 
+
+EVERYONE’S INVITED | AZADBAKHT, BLAIR, AND JONES 45 
+https://doi.org/10.6017/ital.v36i4.9959 
+
+ 
+
+7 Andrew D. Asher and Lynda M. Duke, “Searching for Answers: Student Behavior at Illinois 
+
+Western University,” in College Libraries and Student Culture: What We Now Know (Chicago: 
+
+American Library Association, 2012), 77–78. 
+
+8 Lucy Holman, “Millennial Students’ Mental Models of Search: Implications for Academic 
+
+Librarians and Database Developers,” Journal of Academic Librarianship 37, no. 1 (2011): 21–
+
+23, https://doi.org/10.1016/j.acalib.2010.10.003 .  
+
+https://doi.org/10.1016/j.acalib.2010.10.003
+
+	ABSTRACT
+	INTRODUCTION
+	METHODS
+	Limitations
+
+	RESULTS
+	Common Breakdowns
+
+	DISCUSSION
+	CONCLUSION
+	REFERENCES
+

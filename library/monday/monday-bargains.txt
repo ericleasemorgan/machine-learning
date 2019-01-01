@@ -1,0 +1,946 @@
+
+
+
+
+
+
+
+	[image: Page Header]
+
+
+
+
+
+
+
+
+
+	
+							
+				
+	Open Journal Systems
+
+
+	Journal Help
+
+
+			User
+	
+												
+						Username	
+	Password	
+	 Remember me
+	
+
+
+				
+
+						
+
+
+	Journal Content
+
+	
+			
+													Search 
+
+					
+								
+	
+				Search Scope
+				
+
+				All
+Authors
+Title
+Abstract
+Index terms
+Full Text
+
+
+				
+	
+
+
+	
+
+
+	
+
+
+		Browse
+		By Issue
+	By Author
+	By Title
+	Other Journals
+
+
+	
+
+
+
+
+
+
+	Font Size
+	
+
+
+
+
+
+	Current Issue
+	
+	[image: Atom logo]
+	
+
+	
+	[image: RSS2 logo]
+	
+
+	
+	[image: RSS1 logo]
+
+
+
+
+
+	Article Tools
+			
+			[image: ] Abstract
+
+		
+
+				
+			[image: ] Print this article
+		
+
+				
+			[image: ] Indexing metadata
+
+		
+
+				
+			[image: ] How to cite item
+
+		
+
+							
+			[image: ]
+			Email this article (Login required)		
+
+				
+			[image: ]
+			Email the author (Login required)		
+
+		
+
+
+
+	
+					About The Author
+			
+		
+	
+		Robert M. Pallitto
+				
+http://www.shu.edu
+				
+Seton Hall University		
+United States	
+
+
+	
+Associate Professor and Chair
+Department of Political S cience and Public Affairs
+
+	
+
+	
+	
+
+			
+
+			
+
+
+
+
+
+		Home
+	About
+	Login
+	Register
+	Search
+	Current
+	Archives
+	Announcements
+	SUBMISSIONS
+
+
+
+
+
+	Home >
+	Volume 23, Number 2 - 5 February 2018 >	Pallitto
+
+
+
+
+
+
+			
+
+
+
+
+
+[image: First Monday]
+
+
+
+
+
+
+[image: Irresistible bargains: Navigating the surveillance society by Robert M. Pallitto]
+
+
+
+
+
+
+[image: Abstract]
+Agents in contemporary societies are faced continually with choices regarding engagement with technological artifacts. They can choose to engage or decline engagement after considering the costs and benefits in each case. However, certain aspects of the surveillance society may be irresistible in a number of ways, so that refusal to engage with them is not a realistic option. The proliferation of the Internet of Things (IoT), particularly as embedded in “smart city” initiatives, helps to make surveillance technologies potentially  irresistible. After laying the conceptual groundwork for discussing irresistible bargains, this essay offers a two-part normative critique, focusing on the asymmetrical power relations engendered by smart cities as well as harms inflicted on the self.
+
+
+Contents
+
+Introduction
+
+The “smart city” as an irresistible bargain
+
+Precursors to the smart city
+
+Consumerism, the IoT and the smart city
+
+Toward a normative framework for analyzing bargains involving privacy
+
+
+ 
+
+ 
+
+[bookmark: p1]Introduction
+
+
+	“Choose freely”
+— Coca Cola advertising slogan, 2016
+
+“Coca-Cola Freestyle has reinvented the fountain beverage experience by offering an unprecedented array of drink choices in a fun, interactive format”
+— Coca Cola trade publication (Moye, 2016)
+
+“Enroll now to become part of an expedited screening program that helps take the stress out of travel.”
+— U. S. Transportation Security Administration PreCheck advertisement
+
+
+
+
+In their everyday lives, people (particularly in the developed world) continually encounter technological artifacts with which they can engage or decline engagement. They can make a cost-benefit calculation or simply opt to let desire or convenience guide them. But what is left to say about bargaining when invitations to engage with technology become irresistible? Jeff Jonas characterizes the surveillance society this way, suggesting that it is hard to opt out, much less reverse the trajectory of social development that tends toward greater and more pervasive surveillance. According to Jonas,
+
+
+	A surveillance society is inevitable and irreversible. More interestingly, I believe a surveillance society will also prove to be irresistible. This movement is not only being driven by governments; it is being driven primarily by consumers — you and me — as we eagerly adopt ever-increasing numbers of irresistible goods and services, often not knowing what personal information is being collected, or how it may end up being used. [bookmark: 1a][1]
+
+
+
+Jonas is writing in the context of information sharing by organizations that provide consumers with a service (such as information storage or e-mail); thus he is concerned specifically with surveillance in the sense of collection and aggregation of personal data. In exchange for the service provided, organizations acquire knowledge about individual consumers, and in turn that knowledge provides leverage to the organization and also to anyone else to whom the data is sold or given. The privacy concerns associated with this kind of knowledge transfer are obvious (and familiar), but before considering them it is worth pausing over what is “irresistible” about the invitations and what implications emerge from the notion of the irresistible bargain.
+
+
+When we think about surveillance we tend to assume that the state is doing the surveilling, but Jonas is referring to private actors rather than state actors. Their data-gathering surveillance is instrumental to successful marketing or to the commerce of information sharing, whereas state actors, by contrast, seek ultimately to preserve and increase state power when they decide to utilize surveillance techniques. The practice of risk assessment cuts across this public/private division: insurance companies and governments have reasons to assess and manage risk, and data gathered by one actor can be useful to another. Thus, the surveillance society is constituted and supported by a range of actors and activities, both public and private. And the line demarcating state from corporate is blurred, in many ways. Consultants report to and advise state policy-makers, and governments contract out privately their traditional state functions, from policing to prisons. Telecom providers share call data and records with the government, and private contractors sell surveillance technology to government. An important aspect of the “irresistibility” of the surveillance society consists in the engagement of consumers with organizations selling products, but state and corporate actors are multiply connected.
+
+
+Nikolas Rose [bookmark: 2a][2] offers an alternative to a bright line divide between state and corporate surveillance practices. He envisions social relations flowing through circuits of inclusion and exclusion. Both facilitate social control, but they work in different ways. Circuits of inclusion
+
+
+	operat[e] through conditional access to circuits of consumption and civility: constant scrutiny of the right of individual access to certain kinds of flows of consumption goods; recurrent switch points to be passed in order to access the benefits of liberty. [bookmark: 3a][3]
+
+
+
+These benefits include immigration, credit, housing, benefits, consumer goods and discounts, and social status. The switch points where data is collected and subjects are evaluated sit within the state apparatus in some instances and outside that apparatus in others. Different kinds of professional experts are charged with guarding the switch points: architects, insurance companies, trainers and management consultants, among others. [bookmark: 4a][4]
+
+
+Circuits of exclusion, by contrast, operate to place certain individuals or groups outside the circuitry by which desirable goods and social status are obtained. Designations such as “unproductive,” “criminal” or “high-risk” signify unfitness to compete for goods and participate in society: they mark categorical exclusion. Both kinds of circuitry rely on data collection to regulate individuals’ movement through them. And both kinds of circuits function in inconsistent and even contradictory ways. Moving through them, individuals “engag[e] in a diversified and dispersed variety of private, corporate and quasi-corporate practices, of which working and shopping are paradigmatic.” [bookmark: 5a][5] The author continues,
+ 
+
+	These assemblages which entail the securitization of identity are not unified, but dispersed, not hierarchical but rhizomatic, not totalized but connected in a web of relays and relations. [bookmark: 6a][6]
+
+
+
+Here, Rose calls to mind the ever-more-complex branching of the rhizome, or root. Branches grow off branches, etc., so the complexity of the organism increases exponentially. Growth is not vertical, but rather multi-directional, and back-tracing any particular branch is difficult.
+
+
+Rose’s depiction of the social terrain as a mass of circuitry complicates the notion of an irresistible surveillance society, in the sense that there does not have to be a centralized control point for the multitude of watching and data-gathering that occurs at any given moment. Still, two sets of questions arise out of Jonas’ prediction that such a society of ubiquitous and decentralized watching is becoming irresistible. First, what exactly does “irresistible” mean here, and for whom? How would one evaluate the accuracy of the claim of irresistibility? Second, what does Jonas suggest regarding the normative status of such a state of things: is he celebrating the irresistible surveillance society, lamenting it, or something else? Regarding the facticity of Jonas’ claim, we could ask in what sense the offer to engage by transacting for a good or service is irresistible. Resistance is not impossible in an absolute sense: if it were, then everyone would be using e-mail and cloud computing. It makes more sense to think of resistance in a factual-probabilistic sense. In DeLanda’s terms [bookmark: 7a][7], irresistibility is not “logically necessary”; it is “contingently obligatory.” In other words, it is not impossible, but rather very difficult, to resist engagement with the surveillance society. As one commentator has put it, “[s]ome of us cannot avoid cultural and economic pressures to engage in transactions that result in information disclosures” [bookmark: 8a][8]. In many cases, users of Facebook and other online services may not understand all of the consequences of the information they disclose. As a result, we can expect that the vast majority of people who use electronic media (cellphones, e-mail, Internet) will continually adopt goods and services that compromise their personal information — sometimes understanding the costs and sometimes not. Resistance is possible, but many people will not resist.
+ 
+
+Actually occurring resistance can be seen more readily when it is conceptualized as micro- resistance, or “everyday resistance” in Scott’s (1985) terms. This behavior can be found in many settings where overt, organized action is absent. Scott’s classic study of peasants in a Malaysian village showed how actions such as work slowdowns, gossip, informal negotiation and sabotage counted as resistance even though they were not coordinated and did not result in revolutionary change. In fact, development of the forces of production, such as double-planting of crops and mechanization of farming, actually produced the “everyday resistance” that remained open when space for other forms of political action had closed off. In the context of the surveillance society, a range of everyday acts of resistance are easy to document. They range from privacy-protective measures such as e-mail encryption and filtering devices to more risky practices like hacking and counter-surveillance. DeLanda [bookmark: 9a][9] references hacking in his discussion of the variety of self-organizing “demons” within a computer system. Thus, as a descriptive matter, resistance is not only possible but practicable and observable as well. To say that resistance is impossible in absolute terms simply ignores the negotiation of surveillance-related constraints that happens all the time. Scott also distinguishes between the public performances enacted by a compliant subject and the “full transcript” of the subject’s behavior, which includes what happens “backstage” [bookmark: 10a][10].
+ 
+
+Nonetheless, resistance is a challenge, and consumers often do find these bargains irresistible. There are at least five components of this irresistibility. Specific bargains can be (or seem to be) irresistible:
+
+
+	in terms of convenience
+	in terms of efficiency
+	in terms of ubiquity
+	in terms of the networked life-world
+	in terms of the source of sharing being hard to pinpoint.
+
+
+
+Convenience. Some digital media-related products are free to the consumer since the offeror is not seeking immediate payment from the consumer but rather collects revenues from advertising and secondary transactions with data brokers. Since there is often no immediate monetary cost, it is easy to accept the good or service. At most, one need only acknowledge reading a waiver document by clicking to accept its terms. No monetary cost, plus a streamlined waiver process, make it very easy to adopt a service that will lead to sharing of personal data down the road. There certainly are costs, but they are revealed at a later point.
+
+
+Marketing and sales specialists have long known how to exploit consumers’ carelessness and laziness, not to mention the basic human impulse to complete a transaction once it is underway. Probably all of us have experienced the increasing ease with which consumer transactions are presented to us, whether we are refinancing a mortgage, renting a car or purchasing a television. If one were to read and properly study every document in a real estate closing before signing it, the process would take far longer than the one-hour timeframe that has become typical — and there would be quite a bit of discomfort and pressure experienced by a person who prolonged things that way. Instead, many of us embrace the streamlined and efficient procedures offered to us in those situations: against our better judgment, perhaps, or maybe relying on the safety net of consumer protection laws. For online transactions, the effect is multiplied. We need not shuffle papers or sign multiple spots; in fact, the only thing that has to move is one finger as we click to accept terms.
+
+
+In contract law, the term “contract of adhesion,” or “standard form contract” [bookmark: 11a][11] is used to describe an agreement in which one party offers a standard contract to the other party, who can then accept those terms wholesale or reject the offer in its entirety; there is no opportunity to bargain over terms or change anything in the written contract. Contracts of adhesion indicate an imbalance in bargaining power between the more powerful seller (e.g., big box store selling an appliance) and the more vulnerable buyer (individual consumer) [bookmark: 12a][12]. When contracting for goods and services via the Internet, consumers face an even stronger form of this phenomenon. If I want to go on in the transaction (or install an app I have purchased), I must “click” to agree. If I don’t click on the “accept” box, I cannot even continue the process; I cannot even ask a question. The adhesion effect is even more pronounced, and consumers are trained to move along in the process, to be able to select “next” and come one step closer to completion. Of course, as Jonas points out, the development of this “convenience” is driven as much by consumers’ preference for convenience as by the sellers’ motivation to complete more transactions (though of course, the two are related). We demand convenience, even though it comes with costs.
+
+
+Efficiency. Talking about “irresistible bargains” in terms of convenience brings us to the related topic of efficiency. A particular kind of efficiency is promised by such services as online shopping and data storage. It is more efficient, in the short run, to use these services and so consumers do not consider the long-term costs associated with them, such as unwanted e-mail solicitation. It is now possible to complete one’s holiday shopping entirely online, without setting foot in a shopping mall. It is hard to complain about a technology that helps us to avoid the consumerist nightmare of visiting a shopping mall, but that is sort of the point. We don’t complain because shopping has been made more efficient. But saving time and aggravation comes at the (eventual) cost of loss of control over personal information and vulnerability to online marketing [bookmark: 13a][13].
+
+
+Ubiquity. Widespread use of readily available and easy-to-engage technologies generates a self-reinforcing effect: as people become accustomed to such electronic activities as online shopping and social networking, the demand for more of those services increases, and it becomes more difficult to find settings where they are not in use. Wood (2014) terms this pervasive and taken-for-granted watching “ambient surveillance.” Where the technologies are in place, they will likely be easier to use than their pre-electronic counterparts. Think of E–ZPass compared to coin-collecting toll baskets, or Amazon bookselling as compared to phoning or visiting a bookstore. To use a personal example: when I lived in the southwestern U.S., I did a fair amount of solo wilderness hiking. I did not own a cellphone back then, so I developed a safety-related routine of stopping in a town after each hike and finding a phone booth to call home. That way, my wife would know that I had completed the hike and left the mountains. If I did not call at the expected time, then she would know that something had gone wrong, and where and when that had happened in case I needed help. Over the years, it became harder to find phone booths, and on a few occasions I did not call until hours later than planned, or even the next day. Needless to say, those lapses in communication caused some concern as my wife imagined me lying at the foot of a cliff, lightning-struck or snake-bit miles from medical aid. Eventually, I bought a cellphone. The lesson here was that it became too difficult to avoid using the communications technology that had become prevalent; the ubiquity of cellphone use and infrastructure crowded out older technologies and made cellphone use, in a practical sense, irresistible. Sadowski and Pasquale [bookmark: 14a][14] underscore this point about technologies that are irresistible because they are ubiquitous. And they continue:
+
+
+	[W]e “consent” by default because the options to not do things that pull us into the logics of these systems — such as not using digital platforms, not using smartphones, not going to stores and streets without a mask, not living in a populated area — can hardly be considered real choices for the vast majority of citizens. [bookmark: 15a][15]
+
+
+
+Sources of sharing are hard to pinpoint. People (especially in the U.S.) lose control over their personal information via the activities of data brokers. Data brokers buy consumer information that has been collected by a supplier. The data broker amasses raw information, such as individual consumers’ shopping histories, and then packages that information for sale to a party interested in marketing its own products effectively. A recent U.S. Federal Trade Commission (U.S. FTC, 2014) report on data brokers summarized their activities as follows:
+
+
+	Data brokers collect data from commercial, government, and other publicly available sources. Data collected could include bankruptcy information, voting registration, consumer purchase data, Web browsing activities, warranty registrations, and other details of consumers’ everyday interactions. Data brokers do not obtain this data directly from consumers, and consumers are thus largely unaware that data brokers are collecting and using this information. While each data broker source may provide only a few data elements about a consumer’s activities, data brokers can put all of these data elements together to form a more detailed composite of the consumer’s life. [bookmark: 16a][16]
+
+
+
+The sheer volume of data collected and then packaged for sale by data brokers is staggering. One of the nine companies the FTC surveyed for its report had collected information on 1.4 billion consumer transactions, and another company had amassed 3,000 data segments for every U.S. consumer [bookmark: 17a][17]. When one considers the technologies available for gathering personal and transactional data, together with the manifold interactions each of us experiences daily with retailers, courts, government agencies, social media and others, it becomes apparent how such massive-scale data collection has become not only possible, but common. And as Monahan [bookmark: 18a][18] notes, these large-scale data collection and storage practices actually make consumers’ personal data vulnerable to hackers [bookmark: 19a][19].
+
+
+So consumers divulge personal information as they navigate the life-world every day. They use a “member’s card” at the grocery, the gym, and the pharmacy. They buy products online; they use search engines and cellphones and online dating sites. But there are consequences to each disclosure of personal data. The FTC report details the practices of data brokers and shows how consumers can suffer “downstream” harms of which they are unaware. For instance, it is often impossible to back-trace how the data broker obtained a particular piece of data since it is amassed from a wide range of sources [bookmark: 20a][20]. And it is futile for the data broker to delete information from its records once that information has already been transmitted to a purchaser [bookmark: 21a][21] — deletion after-the-fact cannot recapture the data that has passed to the hands of a purchaser who now owns the data and can do with it what they wish.
+
+
+The FTC report illustrates how aggregated data that is compiled, packaged and sold by data brokers can inflict harms on consumers even if the information is used legally and truthfully. For instance, the data point indicating that I live in New Jersey is innocuous by itself, as is the data point of my age group (50+). But even those two data points alone place me in risk categories for disease that could influence my ability to obtain certain kinds of insurance. When food purchasing patterns, commuting path and familial status are added, a rather detailed “data double” [bookmark: 22a][22] is available to anyone who wants to evaluate me for purposes of health insurance, government service, fitness to adopt children — and other, perhaps more nefarious purposes.
+ 
+
+The packaging of data is something of a specialized enterprise. Brokers can offer a more attractive product if they process and package their information in highly detailed and specific ways. They create synecdochal demographic types that marketers can use to treat target markets in crude stereotype. “Urban scramble,” for example, is a designation used to refer to debt-burdened city residents living paycheck-to-paycheck. Racial and ethnic identity can be suggested implicitly or explicitly here [bookmark: 23a][23]. These categories are reified as consumers are told, through advertising, that they conform to a given type. “Rural everlasting” is a demographic label that refers to older white adults living (obviously) in rural parts of the U.S. who lack a formal education [bookmark: 24a][24]. Data brokers create these types that confront consumers and, in a very real way, help to construct the world that consumers encounter. Frank Pasquale [bookmark: 25a][25] calls these “whole new kinds of people.” The creation of “whole new kinds of people” occurs in a twofold way: 1) through the composite types created by data brokers to sell their product, and 2) through the behaviors that individuals are subtly encouraged to adopt because those behaviors are conducive to control or manipulation. A passive subject or an aggressive, appetite-driven subject can be useful depending on what is being sold.
+
+
+In addition to the risk that personal information can be used to deny benefits to a consumer, as I have just explained, there is also the potential for uses that are outright and explicitly illegal:
+
+
+	[I]dentity thieves and other unscrupulous actors may be attracted to detailed consumer profiles maintained by data brokers  that do not dispose of obsolete data, as this data could give them a clear picture of consumers’ habits over time, thereby enabling them to predict passwords, answers to challenge questions, or other authentication credentials. [bookmark: 26a][26]
+
+
+
+Compromised data is another foreseeable effect of data brokerage activities — unintended, perhaps, but nonetheless very real and dangerous. In the summer of 2017, credit reporting company Equifax acknowledged a three month-long security breach that compromised the personal information of 143 million individuals (White, 2017). It is impossible to know all of the effects on consumers of such a massive unauthorized disclosure, which included credit card numbers. Even before the breach, Equifax had reportedly been ordered by the federal government to pay millions in fines and restitution stemming from findings of unfair and illegal practices (White, 2017). The risk that data brokers will harm consumers by intended and unintended practices is quite real, and has in fact already materialized. Of course, there have been other such breaches; this one was recent, large and well publicized.
+
+
+The networked life-world. In the second decade of the twenty-first century, the ties that bind consumers to electronic media far exceed the mere retrieval of information via the Internet and the reliance on e-mail and text messaging. We have learned to live with and within the Internet of Things (IoT), which Sadowski and Pasquale [bookmark: 27a][27] describe as “sensors and computation embedded within physical objects that then connect, communicate, and/or transmit information with or between each other through the Internet.” Here are some examples. A Web link to a camera trained on an eagle’s nest allows Internet viewers to observe the behavior of the birds in real time. A heart monitor worn by a patient is linked to her cardiologist’s office so that results can be observed and recorded over time. An athlete’s watch records the body’s reaction to a training regimen. Internet communications technology pervades more areas of social life, creating new networks and connecting those that exist already. As Sadowski and Pasquale [bookmark: 28a][28] put it, “It no longer makes sense to think of ‘the Internet’ as a thing that one accesses via a computer. Not when the city itself is reimagined and reconstructed as a platform for and node within networked information communication technologies.” Here they are referencing the “smart city,” in which governance is facilitated by ever-more-advanced (and ever-more-invisible, in the sense of blending into the architecture) systems that provide and monitor public services (e.g., security, “throughput” of traffic, health screening). As Sadowski and Pasquale point out, the cheerful and uncritical celebration of smart city initiatives often masks harms to citizens. The ends to which this systems engineering is directed by government may conflict with the democratically determined ends that the public wants to prioritize. If systems expertise that helps to build the smart city comes from private firms, then city managers will rely on those firms rather than majority preference in making governance decisions. Obviously, the interests of system-designing firms and the good of the populace can often diverge [bookmark: 29a][29].
+  
+
+The Internet of Things is a term that refers to a variety of objects that collect and/or transmit information. Some of these objects are networked with formal state apparatus and others are not. A heart rate-monitoring device is different, in this sense, from a facial recognition-activated door. The former is connected only with a physician’s office or the data-storage service of the firm that sells the device, while the latter links with a database that is owned or controlled by the state. A note of caution must be sounded here. The sharing of data among government, insurance companies and biofeedback device-marketing firms is a fact of the neoliberal social/political environment in which we live. Thus, isolated data collection may be the exception rather than the rule. Even so, it is not accurate to use the term “Internet of Things” interchangeably with the term “smart city,” as not all devices are necessarily linked to government databases. In any case, the characteristics and uses of Internet-linked devices are fluid. Biometric identification can be used in the home and in the public space of a park or government building. Greenfield [bookmark: 30a][30] notes this continuity when he cites the networking of body/home/city.
+
+
+The figure of the machine is helpful in conceptualizing the networked lifeworld at the distinct levels of body/home/city. In War in the age of intelligent machines, De Landa (1991) notes that while the forms of machines have changed through human history, the “machinic phylum” (a term he takes from Deleuze) provides a way of categorizing a wide range of entities. Armies are machines; clocks are machines; robots are machines. Even syllogisms are machines: they move “truth” from one premise to another. Even things that were not at first intended to function together can do so when they form or organize into an “assemblage” [bookmark: 31a][31].
+ 
+
+“Clockwork” machines are set in motion by an external force, such as the hand that winds the clock or the general who commands an army to move forward. Motorized machines, on the other hand, draw on a fuel source in order to do their work. In the case of the modern army (i.e., from Napoleon’s time onward), De Landa tells us, the fuel is soldiers’ bodies [bookmark: 32a][32]. Bodies are used up in the same way that a motorized car uses gasoline. DeLanda is particularly concerned with the advent of the computer, and consequently his description of that member of the machinic phylum can be applied to the Internet of Things. Whether at the body, home or city level, the Internet of Things is a machine fueled by information, and in fact constituted by information. The work that it does is to optimize various forms of control.
+
+
+I will have more to say, shortly, about smart cities as a variety of the IoT. Here, it is enough to note that the life-world has become increasingly networked as: 1) more of our activities are subject to monitoring and reporting (even by our own design, as with fitness watches), and 2) the monitoring of activities is interconnected by the firms offering IoT technologies and the sharing of data among those who collect it. It is simply more difficult to navigate the world we live in without encountering data collection points. Thus, the networked life-world is another phenomenon that contributes to the seeming irresistibility of the surveillance society.
+
+
+The discussion thus far has been mostly taxonomical, exploring the extent to which the surveillance society has become difficult to resist and documenting the kinds of resistance that have been practiced. It still remains, however, to ask what Jonas makes of the “irresistible” surveillance society he describes. His point of view is representative of a techno-determinist orientation toward technology — insisting that its ever-increasing capacity for control is inevitable — so it makes sense to ask what he makes of those developments in normative terms. Should people rejoice in the world that has been made, in part, by their choices to embrace surveillance technologies? Should they be fearful? Some combination of the two? Jonas himself is not entirely clear. One could infer that by using the terms “inevitable,” “irreversible” and “irresistible,” Jonas is suggesting that at the very least, subjects should stop fighting the proliferation of data-collecting and privacy-limiting activities that are deployed by state and private actors. On this interpretation, resistance is futile [bookmark: 33a][33], so it makes more sense to get used to living in the world Jonas describes. While this response does not exactly sound like rejoicing, it does normalize a state of things that is perilous and dehumanizing. Therefore, it is necessary to take a critical perspective on the surveillance society. In what follows, this discussion will utilize critical commentary on smart cities and mass data-gathering to elucidate the harms lying behind the seeming convenience and efficiency promised by technocratic discourse.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p2]The “smart city” as an irresistible bargain
+
+
+The IoT has grown to encompass the infrastructure of cities. The convenience and efficiency promised by the IoT draw the interest of local governments just as they do, on a smaller scale, to individual consumers. As one commentator expresses it, the goal of smart city planning is “to run the complicated infrastructure of a city with as little human intervention as possible.” (Rosen, 2012) In these governance arrangements, “machine politics will have a literal meaning — our interactions with the people and objects around us will be turned into data that computers in a control hub, not flesh-and-blood politicians, will analyze.” (Rosen, 2012) When the city is able to manage traffic flow, issue safety warnings and limit access to public space through sensors reporting information to a centrally linked information managers, certain logistical problems of governance can be solved, and efficiencies can be realized. Revenue-enhancement, in particular, is accomplished — by E–ZPass lanes on high-speed roads in the U.S., for example. Functions executed through smart technology range from mundane to disturbing:
+
+
+	Trash collection
+	Street repair
+	Charging electric automobiles at public stations
+	Traffic signals
+	Public safety notification
+	Noise monitoring
+	Disabling cars when payments are late [bookmark: 34a][34]
+	Controlling access to public space
+	Crowd control (using drones, for example) [bookmark: 35a][35]
+
+
+
+In a 2010 lecture, Greenfield offered a similar list, a taxonomy of networked “public objects,” classifying them as objectionable or not according to whether they collect information or shape behavior. At the “unobjectionable” end of the spectrum, he cited a traffic beacon that flashes to warn automobile drivers in oncoming cars that a cyclist or pedestrian is approaching from the opposite direction. This device reflects moment-to-moment changes in traffic conditions but collects no information, and it does not shape behavior aside from warning drivers to avoid collisions. At the other extreme, Greenfield classified as objectionable an interactive billboard that records passersby and registers their reaction to the billboard. The information collected holds value for advertisers, who now know how individuals (and groups of similar individuals) react to stimuli. Moreover, people might well change their behavior once they are singled out for not paying attention. Greenfield’s taxonomy is an important step toward fine-grained critical appraisal of networked public life. The enthrallment commonly expressed in the face of these smart technologies misses the threats they introduce, but a blanket pessimism about all smart devices is uncritical and difficult to sustain as a coherent and cogent perspective. It is crucial to note that Greenfield is not in any sense opposed to technology for its own sake or in its essence. Instead, he has traced out the ways in which technologies built into the city’s architecture and feeding data to the government entities change not only the built environment of the city, but the experience of living in it. That is why his taxonomical distinctions pivoting on objectionable/unobjectionable are so important.
+
+
+Even though some features of the smart city are unobjectionable, caution is still warranted on the part of an observer appraising the harms and benefits of the smart city. The city’s IoT-driven governance solutions often come from private vendors who have the ability to harness Internet communications technology to the ends that city managers desire. As Sadowski and Pasquale point out, the structure of these incentives carries the risk that interests of the vendors (i.e., making money) may come to supplant the interests of citizens (i.e., maintaining a workable and accountable government). In one disturbing example, the authors describe image collection at public protests in the city of Kiev, Ukraine that is used in other cities as well. The facial images are put through a recognition program to match faces with names, and then the individuals are notified that they have been registered with the government as protestors [bookmark: 36a][36]. The chilling effect here on expression and association is almost too obvious to point out, but it is linked to smart technologies of governance.
+
+
+To take another example the authors provide, the Intelligent Operations Center built in 2010 by IBM for the city of Rio de Janeiro, “draws together data streams from thirty agencies, including traffic and public transport, municipal and utility services, emergency services, weather feeds, and information sent in by employees and the public via phone, Internet and radio, into a single data analytics centre.” These are all familiar government functions; what is unusual is their consolidation into a “smart” operation. Thus, “[w]ith this NASA–esque control room, the city of Rio is turned into a system for optimization and securitization.” [bookmark: 37a][37] In this configuration of government activity, efficiency is optimized, and the “data analytics centre” enables control of the population’s movement and activity from one locus. Subjects become docile and productive, in Foucauldian terms. The authors note that “the social contract is replaced by the corporate contract” in this instance [bookmark: 38a][38]. The people’s consent to be governed in exchange for protection from their neighbors, which forms the basis for the social contract in liberal political theory, has been manipulated so that a different set of contractual bonds holds together the governance arrangements in the smart city. Government makes a “corporate contract” (in which formal equality masks a vast power imbalance, as noted above) wherein the private corporation is paid to manage government services in a manner that is most efficient for government but not necessarily best for the citizens. This new contract is supported by “technocratic neoliberal ideology” [bookmark: 39a][39] that constructs privatization as a good and encourages faith in technology to bring about the best possible living conditions. This vision of the city encourages “passive citizenship” and prizes convenience above all else [bookmark: 40a][40].
+
+
+While the move toward “smart city” systems of governance might seem irresistible in view of the ideological pronouncements that support and justify it, closer questioning reveals divergences between public and government interests. For example, Sadowski and Pasquale ask, “Would autonomous car control systems prioritize preventing pedestrian deaths, or merely aspire to smooth flows of cars into and out of the city?” [bookmark: 41a][41] At the most abstract level of bargaining, citizens consent to surrender their freedoms in exchange for protection. This is the social contract in its most basic form. But the basis for this agreement begins to deteriorate when government no longer seeks to promote safety above other ends. In order to reveal the stake that private corporations have in promoting and installing smart technologies in city infrastructure, it is first necessary to pierce the protective ideological shield that surrounds these privatized governing arrangements. This is not easy to do, as it requires one to buck the tide of neoliberal faith in technology that equates human progress with technological advancement and trusts private firms to lead that advancement. Just as the Internet itself revolutionized the gathering of information and personal communication, the IoT has enabled us to act in the world more efficiently, whether through watching remote cameras via Internet feed or monitoring body systems. Technocratic rationality has become dominant, in part, because of the positive outcomes — in health, particularly — that it promotes. If the IoT can provide a better picture of cardiac health, or a more effective exercise program, then it is unrealistic to expect people to oppose it. But the point is to understand the range of effects, whether they are bargained for or unanticipated. So it is worth noting that “[t]he IoT is not simply a chance to watch people, but to produce and reproduce certain patterns of interaction” — and to assess continuously (Bogard, 1996). Whether a fitness app on a “smart watch” was intended by its designer to produce “patterns of interaction” is somewhat beside the point: when operationalized it becomes a node in the IoT. Thus, the bodies of its users become conduction points for biopower, in Foucault’s terms [bookmark: 42a][42]. And each subject is a “vulnerable data subject.” [bookmark: 43a][43] As Sadowski and Pasquale put it, “[c]lose examination of the phenomenology of being a surveilled subject, a data subject, reveals the vulnerability of each resident of the smart city to extraction, oppression, and misrecognition.” [bookmark: 44a][44]
+
+
+Engagement with the smart city appears irresistible through the combined intervention of state and industry, public and private actors. Surveillance is imposed and expanded through initiatives that further governance and profit. The tradeoff involves a promise of optimization in exchange for this ceding of control over aspects of a city-dweller’s life. However, Greenfield [bookmark: 45a][45] points out how “slippery” this use of “optimization” is. “What is being claimed,” he says, “is total in scope: that via these technologies, every register of urban life can be brought to an optimal state simultaneously and maintained in that state indefinitely, without cost.” [bookmark: 46a][46] The thickness and complexity of life in actual cities makes this claim an “absurdity.” Optimization of space and travel time, for instance, would shortchange such beloved activities as an evening stroll or sitting on the stoop of an apartment building [bookmark: 47a][47]. Stoop-sitting is a less-than-optimal use of space, and aimless strolling a less-than-efficient use of time, but the cost of optimizing is to eliminate activities that make life worth living [bookmark: 48a][48]. Political decisions become mere technical matters.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p3]Precursors to the smart city
+
+
+However much the IoT may have accelerated the interpenetration of public and private actors in city governance, we must bear in mind that deployment of technologies to private ends by city planners and developers did not begin in the Internet age [bookmark: 49a][49]. IoT technologies have simply furthered the irresistibility of a highly attractive partnership of political and economic elites seeking to consolidate power and profit. Excellent studies of nineteenth and twentieth century municipal governance have shown how “technologies” — broadly defined — have enabled individuals and firms to enrich themselves under the guise of providing good municipal government. Gray Brechin’s (1999) narrative of the municipal development in Imperial San Francisco compares that city’s history with ancient Rome and other great cities whose growth depended on exploitation of the land and resources of surrounding regions. Brechin links metallurgy, military expansion and mining in what he calls (drawing on Lewis Mumford) the Pyramid of Mining, a self-reinforcing system that has accounted for imperial dynamism since antiquity [bookmark: 50a][50]. In the case of San Francisco, municipal design is entwined with political and economic projects by threads that constrain the city to grow and elaborate along the lines of a particular form of modern empire-building. Mining is at the center of this story, from the California Gold Rush of 1848 to the detonation of the atomic bomb in 1945. There is always an end — cultural dominance, military superiority, the capture of new markets — that stimulates mining companies to amass minerals, and to enlist institutions of government in the enterprise. Mining firms feel the “holy golden hunger” as Brechin says, quoting Virgil [bookmark: 51a][51], but what makes government respond with support is the growth that the mining enterprise promises. The recursivity of this relationship is captured in the following formulation: “However elites may disagree among themselves even to the point of murder, they can all agree that the city must grow — and its land values rise — to assure the continuation of their dominion.” [bookmark: 52a][52] Some leading industrialists of the time were directly involved in mining, while others simply saw it as a way to facilitate growth that would benefit the regional and national elites. As ever, California mining produced wealth that allowed the nation to engage in territorial expansion (primarily through war) and that expansion in turn provided new mining opportunities, thus closing the loop.
+
+
+Brechin is strikingly adept at discovering and outlining, from the historical record of turn-of-the-century San Francisco, narratives of racial dominance, spectacular greed, and dynastic control by prominent individuals and families [bookmark: 53a][53]. And while some local governance objectives, such as promoting an iron works in the city, were tied to foreign policy goals such as military conquest, others involved purely domestic initiatives. The connecting link, of course, was the private enrichment for industrialists and land speculators promised by these schemes. The harnessing of water resources in Yosemite was an example of a local project that promised financial payoffs to San Francisco’s business elite. They were able to convince the public that damming the pristine Hetch Hetchy Valley, and pumping its water via aqueduct to the San Francisco area, would be in the public interest. In fact, as Brechin shows, the public realized little utility savings or other benefits from the project, but it did drive up land values so that speculators profited greatly [bookmark: 54a][54].
+
+
+All in all, Brechin provides us with a comprehensive picture of municipal governance from the mid-nineteenth to early twentieth century in a key region of the United States. San Francisco is poised, by geography and demography, to play a pivotal role in national identity formation, wealth extraction and geostrategic policy initiatives. The comparison with Rome and other European cities is striking, as the built environment brings San Francisco renown while the political machinations of the city’s elite extend its influence south into Mexico and even across the Pacific. The public good is defined by the elites — such as Senators Sharon and Phelan, William Ralston and William Randolph Hearst — so that it is synonymous with private enrichment and maintaining the status quo of power relations.
+
+
+In chronological terms, Victor Valle’s (2009) City of Industry picks up where Imperial San Francisco left off: the early- to mid-twentieth century. The focus of Valle’s work is California’s City of Industry, and the author provides a Foucault-inflected study that pinpoints legal and political technologies that enabled business owners to create a municipal entity (City of Industry, hereinafter “Industry”), and then to feed off that entity for decades through redevelopment projects, no-bid contracts and money laundering, among other tools. Valle’s intricately detailed and meticulously documented study is deeply disturbing in a number of ways, not least of which is by showing that the technologies themselves (such as the redevelopment laws and local bureaucracy) were by design highly suitable to private enrichment. The central figures in Industry’s creation, such as Jim Stafford, were deeply corrupt, but Valle warns that if we focus on individual character defects in the Industry story, we obscure deeper truths about the institutionalized aims of redevelopment, such as perpetuating racial segregation and opening up investment opportunities for developers and construction firms.
+
+   
+But what does Valle have in mind when he refers to “technologies”? Consistent with his Foucauldian orientation, he envisions actions, practices and beliefs that fuse into the discourses amidst which people live. “Legal technologies” are laws related to redevelopment, such as those that set processes for property condemnation and for obtaining grants and loans. Those laws are technological in the sense that they are human constructs designed to an instrumental end. If the instrumental end is to make property more profitable, then the laws can be crafted (and later, amended) to pursue profitability. Of course, social norms shape law, and thus play a part in the development of legal technologies. Norms having to do with the role of profit in a society, the relative status of social groups, and the government’s role in protecting property all exert influence on legal technologies as they develop.
+
+
+Legal technologies, though, are only part of the story; other technologies are more specifically political. Jim Stafford and his associates were able to create Industry, and keep its insular governing structure intact for decades, by utilizing existing political technologies and refining them into new and specific forms. For instance, in order for Industry to incorporate, there had to be a majority of residents willing to vote for incorporation, and therefore it became necessary to keep residential numbers low. After all, the real “residents” of Industry were industries: the railroad, the mill and export firms. Corporate interests would likely clash with residents’ interests, and so it would not do to have a populous and restive citizenry. So Industry’s founders followed an incorporation strategy that bootstrapped the founding of a city onto the capitalistic designs of a small group of investors. It was a city without a constituency, or perhaps a city with a constituency that had no public interests, but only private ones. Meanwhile, the neighboring municipality of La Puente bore the brunt of Industry’s externalized harms in terms of pollution, industrial blight and lack of infrastructure.
+
+
+Redevelopment grants are a good example of technologies of governance designed and operated to sustain existing power relations. Valle shows us that these grants facilitated segregation by placing planning control in the hands of developers while also insulating those developers from public scrutiny. In the City of Industry, Jim Stafford understood the redevelopment process and zealously guarded it from outside scrutiny by operating in secret and limiting the participants to a network of close associates whom he was able to control through intimidation.
+
+
+Valle’s description of the use of these technologies recalls an earlier study of municipal governance gone wrong: Robert Caro’s (1974) famous portrayal of Robert Moses and the development of roads, bridges and parks in New York City and Long Island. Moses aspired to be the world’s greatest builder, and to that end he developed mechanisms for garnering public funding for construction projects around the New York region. Though he never held public office, he managed to develop and utilize political technologies that enabled both the completion of specific projects and preservation of his power base over the long term. From the 1920s to the 1960s he was able to operate more or less unchallenged in these endeavors. Moses utilized a variety of political and legal technologies, including inventive statutory drafting. He inserted language into draft legislation that preserved his ability to continue borrowing money on consecutive bond issues before the initial bond was paid off. That way he could maintain a perpetual state of new construction and always have funds on hand. Few legislators, and even fewer members of the public, were aware of this change in law until it became effective. Moreover, Moses utilized the law of contracts to insulate his bond-funded projects from legislative attack in an even more ingenious way. He drafted legislative language stating that the contract rights of investors trumped any statutory enactment that might come later. This meant that if state lawmakers tried to stop a project or cut off funding, private investors would have a right to sue, based on their contract with the state agency administering the project. In other words, contract rights were prior, or superior to any right that the people might have, through their elected representatives, to change how public monies were being spent [bookmark: 55a][55].
+
+
+These legal technologies of law-writing and reconceptualizing contract rights were possible only because Moses had created for himself a position from which to work — or more accurately, two positions. First, as an advisor to Governor Alfred E. Smith, he had access to the statehouse and could offer draft legislation to the legislature. It bears repeating here that he was not an elected official, and so his activities were not subject to the approval, or even the scrutiny, of the electorate. Second, he pioneered the use of the “public authority” as a unit of government that was a quasi-agency in one sense but also a body that operated outside of the usual oversight of the political branches of government. This evasion of oversight was due in part to the statutory protections of the authority’s actions that Moses himself had helped to create through legislative drafting. In all of this legal and political technologies worked together to enable government actors to turn public resources to private ends [bookmark: 56a][56].
+
+
+Valle’s work makes explicit reference to earlier governance technologies that helped to produce the regime that Jim Stafford oversaw in Industry through the latter half of the twentieth century — even those that his own father developed. But it is possible to make other genealogical links such as one between Moses’ city planning and the capture of the redevelopment process in the 1960s. These genealogies of power support a Foucauldian approach to power relations. Viewed against this historical/genealogical background, the smart city movement is less surprising and radical. It dresses up long-existing power relations, showing us that “the sensors of the smart city will amount to little more than a technologized re–imposition of old chains.” [bookmark: 57a][57] Ironically, this “re-imposition of old chains” is an historical pattern that recurs while smart cities’ advocates present the smart cities as history-less:
+
+
+	They don’t have to reckon with the messy accumulations of history, with existing neighborhoods and the claims and constituencies they inevitably give rise to, with the densely tangled ways of doing and being that make any real place what it is. [bookmark: 58a][58]
+
+
+
+Smart cities exist in “generic time,” [bookmark: 59a][59] but they obscure the specific histories of the places they occupy. These histories comprise unjust enrichment of city developers and managers as well as culturally rich traditions that sustain communities over time.
+
+
+Sadowski and Pasquale (2015) point out that the Foucauldian paradigm of political control from the top down, conceptualized as panoptic control in which citizens are always under scrutiny by the government machine, is somewhat less accurate in today’s social settings. To some extent, Deleuze and Guattari’s rhizomatic metaphor, in which power moves through a system of ever-branching roots (similar to a computer network), is more fully descriptive. Nayar [bookmark: 60a][60] seconds this observation, and Rose [bookmark: 61a][61] relies on it also, as described earlier. The preference for rhizome over panopticon as descriptive device is well-founded in the sense that so many micro-relationships extend out from a surveillance-defined social order. The state watches citizens and gathers data; private firms gather data for marketing purposes and other private firms (e.g., telecoms) assist government in surveilling. All of this is still top-down, and yet surveillance is also co-produced by citizens who surveil each other (“If you see something, say something”) and surveil themselves as well — by using loyalty cards, for example. Nayar (2015) calls this “co-production” of surveillance. Simultaneously, individuals are separated into discrete parts — they become dividuals — as classificatory processes fragment them, and this further complicates the splintering and branching of surveillance activities. But, while manifold surveillance relationships comprise a mosaic of interactions and linkages, genealogies of power are still important and worth tracing out. Understanding how private/public linkages, such as those depicted by Brechin, Valle and Caro, have long perverted and corrupted governance is vital. This awareness serves as a corrective to the uncritical celebration of smart technology that we see so often in popular discourse. Marx [bookmark: 62a][62] points out the fallacy of the 100 percent fail-safe as one set of beliefs accompanying technocratic rationality: it keeps people hoping and searching for the perfect design that will eliminate all possibilities of harm.
+
+
+Tracing the development of legal and political technologies also serves to underscore the ever-present element of discretion in governance. Whether we look at San Francisco in the 1890s, New York in the 1930s, City of Industry in the 1960s or Rio de Janeiro today, political decision-makers are always invested with discretion. The choice to use smart technologies in the first place, and the choice of which ones to develop and emphasize, involve the use of discretion. That element of governance is inescapable — and by juxtaposing the governance patters of today with those of earlier periods we see that the citizenry can always fall victim to misdirection of government resources. The processes have become more insidious and in some ways harder to notice, but the impulse to misdirection remains the same.
+
+
+Pointing to the abuse of discretion by executive institutions in government merely highlights a longstanding tension in democratic theory: the one between law making and law enforcement. Laws that are enacted by the people’s representatives must be applied in actual historical contexts, and law application inevitably involves discretion, for, as we often hear, “No law can determine the scope of its own application.” [bookmark: 63a][63] There will always be questions about how a law ought to be applied, or whether an exception should be made. As Harvey Mansfield (1989) famously observed in a classic study of executive power, laws are created with deliberation but must be enforced with dispatch. So on the one hand, a representative democracy with separated powers implies an executive who must respond to emergent conditions by acting; on the other hand, we worry about how the executive might subvert or even repudiate the will of the people. This tension between rule and rule application will always be present in a democracy, and so it is imperative to monitor the balance, whether in Industrial Age of the late nineteenth century, the full-blown administrative state of the post-war years, or the smart city movement fueled by development of the IoT today.
+
+
+As citizens decide whether to support or oppose, engage or reject smart technologies, they compare potential gains and losses. Of course, individuals are not always in a position to reject moves to instantiate smart technologies, just as they lack agency in other settings to contest the actions of vastly more powerful state actors. For instance, Scott [bookmark: 64a][64] references concentration camp victims whose ability to resist their captors has been largely foreclosed [bookmark: 65a][65]. As a result, the “script” enacted in their public activities is merely a performance; it does not reveal their attitudes or what their private, unsupervised conversations might contain. In other instances, people simply lack sufficient information to decide what the costs and benefits are, and so they cannot make an intelligent, informed decision. They cannot compare level of intrusion against extent of benefit. There is a range of cases. At the start of this section, I listed smart city functions in ascending order of intrusiveness. Automated trash removal could be considered unobtrusive. The object of the activity — trash — is of no value, and automating its removal does not compromise any aspect of our privacy to a greater extent than non-automated trash removal would. But some cases are more troublesome. Accelerated travel programs provide the clear benefit of allowing a traveler to avoid long lines at, say, a U.S./Mexico border crossing. At the same time, the level of intrusion is significant. Demographic information has been surrendered in advance in order for the traveler to obtain the accelerated travel permit/in the first place. How will the information be used? What kind of knowledge discovery in databases might it allow? It is impossible to know in advance.
+ 
+
+Greenfield [bookmark: 66a][66] points out another distorting effect of the cost-benefit analysis a consumer or citizen might undertake in connection with the Internet of Things: differential quality of products depending on the level at which the purchaser is engaged. When a person (individual consumer) purchases a monitoring device that is connected to the Internet, the scale of that transaction affects the quality of the purchase. Security protocols for products that an individual consumer can afford are far weaker than those accompanying larger-scale transactions, such as a contract for city services. The scale of a government-to-contractor transaction affords the government superior quality products. Those products bought by individuals, by contrast, are “too cheap to have functional security provisions” and as a result they increase the “total scope of exposure [the device] presents to the world.”
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p4]Consumerism, the IoT and the smart city
+
+
+I have focused here on the IoT and the smart city here because I believe that their entanglement with consumerism strengthens and accelerates tendencies toward illegitimate use of executive-administrative discretion. One of the pervasive mechanisms by which the IoT tends to weaken self-governance at the municipal level is the operation of consumer training. Consumer training overrides deliberative processes in a number of ways:
+
+
+	Constructed consumer demand. Individual subjects respond to injunctions to consume by purchasing goods and services and, as Jonas [bookmark: 67a][67] tells us, by demanding newer and more efficient technologies in communication, entertainment and the IoT. This training works on individual subjects — constantly, as Habermas (1989) observed — by means of sophisticated advertising, targeted marketing aided by the Internet, and lightning-fast spread of consumer trends and fads via globalized communications networks. To be sure, sellers of goods and services respond to consumer demand as they decide what products to develop and sell, the demand is large part a constructed demand. It is constructed by advertisers and in some cases by the state, as when public service messages urge citizens to buy identity theft protections [bookmark: 68a][68]. Overwhelmingly, subjects receive messages about consumption that are packaged and presented by firms selling products, and the life-world is saturated with messages from sellers urging people to buy their products — and that they need to buy those products. Do we really need a phone that stores photos and addresses, plays music, takes pictures and reminds us of appointments? Do we need a phone that creates holographic images? [bookmark: 69a][69] In what sense do we need these functions? In part we need them because technological advance has become an end in itself (convenience must breed greater convenience), and part we need them because advertising messages tell us that everyone else has them so we need them too. It is difficult to counter those messages, and as a result the information available is quite one-sided. Deliberation over whether to purchase a good or service is limited by the one-sidedness of the information inputted into the deliberative process. Imperfect information yields imperfect deliberation.
+
+	Affective response and appetitive demand. The consumer is moved to acts of consumption by impulses that operate at the affective level. While some decisions are rational (I purchase an air conditioner because I have moved to a hot climate), others are impulsive. A new car or a designer suit conveys a message about social status, and the urge to buy a new piece of furniture or set of golf clubs may override one’s long-term budgetary solvency in favor of short-term gratification. Trading short-term gain for long-term good is an outcome favored by sellers of short-term-gratifying products. And even products that yield benefits over time rather than immediately can be marketed by mobilizing affect. Identity theft protections, home security systems and crash-resistant SUVs are good examples here in that they mobilize visceral fear.
+
+	“Consumer citizenship” as a potential reward. Nayar [bookmark: 70a][70] uses this term to refer to the performative aspect of political identity and belonging that is linked to acts of consumption. One motivating factor in individuals’ decisions to purchase loyalty cards for grocery shopping, car maintenance and the like is the identity enhancement they obtain by performing those acts. When we vote, serve on a jury, write to a Congress member or take part in a town hall meeting, we are reaffirming our membership in the political community by taking part in active citizenship. We derive a sense of belonging, a sense of shared local or national identity. In a similar way, our actions as consumers tie us to a larger community that merges the social and the political (as Hannah Arendt feared) so that being good consumers makes us good citizens. By purchasing identity theft protections (as Cole reminds us), we are acting as responsible citizens/consumers and helping to curb identity theft. By using loyalty cards when we shop, we are doing what many other consumers do and we become trusted customers who hold a preferred status in relation to others. The smart city accelerates this subject-formation process by urging us to support and consent to and purchase technologies that make life more efficient and rational. As more of these initiatives become operational, resisting them becomes more difficult — and in fact, more suspicious as the consensus supporting them becomes stronger.
+
+
+
+
+Each of the categories I have just outlined represents a way in which consumption-related processes can override deliberation. “Consumer training” via advertising, the force of short-term desires, and the status reward of belonging through consumer citizenship are related phenomena. They operate cumulatively to shortchange deliberation as individuals make decisions implicating their privacy, security and financial stability.
+
+
+In some cases, an element of voluntary choice is involved. Even if there are reasons to criticize my decision to purchase a new car, for example, it is indisputable that I did so voluntarily. The volitional aspect of subjects’ behavior poses a challenge to any normative critique of the bargain. I got what I bargained for, and so I have presumably calculated costs and benefits and deemed the exchange to be worth it. One avenue of criticizing the choice has to do with information economy — imperfect information available to the subject, or vastly unequal bargaining power, can show us that a particular bargain is bad, or that there is no real bargaining room available to that subject. As we evaluate the elements of a particular bargain, though, we must bear in mind that it is difficult to make a full accounting of all costs and benefits, including future and secondary outcomes [bookmark: 71a][71].
+
+
+I began this essay by raising the possibility that engagement with surveillance technologies might be inevitable and irresistible. As Jeff Jonas poses this problem, the irresistibility comes in part from consumer demand (which, in turn, is shaped by advertising that shapes and exploits desire). Paradoxically, the greater risk to loss of personal information that we face today is not only willingly assumed but sometimes even requested. People opt for greater convenience, more efficient communication, quicker information feeds even if they don’t have a full grasp of the scope of the risks, and perhaps even if they do know what the risks are (see Schneier, 2015). Simultaneously, consumer demand is shaped by sellers and spurred by what consumers say they want. So an outside observer who deems a subject’s particular choice to be a bad bargain must contend with the fact that the subject avowedly makes that choice anyway. This is another way of expressing Žižek’s well-known observation that “even if we do not take things seriously, even if we keep an ironical distance, we are still doing them.” [bookmark: 72a][72]
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p5]Toward a normative framework for analyzing bargains involving privacy
+
+
+Philosopher Anita Allen (2013) offers a normative argument against surrendering privacy through the kinds of bargains I have been discussing here. After noting that “[a] new, technophilic generation appears to have made disclosure the default rule of everyday life, and it cannot imagine things any other way,” Allen states a case for privacy based in duty to the self [bookmark: 73a][73]. She is concerned not merely with the value or of privacy in a society (that is, what beneficial effects it might generate), but instead, with “the ascription of ethical responsibility: in addition to any moral obligation to protect others’ information privacy, do individuals also have a moral obligation to protect their own information privacy?” [bookmark: 74a][74]. Allen thinks we do have such an obligation. It is, of course, more clear that we have an ethical duty to safeguard the privacy of others in view of the harms that failure to do so would cause them. And it is equally clear that individuals have second-order duties to protect the self in fulfillment of first-order duties to others: a lifeguard must stay fit (second-order) so that he or she can protect swimmers’ safety (first-order) [bookmark: 75a][75]. As to the self, furthermore, it is often prudent to protect one’s information privacy — in order to prevent loss of money, harm to reputation, etc.
+
+
+But Allen goes beyond each of these claims and states a first-order duty to the self that exists “over and above prudent self-interest” [bookmark: 76a][76]. In her view, it is sometimes wrong to cede our information privacy to the state or to others even if we appear to be gaining something by the exchange. The kind of harm that we suffer in such a bargain is a “dignitary harm,” according to Allen. She suggests that “privacy is a requirement of our freedom, our dignity, and our good character,” the same as the duty not to lie [bookmark: 77a][77]. It can be a first-order duty and not simply a duty regarding others. We ought to value our own privacy just as we ought to value freedom and just as we ought to value keeping our word. To disregard these aspects of being human is to diminish our own humanity. “We are agents and beneficiaries of our own flourishing,” she says [bookmark: 78a][78]. To help us visualize what is at stake and why it is important to fulfill this duty, Allen offers the example of a cancer patient who broadcasts details of diagnosis and treatment to co-workers and even strangers [bookmark: 79a][79]. The subject in this scenario inflicts harms on the self, demeaning it by indiscriminately publicizing private facts and presenting the self in a disrespectful and undignified manner. This is not the place to develop or interrogate Allen’s argument fully, but it helps us to see how we might not fully grasp what we are surrendering in some of our interactions with technological artifacts. Loss of dignity is a harm that individuals might or might not perceive, and it is at least worth asking whether a person is aware of that loss, and how a loss of one’s dignity might be viewed by others. Health privacy is closely connected with dignity [bookmark: 80a][80], and U.S. Congress has enacted a law (HIPAA) that requires express consent to release sensitive health records. This consent provision protects individuals from disclosure against their will, but it also requires deliberation and awareness — whether or not the individual would have manifested them in absence of the law [bookmark: 81a][81]. While HIPAA obviously creates legal duties on the part of health care providers to protect the privacy of others, its waiver provisions can also be seen as the regulatory reinforcement of a self-regarding privacy obligation.
+
+
+Another set of normative concerns, which has been referenced a number of times in this essay, has to do with development of the self and autonomy of the self, both of which are threatened by the emergence of data doubles and the agential shaping wrought by technologically enhanced consumer goods and services. The concerns are encapsulated in the following statement:
+
+
+	To negotiate contemporary algorithms of reputation and search — ranging from resumé optimization on LinkedIn to strategic Facebook status updates to OkCupid profile grooming — we are increasingly called on to adopt an algorithmic self, one well practiced in strategic self-promotion. [bookmark: 82a][82]
+
+
+
+The virtual self exerts an effect on the individual’s sense of identity. Moreover, this agential shaping occurs despite our seemingly freely given responses to social media stimuli:
+
+
+	Once a critical mass of flags like “I don’t want to see this” or “This is spam” amasses around one person’s account, he may well be deemed “creepy” or “depressing,” but he may never know that, or know why the determination was made. Data scientists create these new human kinds even while altering them. [bookmark: 83a][83]
+
+
+
+This warning is stark and troubling. We cannot resist the emergence of shadow selves that act for us and act on us, and often we don’t even know that they have been generated. Agents develop these shadow selves by adopting behaviors urged on them by LinkedIn and Facebook, as Pasquale shows, and the path of development of the shadow self is laid out according to what is profitable for the service providers who control the search algorithms and conditions of response. Individuals take part in the process by going along with what the media provider subtly urges them to do — be cheerful, buy certain products, and so forth.
+
+
+At the same time, though, agents are also acted upon through information processing done by data brokers. When data brokers create a demographic profile like “Urban Scramble” while seeking to sell marketing data, data users then come across people who have been tagged with that label and view them in a particular way: as desperate, insolvent, possibly untrustworthy city dwellers (not to mention as racialized “others”). This process engenders misrecognition by the marketers themselves, as they buy data and use it to contact actually existing people for sales purposes. Marketer A buys a data package from data broker B in order to sell products to a target demographic. The individual customer is interpellated, to use Althusserian terminology, as an example of a constructed group (Urban Scramble), and if the customer responds by purchasing the offered product, that constructed identity (or subject position) is adopted. No longer recognized as an individual subject acting for itself, the consumer is now a representative of Urban Scramble. Each time the “hailing” or interpellation occurs in the form of a sales pitch targeted at the Urban Scramble demographic, subjects become subjects by responding to the call that names them as a demographic example. The more precisely accurate and successful the targeted marketing becomes, the more sharply drawn are the contours of this subject position. And the individuals named this way perform their identity again and again.
+
+
+ If the individual rational actor is the fundamental unit of a bargaining relationship, it is inescapably problematic to note that the individual not only lacks agency, but also lacks a distinct boundary of the self separating it from its data double. A surveillance society in which shadow selves emerge and then act back upon us may be in some senses irresistible, but it deforms and misrecognizes us nonetheless. [image: End of article]
+
+ 
+ 
+
+[bookmark: author]
+About the author
+
+
+Robert M. Pallitto is Chair of the Department of Political Science and Public Affairs at Seton Hall University.
+E-mail: pallitro [at] shu [dot] edu
+
+
+ 
+
+Notes
+
+
+[bookmark: 1]1. Jonas, 2015, p. 93.
+
+
+[bookmark: 2]2. Rose, 1999, p. 324.
+
+
+[bookmark: 3]3. Rose, 1999, p. 326.
+
+
+[bookmark: 4]4. Rose, 1999, p. 329. In the years following publication of this work, the increasing use of algorithms to process biofeedback and other health-related data has resulted in a loss of control over the processing/interpretation of the data on the part of physicians as well as patients. I am indebted to one of First Monday’s anonymous reviewers for this observation.
+
+
+[bookmark: 5]5. Rose, 1999, p. 327.
+ 
+
+[bookmark: 6]6. Ibid.
+
+
+[bookmark: 7]7. DeLanda, 206, p. 12.
+
+
+[bookmark: 8]8. Allen, 2013, p. 866.
+
+
+[bookmark: 9]9. DeLanda, 1991, pp. 120, 227.
+
+
+[bookmark: 10]10. Scott, 1985, 286–287. It worth noting that the IoT, in its ever-more-efficient data capture, aspires to eliminate the very existence of a “backstage” on which the alternative transcript can be created. I am indebted to one of First Monday’s anonymous reviewers for this insight.
+
+
+[bookmark: 11]11. Or “formal equality,” in Weberian terms. Both parties are formally free to consent or not, but one party has much more control over the exchange.
+
+
+[bookmark: 12]12. See, for example, Peter Holley, “Big brother on wheels: Why your car company may know more about you than your spouse,” Washington Post, (15 January 2018), at https://www.washingtonpost.com/news/innovations/wp/2018/01/15/big-brother-on-wheels-why-your-car-company-may-know-more-about-you-than-your-spouse/, accessed 25 January 2018. Customers must consent to GPS tracking as part of automobile lease agreement.
+
+
+[bookmark: 13]13. It is worth noting that Amazon’s cashier-less stores also watch shopper via cameras hidden in the floor, so that shoppers do not know they are being watched. See Abha Bhattarai and Drew Harwell, “Inside Amazon Go: The camera-filled convenience store that watches you back,” Washington Post, (22 January 2018), at https://www.washingtonpost.com/amphtml/news/business/wp/2018/01/22/inside-amazon-go-the-camera-filled-convenience-store-that-watches-you-back/, accessed 25 January 2018.
+
+
+[bookmark: 14]14. Sadowski and Pasquale, 2015, p. 9.
+
+
+[bookmark: 15]15. Sadowski and Pasquale, 2015, p. 10.
+
+
+[bookmark: 16]16. U. S. Federal Trade Commission (FTC), 2014, p. iii.
+
+
+[bookmark: 17]17. FTC, 2014, p. iv.
+ 
+
+[bookmark: 18]18. Monahan, 2010, p. 51.
+
+
+[bookmark: 19]19. In fact, the nearly all computer hardware currently in use contains “baked-in” vulnerabilities in design, resulting from the construction of Intel chips themselves. Thus, the susceptibility to breach that Monahan describes is quite extensive. I am indebted to one of First Monday’s anonymous reviewers for this insight.
+
+
+[bookmark: 20]20. FTC, 2014, p. 68.
+ 
+
+[bookmark: 21]21. FTC, 2014, p. 61.
+
+
+[bookmark: 22]22. Nayar, 2015, p. 87.
+
+
+[bookmark: 23]23. FTC, 2014, p. 14.
+
+
+[bookmark: 24]24. Ibid.
+
+
+[bookmark: 25]25. Pasquale, 2015, p. 4.
+
+
+[bookmark: 26]26. FTC, 2014, p. 53.
+
+ 
+[bookmark: 27]27. Sadowski and Pasquale, 2015, p. 1.
+
+
+[bookmark: 28]28. Ibid.
+
+
+[bookmark: 29]29. Public objects, in Greenfield’s terminology, can be deployed in response to a public demand or a project of governance. But the firm selling the object to a city has a marketing objective, the city manager has a governance objective, while residents citizens seek public goods such as safety and convenience. Sometimes the objectives align, as when a traffic signal decreases car accidents. At the same time, residents may not support a red-light camera, which generates revenue for the city and for the vendor without producing demonstrable gains in safety. I am indebted to one of First Monday’s anonymous reviewers for this example.
+
+
+[bookmark: 30]30. Greenfield, 2017, p. 48.
+
+
+[bookmark: 31]31. De Landa, 2006; Greenfield, 2017, p. 32; Haggerty and Ericson, 2000.
+
+
+[bookmark: 32]32.De Landa, 1991, p. 114.
+
+
+[bookmark: 33]33. “Resistance is futile” is a famous line from the Star Trek series, spoken by The Borg, a cyborg species, each time they meet another life form. The Borg order them to assimilate, warning that “Resistance is futile,” before battle begins.
+
+
+[bookmark: 34]34. Sadowski and Pasquale, 2015, p. 2.
+
+
+[bookmark: 35]35. Ibid.
+
+
+[bookmark: 36]36. Sadowski and Pasquale, 2015, p. 11.
+
+
+[bookmark: 37]37. Sadowski and Pasquale, 2015, p. 3, quoting Wacquant.
+
+
+[bookmark: 38]38. Sadowski and Pasquale, 2015, p. 4.
+
+
+[bookmark: 39]39. Sadowski and Pasquale, 2015, p. 5.
+
+
+[bookmark: 40]40. Greenfield, 2013, p. 741. Gary Marx (2007) maps this ideological phenomenon through his portrayal of “Rocky Bottoms.” Bottoms is Marx’s creation. He is a fictitious security consultant who advocates surveillance technologies and scoffs at privacy-related objections to their use. Bottoms speaks in cobbled-together fragments of technocratic language that the author has taken from a range of real-life sources: popular culture references, ads for security products, and law enforcement literature, for example. Bottoms is a voice of technocratic optimism and he is critical/suspicious of those who hesitate to embrace that optimism. Bottoms’ ideological intervention supports neoliberal projects such as the “smart city.” While he is not an actually existing human, Bottoms speaks in phrases that have been uttered by actually existing people, and then recorded and reproduced. He illustrates how the work of belief-shaping vis-à-vis security-related technology is done, though it occurs outside the control of any one individual or group.
+
+
+[bookmark: 41]41. Sadowski and Pasquale, 2015, p. 5.
+
+
+[bookmark: 42]42. Sadowski and Pasquale, 2015, p. 7.
+
+
+[bookmark: 43]43. Nayar, 2015, p. 95.
+
+
+[bookmark: 44]44. Sadowski and Pasquale, 2015, p. 7.
+
+
+[bookmark: 45]45. Greenfield, 2013, p. 759.
+
+ 
+[bookmark: 46]46. Greenfield, 2013, p. 780.
+
+ 
+[bookmark: 47]47. Ibid.
+
+
+[bookmark: 48]48. Greenfield’s point is that people love to visit and live in cities because of the particularities those cities offer, whether those particularities are associated with landmarks, traditions or even memories. The language of optimization he criticizes is inapt for describing such things. It sounds strange, even nonsensical, to talk of optimizing a memory. Optimization of leisure sounds strange as well, but in a different way. Exercise as leisure can produce a measurable output, such as calories burned while cycling, but as long as people choose different leisure activities, a universal measurement will be impossible.
+   
+
+[bookmark: 49]49. Rose (2000, p. 324) echoes this point.
+ 
+
+[bookmark: 50]50. Brechin, 1999, p. 125.
+
+
+[bookmark: 51]51. Brechin, 1999, p. 17.
+
+
+[bookmark: 52]52. Brechin, 1999, p. xxiv.
+
+
+[bookmark: 53]53. On the level of public rhetoric, there is ample documentation of the ideology of Manifest Destiny with its racially inflected justifications of U.S. world dominance. In fact, San Francisco’s newspapers — the “thought shapers” — and the city leaders purveyed racism in a remarkably frank manner that contrasts sharply with the coded deployments of race language that are more familiar to us in the twenty-first century. The Overland Monthly, for instance, ran an editorial entitled “The subjugation of inferior races” (p. 136), and in 1920 Sunset ran a campaign advertisement for Senator James Phelan urging voters to “Keep California white” and “Save our state from Oriental aggression” (p. 168). It is easy to forget how, only a century ago, there was no need to resort to coded language in order to express racist sentiments.
+ 
+ 
+[bookmark: 54]54. Brechin, 1999, p. 110.
+
+
+[bookmark: 55]55. The United States Constitution contains a “Contracts Clause” (Article I, Section 10, Clause 1), which protects the right of contract against state interference. In the early years of the Republic, this clause was enforced rather strictly to grant relief to private investors aggrieved by state law. For instance, in the case of Fletcher v. Peck, 10 U.S. 87 (1810), the U.S. Supreme Court overturned the Georgia legislature’s declaration that the so-called “Yazoo lands” sales were fraudulent and therefore invalid. In ruling this way, the Court upheld the contract rights of investors against the state legislature’s attempt to combat fraud. Over time, however, the Court moved away from strict enforcement of the Contracts clause, and by the time Moses was drafting laws, the Clause was rarely invoked as a source of economic rights. Thus, Moses astutely realized that a new codification of the contract rights protection was needed in order for those rights to be reliably protected against state action. So he created one.
+
+
+[bookmark: 56]56. In his 2010 public lecture, Greenfield referenced Moses and his ability to build exclusion into the New York landscape through physical construction and legal/political technologies enabling that construction.
+
+
+[bookmark: 57]57. Sadowski and Pasquale, 2015, p. 14.
+
+
+[bookmark: 58]58. Greenfield, 2013, p. 365.
+
+
+[bookmark: 59]59. “Generic time,” according to Greenfield, is a non-specific, acontextual moment that is disconnected from historical processes and lacks any particularly with regard to the state of growth, contentment, conflict or specific practices/traditions. Just as they exist is generic time, smart cities also arise exist in a “no-place” that lacks specific topographical or structural features.
+   
+
+[bookmark: 60]60. Nayar, 2015, p. 6.
+
+
+[bookmark: 61]61. Rose, 2000, p. 324.
+
+
+[bookmark: 62]62. Marx, 2007, p. 27.
+
+
+[bookmark: 63]63. Kennedy, 2007, p. 140.
+ 
+
+[bookmark: 64]64. Scott, 1985, p. 286.
+ 
+
+[bookmark: 65]65. In the case of death camps, one could consider survival itself as a form of resistance. And of course, there were many instances of courageous, dangerous resistant acts, some of which have been preserved in memory. I am indebted to one of First Monday’s anonymous reviewers for these observations.
+ 
+
+[bookmark: 66]66. Greenfield, 2017, p. 45.
+ 
+
+[bookmark: 67]67. Jonas, 2015, p. 3.
+
+
+[bookmark: 68]68. Cole and Pontell, 2006, p. 125.
+
+
+[bookmark: 69]69. See Hillary Grigonis, 2018, “Red Hydrogen One modular smartphone is likely to ship this summer,” Digital Trends, at https://www.digitaltrends.com/mobile/red-hydrogen-one-phone-news/, accessed 25 January 2018.
+
+
+[bookmark: 70]70. Nayar, 2015, p. 150.
+
+
+[bookmark: 71]71. For a compelling explanation of this difficulty, see Mark Sagoff (2008), The economy of the Earth.
+
+
+[bookmark: 72]72. Žižek, 1989, p. 33; italics in original.
+
+
+[bookmark: 73]73. Allen, 2013, p. 848.
+
+
+[bookmark: 74]74. Allen, 2013, p. 845.
+
+
+[bookmark: 75]75. Allen, 2013, p. 855.
+
+
+[bookmark: 76]76. Allen, 2013, p. 850.
+
+
+[bookmark: 77]77. Allen, 2013, p. 864.
+
+
+[bookmark: 78]78. Allen, 2013, p. 860.
+
+
+[bookmark: 79]79. Allen, 2013, p. 865.
+
+
+[bookmark: 80]80. Natasha Singer, 2018, “Apple, In a sign of its health ambitions, adds a medical records feature for the iPhone,” New York Times (24 January), at  https://www.nytimes.com/2018/01/24/technology/Apple-iPhone-medical-records.html, accessed 25 January 2018.
+
+
+[bookmark: 81]81. FTC, 2014, p. 68.
+
+
+[bookmark: 82]82. Pasquale, 2015, p. 1.
+
+
+[bookmark: 83]83. Pasquale, 2015, p. 14.
+
+
+ 
+
+References
+
+
+Anita L. Allen, 2013. “An ethical duty to protect one’s own information privacy?” Alabama Law Review, volume 64, number 4, pp. 845–866, and at https://doi.org/10.1177/1461444809355110, accessed 23 January 2018.
+
+
+Louis Althusser, 1971. “Ideology and ideological state apparatuses (Notes towards an investigation),” In: Louis Althusser. Lenin and philosophy and other essays. Translated by Ben Brewster. New York: Monthly Review Press, pp. 127–186, and at https://www.marxists.org/reference/archive/althusser/1970/ideology.htm, accessed 23 January 2018.
+
+
+William Bogard, 1996. The simulation of surveillance: Hypercontrol in telematic societies. New York: Cambridge University Press.
+
+
+Gray Brechin, 1999. Imperial San Francisco: Urban power, earthly ruin. Berkeley: University of California Press.
+
+
+Robert Caro, 1975. The power broker: Robert Moses and the fall of New York. New York: Vintage Books.
+
+
+Simon Cole and Henry Pontell, 2006. “Don’t be low-hanging fruit: Identity theft as moral panic,” In: Torin Monahan (editor). Surveillance and security: Technological politics and power in everyday life. New York: Routledge, pp. 125–147.
+ 
+
+Manuel De Landa, 2006. A new philosophy of society: Assemblage theory and social complexity. London: Continuum.
+
+
+Manuel De Landa, 1991. War In the age of intelligent machines. New York: Zone Books.
+
+
+Adam Greenfield, 2017. Radical technologies: The design of everyday life. New York: Verso.
+
+ 
+Adam Greenfield, 2013. Against the smart city. New York: Do projects.
+
+
+Adam Greenfield, 2010.  “On public objects: Connected things And civic responsibilities In the networked city,” at https://vimeo.com/20875732, accessed 18 January 2018.
+
+
+Jeffrey Jonas, 2015. “The surveillance society and the transparent you,” In: Marc Rotenberg, Julia Horwitz and Jeramie Scott (editors). Privacy in the modern age: The search for solutions. New York: New Press, pp 93–103.
+
+
+Duncan Kennedy, 2010. “The distinction between adjudication and legislation,” In: Larry May and Jeff Brown (editors). Philosophy of law: Classic and contemporary readings. Malden, Mass.: Wiley-Blackwell, pp 135–144.
+
+
+Harvey Mansfield, 1989. Taming the prince: The ambivalence of modern executive power. New York: Free Press.
+
+
+Gary Marx, 2007. “Rocky bottoms: Techno-fallacies of an age of information,” International Political Sociology, volume 1, number 1, pp. 83–110.
+doi: https://doi.org/10.1111/j.1749-5687.2007.00006.x, accessed 23 January 2018.
+
+
+Torin Monahan, 2010. Surveillance in the time of insecurity. New Brunswick, N. J.: Rutgers University Press.
+
+
+Jay Moye, 2016. “Reinventing the fountain experience: Coca Cola Freestyle crosses 40,000 installs, continues to innovate” (15 September), at http://www.coca-colacompany.com/stories/reinventing-the-fountain-experience-coca-cola-freestyle-crosses-40-000-installs-continues-to-innovate, accessed 19 April 2017.
+
+
+Pramod Nayar, 2015. Citizenship and identity in the age of surveillance. Delhi, India: Cambridge University Press.
+
+
+Frank Pasquale, 2015. “The algorithmic self,” Hedgehog Review, volume 17 number 1, at http://www.iasc-culture.org/THR/THR_article_2015_Spring_Pasquale.php, accessed 23 January 2018.
+ 
+
+Nikolas Rose, 2000. “Government and control,” British Journal of Criminology, volume 40, number 2, pp. 321–339.
+doi: https://doi.org/10.1093/bjc/40.2.321, accessed 23 January 2018.
+
+
+Nikolas Rose, 1999. Powers of freedom: Reframing political thought. New York: Cambridge University Press.
+
+
+Christine Rosen, 2012. “The machine and the ghost,” New Republic (12 July), at https://newrepublic.com/article/104874/rosen-verbeek-technology-morality-intelligence, accessed 6 April 2017.
+
+
+Jathan Sadowski and Frank Pasquale, 2015. “The spectrum of control: A social theory of the smart city,” First Monday, volume 20, number 7, at http://firstmonday.org/article/view/5903/4660, accessed 23 January 2018.
+doi: http://dx.doi.org/10.5210/fm.v20i7.5903, accessed 23 January 2018.
+
+  
+James Scott, 1985. Weapons of the weak: Everyday forms of peasant resistance. New Haven, Conn.: Yale University Press.
+
+
+Mark Sagoff, 2008. The economy of the Earth: Philosophy, law, and the environment. Second edition. New York: Cambridge University Press.
+ 
+
+Bruce Schneier, 2015. “Fear and convenience,” In: Marc Rotenberg, Jeramie Scott and Julia Horwitz (editors). Privacy in the modern age: The search for solutions. New York: New Press, 200–203.
+
+
+U. S. Federal Trade Commission, 2014. “Data brokers: A call for transparency and accountability,” at https://www.ftc.gov/reports/data-brokers-call-transparency-accountability-report-federal-trade-commission-may-2014, accessed 1 June 2017.
+
+
+U. S. Transportation Security Administration, n. d. “TSA Pre,” https://www.tsa.gov/precheck, accessed 19 April 2017.
+
+
+Victor Valle, 2009. City of Industry: Genealogies of power in Southern California. New Brunswick, N. J.: Rutgers University Press.
+
+
+Gillian White, 2017. “A cybersecurity breach at Equifax left pretty much everyone’s financial data vulnerable,” Atlantic (7 September), at https://www.theatlantic.com/business/archive/2017/09/equifax-cybersecurity-breach/539178/, accessed 22 January 2018.
+
+
+David Murakami Wood, 2014. “Vanishing surveillance: Securityscapes and ambient government” (20 March), at  http://pactac.net/2014/03/vanishing-surveillance-securityscapes-and-ambient-government/, accessed 25 January 2018.
+
+ 
+Slavoj Žižek, 1989. The sublime object of ideology. New York: Verso.
+             
+
+ 
+
+
+
+
+Editorial history
+
+Received 23 June 2017; revised 19 January 2018; revised 22 January 2018; revised 25 January 2018; accepted 25 January 2018.
+
+
+
+
+
+Copyright © 2018, Robert M. Pallitto.
+
+
+Irresistible bargains: Navigating the surveillance society
+by Robert M. Pallitto.
+First Monday, Volume 23, Number 2 - 5 February 2018
+http://firstmonday.org/ojs/index.php/fm/article/view/7954/6643
+doi: http://dx.doi.org/10.5210/fm.v23i2.7954
+
+
+
+
+
+		
+
+		
+			
+					[image: Bookmark and Share]
+			
+			
+		
+
+	
+
+		
+
+
+
+
+
+
+
+
+A Great Cities Initiative of the University of Illinois at Chicago University Library.© First Monday, 1995-2018. ISSN 1396-0466.
+
+
+
+
+
+
+
+ 

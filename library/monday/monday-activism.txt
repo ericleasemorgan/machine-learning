@@ -1,0 +1,710 @@
+
+
+
+
+
+
+
+	[image: Page Header]
+
+
+
+
+
+
+
+
+
+	
+							
+				
+	Open Journal Systems
+
+
+	Journal Help
+
+
+			User
+	
+												
+						Username	
+	Password	
+	 Remember me
+	
+
+
+				
+
+						
+
+
+	Journal Content
+
+	
+			
+													Search 
+
+					
+								
+	
+				Search Scope
+				
+
+				All
+Authors
+Title
+Abstract
+Index terms
+Full Text
+
+
+				
+	
+
+
+	
+
+
+	
+
+
+		Browse
+		By Issue
+	By Author
+	By Title
+	Other Journals
+
+
+	
+
+
+
+
+
+
+	Font Size
+	
+
+
+
+
+
+	Current Issue
+	
+	[image: Atom logo]
+	
+
+	
+	[image: RSS2 logo]
+	
+
+	
+	[image: RSS1 logo]
+
+
+
+
+
+	Article Tools
+			
+			[image: ] Abstract
+
+		
+
+				
+			[image: ] Print this article
+		
+
+				
+			[image: ] Indexing metadata
+
+		
+
+				
+			[image: ] How to cite item
+
+		
+
+							
+			[image: ]
+			Email this article (Login required)		
+
+				
+			[image: ]
+			Email the author (Login required)		
+
+		
+
+
+
+	
+					About The Author
+			
+		
+	
+		Michelle I. Seelig
+								
+University of Miami			
+
+
+	
+Michelle Seelig received her Ph.D. from Florida State University. Seelig is Associate Professor at the University of Miami in the Department of Cinema and Interactive Media, where she teaches courses in visual communication, photography, film, interactive media, media activism, communication theory, and qualitative research. Her research focuses extensively on visual and interactive media, particularly how they change the way we communicate and interact in our everyday lives. Seelig recently published Communicating the Environment Beyond Photography, which is a modern look at how photographers visualize what is happening to people and places on a changing planet. Currently, Seelig is investigating the relationship between millennials’ online exposure to information about social causes and motives to take part in virtual and face-to-face engagement. Also, she is examining the visuals and text used in three leading skin care brands to uncover what green themes directly or indirectly communicates to consumers about a green ecology.
+
+	
+
+	
+	
+
+			
+
+			
+
+
+
+
+
+		Home
+	About
+	Login
+	Register
+	Search
+	Current
+	Archives
+	Announcements
+	SUBMISSIONS
+
+
+
+
+
+	Home >
+	Volume 23, Number 2 - 5 February 2018 >	Seelig
+
+
+
+
+
+
+			
+
+
+
+
+
+[image: First Monday]
+
+
+
+
+
+
+[image: Social activism: Engaging millennials in social causes by Michelle I. Seelig]
+
+
+
+
+
+
+[image: Abstract]
+Given that young adults consume and interact with digital technologies not only a daily basis, but extensively throughout the day, it stands to reason they are more actively involved in advocating social change particularly through social media. However, national surveys of civic engagement indicate civic and community engagement drops-off after high school and while millennials attend college. While past research has compiled evidence about young adults’ social media use and some social media behaviors, limited literature has investigated the audience’s perspective of social activism campaigns through social media. Research also has focused on the adoption of new technologies based on causal linkages between perceived ease of use and perceived usefulness, yet few studies have considered how these dynamics relate to millennials engagement with others using social media for social good. This project builds on past research to investigate the relationship between millennials’ online exposure to information about social causes and motives to take part in virtual and face-to-face engagement. Findings suggest that while digital media environments immerse participants in mediated experiences that merge both the off-line and online worlds, and has a strong effect on person’s influence to do something, unclear is the extent to which social media and social interactions influence millennials willingness to engage both online and in-person. Even so, the results of this study indicate millennials are open to using social media for social causes, and perhaps increasing engagement off-line too.
+
+
+Contents
+
+Introduction
+
+Literature review
+
+Research questions
+
+Method
+
+Results
+
+Discussion
+
+Conclusion
+
+
+ 
+
+ 
+
+[bookmark: p1]Introduction
+
+
+There is general agreement among scholars that social media creates multiple opportunities for engagement and outreach for social causes with an informed citizenry (Gal, et al., 2016; Gervais, 2015; Obar, et al., 2012). This is particularly true as research indicates all sorts of people, especially millennials, the age group that grew up on the Internet and other digital media, are keenly aware of emerging technologies that enable citizens to engage, mobilize, and participate in public life as well as ease and self-efficacy that allows them to do so (Ballard, 2014: Delli Carpini, 2000; Jones, 2006; Jones and Mitchell, 2016; National Conference on Citizenship, 2013; Duggan, et al., 2015). Armed with this knowledge, non-profit organizations (NPOs) have increased their presence on social media as a means for people to come together to solve common problems, implements solutions and new forms of engagement intrinsically linked to the growing power of technology (Lovejoy and Saxton, 2012; Özdemir, 2012; Saxton and Waters, 2014). However, it is not clear whether posting content on the Web, liking, sharing, tweeting, retweeting, and pinning translates to engagement (Bobkowski and Smith, 2013; Boulianne, 2009; Nah and Saxton, 2012). The purpose of the current study is to examine ways millennials use social media to engage in social causes online and in-person. Specifically, this research investigates the relationship between millennials online exposure to information about social causes and motives to take part in virtual and face-to-face actions that support an NPO’s cause.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p2]Literature review
+
+
+In the past, civic engagement consisted of face-to-face activities and practices such as helping a neighbor, volunteering for a local community group, community problem solving, to fundraising for a charity, and participating in a cause-related event (e.g., Relay for Life, Heart Walk) (Adler and Goggin, 2005; Ballard, 2014; Jones, 2006). Nowadays, engagement includes these traditional activities as well as digital engagement, which consists of promoting community projects online, distributing virtual petitions, sharing resources, fundraising, and volunteer matching, and coordinating people online to take part off-line such as boycotts, protests, and sit-ins (Boulianne, 2009; Haro-de-Rosario, et al., 2018; Obar, et al., 2012; Skoric, et al., 2016). Past research also found that NPOs are using social media for a two-way dialogue with supporters and are building a foundation for change (Bakardjieva, 2011; Nah and Saxton, 2012; Özdemir, 2012). For example, Cogburn and Espinoza-Vasquez’s (2011) qualitative case study of Obama’s 2008 presidential campaign found that the campaign successfully integrated digital technologies to increased civic participation, which included volunteering, taking part in public service, and use of social media to enhance the public’s involvement in the political process. They also found social media was a cost-effective way to build social capital. Moreover, many of the digital activities initiated in the campaign continue today in Obama’s administration such as using social media to generate awareness and discussion of social and policy issues, as well as raise money and encourage public participation. Özdemir (2012) also found Greenpeace successfully took advantage of Facebook and Twitter in their Mediterranean advocacy campaign. Greenpeace did not just generate awareness about specific leading food brands in Turkey using genetically engineered organisms in their foods; they provided a clear “call to action” asking the public to take action and put pressure on companies using genetically engineered organisms in food production. The campaign was not only successful; Greenpeace achieved its goal in a shorter period than initially anticipated. This is attributed to Greenpeace’s ability to capitalize on social media’s function for dialogue, sharing information with interested supporters, and coordination of efforts across multiple digital platforms to effectively reach their goals.
+
+
+In another study, Auger (2013) compared social media use of advocacy groups — Planned Parenthood versus National Right to Life Committee, and Brady Campaign versus National Rifle Association — that have opposing points of view for two highly controversial issues (pro-life versus pro-choice and gun control versus pro-guns). Auger found social media heavily used to promote their point of view, however content mostly consisted of providing information. Advocacy groups also differed using social media to create a two-way dialogue with supporters. Both the Brady Campaign and National Rifle Association started a two-way dialogue with stakeholders by acknowledging supporters through retweets, reposts, and giving thanks and recognition to supporters. This was distinctly different from Planned Parenthood and the National Right to Life Committee that limited interaction to one-way communication. Content also varied among the advocacy groups and across social media outlets. For example, facts and figures, as well as policy and legislation, were prominently featured on Facebook more than Twitter, while promotion of local events, thanks, recognition, and responses occurred more often on Twitter, and more empathetic content appeared on YouTube. Despite the opportunities available for engagement and advocacy, past research found many NPOs used the Web and social media for distributing quick bits of information, and did not leverage social media as the powerful social mobilization tool as envisioned by earlier research (Gervais, 2015; Min and Kim, 2012; Sommerfeldt, et al., 2012). Moreover, engagement varied due to size of organization and resources available.
+
+
+Research has uncovered that young adults use Facebook and Twitter to share content and make others aware of social issues, but limited follow through “to do” anything (Bobkowski and Smith, 2013; Phillips, 2013; Tatarchevskiy, 2011). In a study by Lovejoy and Saxton (2012), they found that while more continuous dialogue is occurring on Twitter, dialogue only is part of the communication, not the main purpose for communicating with stakeholders. They found Twitter used more for informative and promotional communication such as tweets about current activities and events, as
+well as soliciting supporters to donate money. In another study, Meyer and Bray (2013) found that while young adults find out about social issues through Facebook and Twitter, they rarely take part in off-line endeavors. Also, young adults are constantly inundated with messages about social causes, which made them feel inhibited and therefore, less likely to engage in activism. However, many participants did report they were more inclined to take part in some form of digital activism when a friend posted content or sent a request, thus reinforcing the cliché of participating to join in with others. Furthermore, studies by Phillips (2013) and Gal, et al. (2016), found YouTube effective to share experiences related to LGBTQ harassment and bullying. As part of the It Gets Better Project, people uploaded videos that portrayed personal bullying and harassment experiences, and others uploaded videos to show their support for bullied LGBTQ youth. The result was that both amateurs and professionals shared their personal experiences, which generated awareness and provided resources to seek help, as well as allows viewers to comment on videos. However, unknown is the extent dialog occurs, and no mention how the conversation has moved beyond a one-way distribution of content.
+
+
+Theoretical background
+
+
+Based on the above review, it is evident new technologies are revolutionizing the ways people engage in activism in local and global communities. Given that young adults are consumed with digital technologies not only a daily basis, but extensively throughout the day, it stands to reason they are more actively involved in advocating social change particularly through social media. However, national surveys of civic engagement found college students’ civic engagement drops-off after high school (National Conference on Citizenship, 2013). These surveys compiled evidence about social media use and some social media behaviors, but do not address perceptions about or motivations to use social media to advocate for social causes. Some studies have examined NPOs use of the Web and social media, but this research typically consisted of content analyses and case studies of NPOs and social movement Web sites and social media activity, along with interviews with activists and practitioners (Lovejoy and Saxton, 2012; Nah and Saxton, 2012; Obar, et al., 2012; Sommerfeldt, et al., 2012; Stein, 2009). Limited literature has investigated the audience’s perspective of social activism campaigns through social media. Thus, challenges remain eliciting millennials participation in social activism, both online and off-line.
+
+
+Previous research found that Technology Acceptance Model (TAM) and Unified Theory of Acceptance and Use of Technology (UTAUT) offers a valuable and relevant framework to predict and gain insight into an individual’s intention and future behavior based on individual’s attitudes, intentions and actual social media use specifically related to behavior and willingness to take part in outreach for social causes (Davis, et al., 1989; Venkatesh, et al., 2003; Wang, et al., 2012). TAM is an adaption of the Theory of Reasoned Action (TRA) that examines an individual’s perception to perform a specific behavior such as using social media to engage with others in online communities (Ajzen and Fishbein, 1980; Davis, et al., 1989; Sheppard, et al., 1988). Direct determinants of intention to use technology include performance expectancy, effort expectancy, social influence, as well as context, user experience, voluntariness (willingness to use technology), and demographic characteristics such as gender and age were other factors that lead to use of technology. Self-efficacy also was found to have a strong direct impact on ease of use influencing intention to use technology (Gong, et al., 2004; Kim and Glassman, 2013; Wang, et al., 2012). Research further synthesized competing models on user acceptance of technology — TRA, TAM, Motivational Model, Theory of Planned Behavior (TPB), combination of TAM and TPB, innovation diffusion theory, and social cognitive theory — to present a unified model of TAM and UTAUT (Borrero, et al., 2014; Chung, et al., 2010; Kwon and Wen, 2010; Venkatesh, et al., 2003; Wang and Chen, 2012). The literature suggests that UTAUT is a useful tool to predict motivation for and intention to use a new technology.
+
+
+Recent research has started to compile evidence about social media use and some social media behaviors (Borrero, et al., 2014; Chung, et al., 2010; Kwon and Wen, 2010). Although some research has investigated the audience’s perspective of social activism campaigns through social media, few address perceptions about or motivations to use social media to advocate for social causes (Wang, et al., 2012; Warren, et al., 2014; Weinstein, 2014). Evidence shows the number of posts, likes, followers, tweets, retweets, or shares informs the reach of NPO messages, but missing is a meaningful understanding how online engagement translates into action, both online and off-line. Research also suggests that digital media environments immerse participants in mediated experiences that merge both the off-line and online worlds and has a strong effect on person’s influence to do something (Kwon and Wen, 2010; Mano, 2014). This research, therefore, is an innovative extension that considers if millennials online exposure to information about social causes and use of social media increases their willingness to take part in social causes both online and in-person.
+ 
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p3]Research questions
+
+
+The investigation attempts to answer the following broader questions:
+
+
+	RQ1: In what ways do millennials participate in online engagement of social causes?
+
+RQ2: In what ways do millennials take part in social causes off-line?
+
+RQ3: What are millennials’ motivations for using social media related to social causes?
+
+RQ4: To what extent is social influence related to social media use?
+
+RQ5: What are millennials perceived barriers to willingness to take part in social causes off-line?
+
+
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p4]Method
+
+
+An online survey was constructed to address the above hypotheses and research questions using Qualtrics software. A pilot study was administered in spring 2016 to a convenience sample of undergraduates at a midsize southern university in the U. S. Students in the School of Communication were recruited from communication courses in which they were enrolled and pre-registered in the recruitment system that grants students extra credit for research participation. Students received an e-mail message containing a hyperlink to the online survey, participation was voluntary and anonymous. The entire survey took approximately 15–20 minutes to complete. After the pilot study was completed, the questionnaire was revised for ambiguous items as well as to check phrasing and clarity of items. Then, students were recruited for participation via the Office of Academic Affairs.
+
+
+A six-part questionnaire was designed using Qualtrics survey software and includes items adapted from TAM and UTAUT to measure the likelihood of using social media for outreach and engagement with millennials. The first section asks millennials to indicate their actual social media use. Section two includes items that assess online and off-line engagement of social causes such as “Signed a petition” and items measuring Internet activism such as “Post links about social issues” and “Invite people to attend an event related to a social issue” (Howard, et al., 2007). This section also includes an open item that asks respondents if any social media campaign has motivated participation in face-to-face engagement activities, if so, what types of activities. The third section measures perceptions and attitudes held by millennials about using social media for social action such as “I can use social media as an effective way of connecting with others” and “I can write posts that other people will read and be interested in” (Gong, et al., 2004; Kim and Glassman, 2013; Wang, et al., 2012; Warren, et al., 2014). The fourth section measures millennials extrinsic motivations and social influence for using social media, which is operationalized with the same items as perceived usefulness and ease of use based on TAM, such as “Social media is useful for connecting with others”, “Social media is useful for interacting with others,” and “Most people who are important to me think that I should use social media” (Davis, et al., 1989; Venkatesh, et al., 2003; Wang, et al., 2012). Section five contains items that ask respondents about participating in civic engagement both in high school and while attending university, as well as perceived barriers and willingness to participate in-person. For the national survey, this item will ask level of participation after attending high school and/or while attending college. Behavioral intention to participate measured the likelihood to take part in civic engagement in the near future, both online and off-line. Section six collects demographic information.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p5]Results
+
+
+The pilot survey was administered online to a convenience sample of undergraduate communication students at a midsize southeastern university, which resulted in a total of 23 valid responses. Demographic variables indicated that 78 percent of respondents were women, and 21 percent were men, aged 18 to 24. The racial/ethnic breakdown of the respondents was 57 percent Caucasian, 22 percent Black or African-American, 13 percent Hispanic or Latino, four percent Asian-American or Pacific Islander, and four percent other. The majority (83 percent) of respondents were U.S. students. The largest group of respondents were freshman (35 percent), followed by junior (26 percent), then sophomore (22 percent), and graduate (13 percent). Due to human error, “senior” was omitted in this pilot testing.
+
+
+ 
+
+[bookmark: tab1]
+	Table 1: Social media activities.
+Note: Percentages reported are rounded.
+	 	No	Yes
+	Post links about social issues.	27%	73%
+	Post photos/videos/images of social issues.	37%	63%
+	Post news about social issues.	32%	68%
+	Plan activities that address social issues.	50%	50%
+	Invite people to an event related to a social issue.	46%	54%
+	Promote events about social issues.	41%	59%
+	“Like” or “Favorite” someone else’s link, photo, or status update.	9%	91%
+	Comment on someone else’s link, photo, or status update.	9%	91%
+	Express an opinion about a social issue.	27%	73%
+	Click on a link someone else shared.	5%	95%
+	Signed a petition.	27%	73%
+	Distributed a petition for others to sign.	64%	36%
+	Donated money to an organization.	41%	59%
+	Formed a group of like-minded people.	41%	59%
+
+
+ 
+
+
+Research question one sought to determine in what ways do millennials participate in online engagement of social causes. Table 1 summarizes the variety of ways millennials take part in social causes online. Results show that the top social media activities related to engagement include clicking on a link someone else shared (95 percent), “Like” or “Favorite” someone else’s link, photo, or status update (91 percent), and comment on someone else’s link, photo, or status update (91 percent). Research question two looked at the ways millennials take part in social causes off-line. As indicated in Table 2, millennials take part in several social causes in person such as worked to raise money for a charity or social cause (74 percent), volunteer work to help groups like the poor, homeless, or elderly (74 percent), volunteer work to benefit their community (74 percent), worked on solving a problem in my community (74 percent), and participated in a service project or service club meeting (74 percent).
+
+
+ 
+
+[bookmark: tab2]
+	Table 2: Traditional engagement activities.
+Note: Percentages reported are rounded.
+	 	No	Yes
+	Attended a social issues related event.	44%	56%
+	Signed a petition about a social issue.	48%	52%
+	Visited the Web site of a charity or social cause.	9%	91%
+	Contributed money to a charity or social cause.	39%	61%
+	Worked to raise money for a charity or social cause.	26%	74%
+	Did volunteer work to help groups like the poor, homeless, or elderly.	26%	74%
+	Did volunteer work to benefit my community.	26%	74%
+	Worked on solving a problem in my community.	26%	74%
+	Participated in a service project or service club meeting.	26%	74%
+	Attended an organized protest.	70%	30%
+	Made a speech about a social issue.	70%	30%
+	Participated in a walk, run or ride for a cause.	48%	52%
+
+
+ 
+
+
+Research question three examined what are millennials’ motivations for using social media to advocate for social causes (see Table 3). Descriptive data revealed mixed results regarding millennials’ motivations for using social media regarding social issues. For example, nearly all respondents (91 percent) indicated social media offers multiple ways for people to participate, the majority of respondents reported that online activism is easier than off-line activism (70 percent), and they were more aware of protests and other social causes because of social media (70 percent). However, less than half of the respondents (35 percent) agreed that online activism translates into activism off-line, or that engaging in social issues is a must for every citizen if we want to reduce social problems for the benefit of our nation (39 percent).
+
+
+ 
+
+[bookmark: tab3]
+	Table 3: Motivations.
+Notes: *Disagree and strongly disagree reported as one item; **Agree and strongly agree reported as one item.
+	 	Disagree*	Agree**
+	Activities in my community are an important part in my life.	13%	61%
+	Engaging in social issues improves my relationship with the community.	17%	48%
+	Social media offer multiple ways for people to participate.	9%	91%
+	Online activism appeals to me more than off-line activism.	22%	52%
+	Social media contributes to dialogue on social issues that interest me.	22%	65%
+	My position in my community is very important to me.	17%	44%
+	I am the type of person who likes to engage in my community.	26%	61%
+	Social media allow people to engage in whatever ways they feel most comfortable.	4%	74%
+	Online activism is easier than off-line activism.	9%	70%
+	Social media provides a pleasant environment for social interactions.	26%	52%
+	Social media allow you to write your opinions about the things that others say.	4%	83%
+	Social media provides a sense of belonging with other people like me.	17%	57%
+	Becoming acquainted with a social issue makes me feel like a better citizen.	13%	43%
+	I am more aware of protests and other social causes because of social media.	17%	70%
+	Becoming acquainted with a social issue makes a difference in my life.	9%	52%
+	Activism on social media translates into activism off-line.	35%	35%
+	Engaging in social issues is a must for every citizen if we want to reduce social problems for the benefit of our nation.	30%	39%
+
+
+ 
+
+
+Research question four sought to determine the extent social influence was related to social media use. Table 4 summarizes millennial perceptions of social influence related to social media use. As indicated, there is a relationship between social influence and millennial use of social media.
+
+
+ 
+
+[bookmark: tab4]
+	Table 4: Social influence and social media use.
+Notes: *Disagree and strongly disagree reported as one item; **Agree and strongly agree reported as one item.
+	 	Disagree*	Agree**
+	Social media is useful for sharing information with others.	0%	95%
+	Social media is useful for information acquisition and exchange.	0%	87%
+	Social media is useful for self-expression.	0%	87%
+	Social media is useful for meeting people.	9%	68%
+	Social media is useful for entertainment.	0%	95%
+	Social media is useful for interacting with others.	0%	95%
+	Social media is useful for connecting with others.	0%	96%
+	It is easy for me to participate on social media.	0%	91%
+	It is simple for me to navigate social media.	0%	91%
+	Finding my way around social media is not difficult.	5%	91%
+	I find social media easy to use.	0%	96%
+	Using social media does not require a lot of my mental effort.	9%	87%
+	Most people who are important to me think that I should use social media.	5%	59%
+	Most people who are important to me think that using social media is a good idea.	5%	55%
+	The people who I listen to could influence me to use social media.	5%	73%
+	I build and maintain relationships through social media.	5%	83%
+	When using social media, I feel like I actually meet other people.	18%	55%
+	I feel that using social media creates a new world.	5%	68%
+	While engaged with social media, I feel like I am part of a different society.	18%	50%
+	While engaged with social media, the social media world is more real or present to me compared to the “real world”.	50%	32%
+
+
+ 
+
+
+Research question five sought to address what are millennials perceived barriers to willingness to take part in social causes off-line (see Table 5). Several items compared millennials’ perceived barriers and motivations to volunteer in high school versus in college. While in high school, half of the respondents (52 percent) indicated they were usually too busy with schoolwork to volunteer, compared to 65 percent in college that indicated their current amount of schoolwork prevents them from doing volunteer work. Between high school and college, there was a decrease in the number of students who reported they volunteer because their friends do. Interesting, of the respondents who indicated they are interested in doing volunteer work in college, 30 percent said they do not know how. When respondents were asked if they had engaged in social causes using social media “often” or “very frequently” during the last 12 months, 57 percent said they felt more engaged face-to-face about social issues since beginning college. The same percentage indicated they felt more engaged through social media since beginning college.
+
+
+ 
+
+[bookmark: tab5]
+	Table 5: High school vs. college engagement.
+	 	Back in high school ...	Since beginning college ...
+	Usually too busy with schoolwork to volunteer.	52%	65%
+	Usually too busy working a job to volunteer.	39%	44%
+	I did/do not know how to become active in volunteer work.	35%	39%
+	I was/am not interested in doing volunteer work at that time.	26%	30%
+	I had/have too many other extracurriculars to volunteer.	39%	48%
+	Few or none of my friends do volunteer work.	30%	13%
+	Lack transportation to volunteer events.	44%	57%
+	I completed volunteer hours as part of a high school or class graduation requirement.	83%	22%
+
+
+ 
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p6]Discussion
+
+
+Broadly, this research considered how and in what ways engagement has progressed on account of social media. Results from the pilot study suggest that millennials certainly use social media, and sometimes use social media to engage in social causes. In general, social media was considered useful in connecting with others, expressing oneself, sharing information with others, and building relationships, as supported by the literature (Davis, et al., 1989; Wang, et al., 2012; Yang and Wang, 2015). Several items addressed social media as a virtual reality through telepresence or transportation. Even though research suggests that digital media environments immerse participants in mediated experiences that merge both the off-line and online worlds, and has a strong effect on person’s influence to do something, the results of this research were mixed (Kwon and Wen, 2010; Mano, 2014). Nearly half of the respondents (45 percent) disagreed that while engaged with social media that the social media world is more real or present compared to the “real world.” Kwon and Wen (2010) examined the effect of telepresence on social network use, finding telepresence and altruism indirectly affect perceived usefulness through perceived ease of use and perceived encouragement. Thus, more research is necessary to determine the relationship of telepresence in mediating social media use for social causes.
+
+
+Respondents indicated engaging in social issues online, the level of participation varied leaning toward lower levels of participation. Although respondents indicated online activism appealed to them more than off-line activism, a limited number of respondents frequently share news related to social causes, while other more overt forms of activism (such as planning a protest or distributing a digital petition) were not shown to be popular activities on social media. This is supported in the literature, as increased awareness of issues occurs on social media but not as much action (Auger, 2013; Meyer and Bray, 2013). Yet, those who indicated online activism appealed to them more than off-line felt more engaged in social causes online now in college than high school. However, due to the small sample for the pilot study, it is too soon to determine if an evolution of what it means to be civically engaged is occurring.
+
+
+Several limitations are important to point out. Because of limited time, the survey’s sample size was small (n=23). Also, the survey gathered responses from more women than men. This may have been a result of a gender bias in the survey’s pool of possible participants, or that women self-selected the survey more often than men. Due to convenience, the study drew from an undergraduate student population at one university. Other universities in the southeastern-area, as well as nationally were not included. Moreover, no non-student millennials were included, thus excluding perspectives from young adults who are not attending university. Lastly, due to a typo in the survey, one possible multiple choice response was excluded. Given limitations in testing the validity and reliability of the scales utilized, time, and sample size, the next stage of this research hopes to address these issues more specifically. For these reasons, expanding this research to include a national survey of millennials from all educational backgrounds to answer fully the research questions and test the scales used in this research is now underway.
+
+
+ 
+
+[image: ++++++++++]
+
+[bookmark: p7]Conclusion
+
+
+Millennial use of social media for social causes is a relevant and timely topic in this age of digital connectedness. Social media are valuable communication outlets to mobilize support and resources to bring true community change. In consequence of the small pilot study, unclear is the extent to which social media and social interactions influence millennial willingness to engage both online and in-person. Even so, the results of the current pilot study suggest millennials are open to using social media for social causes, and perhaps increasing engagement off-line too. Thus, continuation of this research will glean insight how to improve the level of participation of young adults. This includes new ways to deepen engagement among millennials that translates into action, both online and face-to-face. When it comes to off-line participation, millennials encounter barriers such as lack of time and know-how. Friends and peer influence are important online, but more research will reveal if social interactions hold less sway over their involvement in face-to-face volunteering. Perceived use and usefulness of social media is another key ingredient to understanding social activism online, as well as social media norms unique to each platform. Furthermore, as we gain more insight about the role of social media in motivating millennial participation in social causes NPOs will be better equipped to leverage social media as the powerful social mobilization tool that it is. Resulting from this, as we gain a clearer picture of what activism looks like to young millennials, non-profits and advocacy groups can engage this group in more opportunities for civic engagement. [image: End of article]
+
+ 
+ 
+
+[bookmark: author]
+About the author
+
+
+Michelle I. Seelig is Associate Professor in the Department of Cinema and Interactive Media at the University of Miami in Coral Gables, Fla.
+E-mail: mseelig [at] miami [dot] edu
+
+
+ 
+
+References
+
+
+Richard P. Adler and Judy Goggin, 2005. “What do we mean by ‘civic engagement’?” Journal of Transformative Education, volume 3, number 3, pp. 236–253.
+doi: https://doi.org/10.1177/1541344605276792, accessed 23 January 2018.
+
+
+Giselle A. Auger, 2013. “Fostering democracy through social media: Evaluating diametrically opposed nonprofit advocacy organizations’ use of Facebook, Twitter, and YouTube,” Public Relations Review, volume 39, number 4, pp. 369–376.
+doi: https://doi.org/10.1016/j.pubrev.2013.07.013, accessed 23 January 2018.
+
+
+Icek Ajzen and Martin Fishbein, 1980. Understanding attitudes and predicting social behavior. Englewood Cliffs, N. J.: Prentice-Hall.
+
+
+Maria Bakardjieva, 2011. “Reconfiguring the mediapolis: New media and civic agency,” New Media & Society, volume 14, number 1, pp. 63–79.
+doi: https://doi.org/10.1177/1461444811410398, accessed 23 January 2018.
+
+
+Parissa J. Ballard, 2014. “What motivates youth civic involvement?” Journal of Adolescent Research, volume 29, number 4, pp. 439–463.
+doi: https://doi.org/10.1177/0743558413520224, accessed 23 January 2018.
+
+
+Piotr Bobkowski and Jessica Smith, 2013. “Social media divide: Characteristics of emerging adults who do not use social network websites,” Media, Culture & Society, volume 35, number 6, pp. 771–781.
+doi: https://doi.org/10.1177/0163443713491517, accessed 23 January 2018.
+
+
+Juan D. Borrero, Shumaila Y. Yousafzai, Uzma Javed, and Kelly L. Page, 2014. “Expressive participation in Internet social movements: Testing the moderating effect of technology readiness and sex on student SNS use,” Computers in Human Behavior, volume 30, pp. 39–49.
+doi: https://doi.org/10.1016/j.chb.2013.07.032, accessed 23 January 2018.
+
+
+Shelley Boulianne, 2009. “Does Internet use affect engagement? a meta-analysis of research,” Political Communication, volume 26, number 2, pp. 193–211.
+doi: https://doi.org/10.1080/10584600902854363, accessed 23 January 2018.
+
+
+Jae Eun Chung, Namkee Park, Hua Wang, Janet Fulk, and Margaret McLaughlin, 2010. “Age differences in perceptions of online community participation among non-users: An extension of the Technology Acceptance Model,” Computers in Human Behavior, volume 26, number 6, pp. 1,674–1,684.
+doi: https://doi.org/10.1016/j.chb.2010.06.016, accessed 23 January 2018.
+
+
+Derrick L. Cogburn and Fatima K. Espinoza-Vasquez, 2011. “From networked nominee to networked nation: Examining the impact of Web 2.0 and social media on political participation and civic engagement in the 2008 Obama campaign,” Journal of Political Marketing, volume 10, numbers 1–2, pp. 189–213.
+doi: https://doi.org/10.1080/15377857.2011.540224, accessed 23 January 2018.
+
+
+Fred D. Davis, Richard P. Bagozzi, and Paul R. Warshaw, 1989. “User acceptance of computer technology: A comparison of two theoretical models,” Management Science, volume 35, number 8, pp. 982–1,003.
+doi: https://doi.org/10.1287/mnsc.35.8.982, accessed 23 January 2018.
+
+
+Michael X. Delli Carpini, 2000. “Gen.com: Youth, civic engagement, and the new information environment,” Political Communication, volume 17, number 4, pp. 341–349.
+doi: https://doi.org/10.1080/10584600050178942, accessed 23 January 2018.
+
+
+Maeve Duggan, Nicole B. Ellison, Cliff Lampe, Amanda Lenhart, and Mary Madden, 2015. “Social media update 2014,” Pew Research Center (9 January), at http://www.pewinternet.org/2015/01/09/social-media-update-2014, accessed 27 January 2015.
+
+
+Noam Gal, Limor Shifman, and Zohar Kampf, 2016. “‘It gets better’: Internet memes and the construction of collective identity,” New Media & Society, volume 18, number 8, pp. 1,698–1,714.
+doi: https://doi.org/10.1177/1461444814568784, accessed 23 January 2018.
+
+
+Elizabeth A. Gervais, 2015. “Social network websites as information channels for the US Social Forum,” Media, Culture & Society, volume 37, number 4, pp. 547–565.
+doi: https://doi.org/10.1177/0163443714566899, accessed 23 January 2018.
+
+
+Min Gong, Yan Xu, and Yuecheng Yu, 2004. “An enhanced technology acceptance model for Web-based learning,” Journal of Information Systems Education, volume 15, number 4, pp. 365–374.
+
+
+Arturo Haro-de-Rosario, Alejandro Sáez-Martín, and María del Carmen Caba-Pérez, 2018. “Using social media to enhance citizen engagement with local government: Twitter or Facebook?” New Media & Society, volume 20, number 1, pp. 29–49.
+doi: https://doi.org/10.1177/1461444816645652, accessed 23 January 2018.
+
+
+Marc M. Howard, James L. Gibson, and Dietlind Stolle, 2007. “United States citizenship, involvement, democracy (CID) survey, 2006,” Georgetown University, Center for Democracy and Civil Society (CDACS), and at https://www.icpsr.umich.edu/icpsrweb/civicleads/studies/4607, accessed 23 January 2018.
+
+
+Keely S. Jones, 2006. “Giving and volunteering as distinct forms of civic engagement: The role of community integration and personal resources in formal helping,” Nonprofit and Voluntary Sector Quarterly, volume 35, number 2, pp. 249–266.
+doi: https://doi.org/10.1177/0899764006287464, accessed 23 January 2018.
+
+
+Lisa M. Jones and Kimberly J. Mitchell, 2016. “Defining and measuring youth digital citizenship,” New Media & Society, volume 18, number 9, pp. 2,063–2,079.
+doi: https://doi.org/10.1177/1461444815577797, accessed 23 January 2018.
+
+
+Yunhwan Kim and Michael Glassman, 2013. “Beyond search and communication: Development and validation of the Internet Self-efficacy Scale (ISS),” Computers in Human Behavior, volume 29, number 4, pp. 1,421–1,429.
+doi: http://dx.doi.org/10.1016/j.chb.2013.01.018, accessed 23 January 2018.
+
+
+Ohbyung Kwon and Yixing Wen, 2010. “An empirical study of the factors affecting social network service use,” Computers in Human Behavior, volume 26, number 2, pp. 254–263.
+doi: https://doi.org/10.1016/j.chb.2009.04.011, accessed 23 January 2018.
+
+
+Kristen Lovejoy and Gregory D. Saxton, 2012. “Information, community, and action: How nonprofit organizations use social media,” Journal of Computer-Mediated Communication, volume 17, number 3, pp. 337–353.
+doi: https://doi.org/10.1111/j.1083-6101.2012.01576.x, accessed 23 January 2018.
+
+
+Rita S. Mano, 2014. “Social media, social causes, giving behavior and money contributions,” Computers in Human Behavior, volume 31, pp. 287–293.
+doi: https://doi.org/10.1016/j.chb.2013.10.044, accessed 23 January 2018.
+
+
+Michaela D. E. Meyer and Connie Workman Bray, 2013. “Emerging adult usage of social networks as sites of activism: A critical examination of the TOMS and TWLOHA movements,” Ohio Communication Journal, volume 51, pp. 53–77.
+
+
+Seong-Jae Min and Young Mie Kim, 2012. “Choosing the right media for mobilization: issue advocacy groups’ media niches in the competitive media environment,” Mass Communication and Society, volume 15, number 2, pp. 225–244.
+doi: https://doi.org/10.1080/15205436.2011.568316, accessed 23 January 2018.
+
+
+Seungahn Nah and Gregory D. Saxton, 2013. “Modeling the adoption and use of social media by nonprofit organizations,” New Media & Society, volume 15, number 2, pp. 294-313.
+doi: https://doi.org/10.1177/1461444812452411, accessed 23 January 2018.
+
+
+National Conference on Citizenship (NCoC), 2013. “‘Millennials’ play a central role in our nation’s civic health, but who are they? Major new study provides in-depth insight on diverse engagement of a generation” (6 February), at https://civicyouth.org/"millennials"-play-a-central-role-in-our-nation's-civic-health-but-who-are-they/, accessed 2 October 2015.
+
+
+Jonathan A. Obar, Paul Zube, and Clifford Lampe, 2012. “Advocacy 2.0: An analysis of how advocacy groups in the United States perceive and use social media as tools for facilitating civic engagement and collective action,” Journal of Information Policy, volume 2, pp. 1–25.
+doi: https://doi.org/10.5325/jinfopoli.2.2012.0001, accessed 23 January 2018.
+
+
+B. Pinar Özdemir, 2012. “Social media as a tool for online advocacy campaigns: Greenpeace Mediterranean’s antigenetically engineered food campaign in Turkey,” Global Media Journal — Canadian Edition, volume 5, number 2, pp. 23–39, and at http://www.gmj.uottawa.ca/1202/v5i2_ozdemir.pdf, accessed 23 January 2018.
+
+
+Laurie M. Phillips, 2013. “Offering hope and making attributions through YouTube: An exploratory ethnographic content analysis of the social change-oriented ‘It Gets Better Project’,” Journal of Social Media in Society, volume 2, number 1, at http://thejsms.org/index.php/TSMRI/article/view/11, accessed 23 January 2018.
+
+
+Gregory D. Saxton and Richard D. Waters, 2014. “What do stakeholders like on Facebook? Examining public reactions to nonprofit organizations’ informational, promotional, and community-building messages,” Journal of Public Relations Research, volume 26, number 3, pp. 280–299.
+doi: https://doi.org/10.1080/1062726X.2014.908721, accessed 23 January 2018.
+
+
+Blair Sheppard, Jon Hartwick, and Paul R. Warshaw, 1988. “The theory of reasoned action: A meta-analysis of past research with recommendations for modifications and future research,” Journal of Consumer Research, volume 15, number 3, pp. 325–343.
+doi: https://doi.org/10.1086/209170, accessed 23 January 2018.
+
+
+Marko M. Skoric, Qinfeng Zhu, Debbie Goh, and Natalie Pang, 2016. “Social media and citizen engagement: A meta-analytic review,” New Media & Society, volume 18, number 9, pp. 1,817–1,839.
+doi: https://doi.org/10.1177/1461444815616221, accessed 23 January 2018.
+
+
+Erich J. Sommerfeldt, Michael L. Kent, and Maureen Taylor, 2012. “Activist practitioner perspectives of website public relations: Why aren’t activist websites fulfilling the dialogic promise?” Public Relations Review, volume 38, number 2, pp. 303–312.
+doi: https://doi.org/10.1016/j.pubrev.2012.01.001, accessed 23 January 2018.
+
+
+Laura Stein, 2009. “Social movement Web use in theory and practice: A content analysis of U.S. movement websites,” New Media & Society, volume 11, number 5, pp. 749–771.
+doi: https://doi.org/10.1177/1461444809105350, accessed 23 January 2018.
+
+
+Tatiana Tatarchevskiy, 2011. “The ‘popular’ culture of Internet activism,” New Media & Society, volume 13, number 2, pp. 297–313.
+doi: https://doi.org/10.1177/1461444810372785, accessed 23 January 2018.
+
+
+Viswanath Venkatesh, Michael G. Morris, Gordon B. Davis, and Fred D. Davis, 2003. “User acceptance of information technology: Toward a unified view,” MIS Quarterly, volume 27, number 3, pp. 425–478.
+doi: https://doi.org/10.2307/30036540, accessed 23 January 2018.
+
+
+Edward Shih-Tse Wang and Lily Shui-Lien Chen, 2012. “Forming relationship commitments to online communities: The role of social motivations,” Computers in Human Behavior, volume 28, number 2, pp. 570–575.
+doi: https://doi.org/10.1016/j.chb.2011.11.002, accessed 23 January 2018.
+
+
+Hua Wang, Jae Eun Chung, Namkee Park, Margaret McLaughlin, and Janet Fulk, 2012. “Understanding online community participation: A technology acceptance perspective,” Communication Research, volume 39, number 6, pp. 781–801.
+doi: https://doi.org/10.1177/0093650211408593, accessed 23 January 2018.
+
+
+Anne Marie Warren, Ainin Sulaiman, and Noor Ismawati Jaafar, 2014. “Social media effects on fostering online civic engagement and building citizen trust and trust in institutions,” Government Information Quarterly, volume 31, number 2, pp. 291–301.
+doi: https://doi.org/10.1016/j.giq.2013.11.007, accessed 23 January 2018.
+
+
+Emily C. Weinstein, 2014. “The personal is political on social media: Online civic expression patterns and pathways among civically engaged youth,” International Journal of Communication, volume 8, pp. 210–233, and at http://ijoc.org/index.php/ijoc/article/view/2381, accessed 23 January 2018.
+
+
+Hongwei “Chris” Yang and Yingqi Wang, 2015. “Social sharing of online videos: Examining American consumers’ video sharing attitudes, intent, and behavior,” Psychology & Marketing, volume 32, number 9, pp. 907–919.
+doi: https://doi.org/10.1002/mar.2082, accessed 23 January 2018.
+
+
+ 
+
+
+
+
+Editorial history
+
+Received 11 October 2017; accepted 25 January 2018.
+
+
+
+
+
+Copyright © 2018, Michelle I. Seelig. All Rights Reserved.
+
+
+Social activism: Engaging millennials in social causes
+by Michelle I. Seelig.
+First Monday, Volume 23, Number 2 - 5 February 2018
+http://firstmonday.org/ojs/index.php/fm/article/view/8125/6642
+doi: http://dx.doi.org/10.5210/fm.v23i2.8125
+
+
+
+
+
+		
+
+		
+			
+					[image: Bookmark and Share]
+			
+			
+		
+
+	
+
+		
+
+
+
+
+
+
+
+
+A Great Cities Initiative of the University of Illinois at Chicago University Library.© First Monday, 1995-2018. ISSN 1396-0466.
+
+
+
+
+
+
+
+ 

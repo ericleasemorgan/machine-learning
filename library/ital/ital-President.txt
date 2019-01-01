@@ -1,0 +1,94 @@
+
+President’s Message Andromeda Yelton 
+ 
+
+INFORMATION TECHNOLOGY AND LIBRARIES | DECEMBER 2017 2 
+
+ 
+
+Andromeda Yelton (andromeda.yelton@gmail.com) is LITA President 2017-18 and Senior 
+Software Engineer, MIT Libraries, Cambridge, United States.  
+
+ 
+
+ 
+
+Before I dive into my column, I’d like to recognize and thank Bob Gerrity for his six years of service 
+as ITAL’s Editor in Chief. He oversaw our shift from a traditional print journal to a fully online one, 
+recognized by Micah Vandegrift and Chealsye Bowley as having the strongest open-access policies 
+of all LIS journals (http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/). I’d like to 
+further extend a welcome to Ken Varnum as our new Editor in Chief. Ken’s distinguished record of 
+LITA service includes stints on the ITAL Editorial Board and the LITA Board of Directors, so he 
+knows the journal very well and I am enthusiastic about its future under his lead. 
+
+I’m particularly curious to see what will be discussed in ITAL under Ken’s leadership because I’ve 
+just come back from two outstanding conferences which drove home the significance of the issues 
+we wrestle with in library technology, and I’m looking forward to a third. 
+
+In early November, I attended LITA Forum in scenic Denver. The schedule was packed with 
+sessions on intriguing topics – too many, of course, for me to attend them all – but two in 
+particular stand out to me. In one, Sam Kome detailed how he’s going about a privacy audit at the 
+Claremont Colleges Library. He walked us through an extensive – and sometimes surprising – list 
+of places personally identifiable information can lurk on library and campus systems, and talked 
+through what his library absolutely needs (which is less than he’d thought, and far less than the 
+library has been logging without thinking about it). In the other, Mary Catherine Lockmiller took a 
+design thinking approach to serving transgender populations. She shared a fantastic, practical 
+LibGuide (http://libguides.southmountaincc.edu/transgenderresources), but the part that stuck 
+with me most is her statement that many trans people may never physically enter a library 
+because public spaces are not safe spaces; for this population, our electronic services are our 
+public services. As technologists, we create the point of first, and maybe only, contact. 
+
+A week later, I attended the inaugural Data for Black Lives conference (http://d4bl.org/) at the 
+MIT Media Lab, steps from my office. This was – and I think everyone in the room felt it –
+something genuinely new. From the galvanizing topic, to the sophisticated visual and auditory 
+design, to the frisson of genius and creativity buzzing all around a room of artists, activists, 
+professors, poets, data scientists and software engineers, it was a remarkable experience for us all. 
+
+Those of you who heard Dr. Safiya Noble speak at Thomas Dowling’s LITA President’s program in 
+2016 are familiar with algorithmic bias. Numerous speakers discussed this at D4BL: the ways that 
+racial disparities in underlying data sets can be replicated, magnified, and given a veneer of 
+objective power when run through the black boxes that power predictive policing or risk 
+assessment for bail hearings. Absent and messy data was a theme as well: in a moment that would 
+make many librarians chuckle (and then wince) knowingly, a panel of music industry executives 
+estimated that 40% of their metadata is wrong, thus making it impossible to credit and 
+compensate artists appropriately. 
+
+  
+
+mailto:andromeda.yelton@gmail.com)
+https://www.google.com/url?q=http://www.inthelibrarywiththeleadpipe.org/2014/healthyself/&sa=D&ust=1512118443864000&usg=AFQjCNEDFyL-YwFgnAdmdzfCRVVnMHLhhQ
+http://libguides.southmountaincc.edu/transgenderresources
+http://d4bl.org/)
+Eric Lease Morgan
+
+
+
+
+ 
+
+PRESIDENT’S MESSAGE | YELTON 3 
+https://doi.org/10.6017/ital.v36i4.10238 
+
+And yet – in a memorable keynote – Dr. Ruha Benjamin called on us not only to collect data about 
+black death, as she showed us an image of the ambulance bill sent to Tamir Rice’s family, but to 
+listen to our artists and poets as we use our data to imagine black life – this in front of an image of 
+Wakanda. With our data and our creativity, what new worlds can we map? 
+
+Several of my MIT colleagues also attended D4BL, and as we discussed it afterward we started 
+thinking about how these ideas can drive our own work. How does the imaginary world of 
+Wakanda connect to the archival imaginary, and what worlds can we empower our own creators 
+to imagine with what we collect and preserve? How can we use our data literacy and access to 
+sometimes un-Googleable resources to help community groups collate data on important issues 
+that are not tracked by our public institutions, such as police violence 
+(https://mappingpoliceviolence.org/) or racial disparities in setting bail? 
+
+With these ideas swirling in my mind, I am looking forward with tremendous excitement to LITA 
+Forum 2018. Building on the work of our Forum Assessment Task Force, we’ll be doing a lot of 
+things differently; in particular, aiming for lots of hands-on, interactive sessions. This will be a 
+conference where, whether you’re a presenter or an attendee, you’ll be able to do things. And 
+these last two conferences have driven home for me how very much there is to do in of library 
+technology. Our work to select, collect, preserve, clean, and provide access to data can indeed have 
+enormous impact. Technology services are front-line services. 
+
+https://mappingpoliceviolence.org/)
+
